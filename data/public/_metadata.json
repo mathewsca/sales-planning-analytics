@@ -1,0 +1,20 @@
+{
+  "coletado_em": "2026-11-15",
+  "ufs": [
+    "GO",
+    "MT",
+    "MS",
+    "DF",
+    "TO"
+  ],
+  "municipios": 607,
+  "municipios_com_feriado_municipal": 364,
+  "fontes": {
+    "localidades": "https://servicodados.ibge.gov.br/api/v1/localidades",
+    "populacao": "SIDRA tabela 6579 (população residente estimada)",
+    "pib": "SIDRA tabela 5938 (PIB dos municípios, preços correntes)",
+    "coordenadas": "https://raw.githubusercontent.com/kelvins/municipios-brasileiros/main/csv/municipios.csv",
+    "feriados_nacionais_estaduais": "pacote python holidays",
+    "feriados_municipais": "github.com/joaopbini/feriados-brasil"
+  }
+}

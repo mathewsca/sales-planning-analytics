@@ -1,0 +1,71 @@
+# Parâmetros do gerador sintético (ordens de grandeza plausíveis para um atacado distribuidor).
+# Nenhum valor aqui é estatística real de empresa: são parâmetros de simulação.
+seed: 42
+period:
+  start: "2023-02-01"
+  end: "2026-02-18"
+snapshot_date: "2026-02-18"   # "hoje": meio de fevereiro (mês corrente em andamento)
+
+scale:              # cenário base; o CI usa uma fração (GEN_SCALE)
+  clientes: 6000
+  produtos: 2500
+  fornecedores: 24
+  coordenadores: 5
+  supervisores: 15
+  representantes: 120
+  vendedores_internos: 16
+
+# filiais em cidades-polo (código IBGE); municípios são atendidos pela filial mais próxima
+filiais: [5208707, 5300108, 5103403, 5002704, 1721000, 5218805]
+cobertura_raio_km: 420        # além disso, o município tende a não ser atendido (mercado não explorado)
+
+potencial:                    # potencial municipal = populacao^a * pib_per_capita^b (modelo gravitacional)
+  a: 0.85
+  b: 0.6
+
+clientes:
+  porte_p: {Micro: 0.12, Pequeno: 0.38, Medio: 0.37, Grande: 0.13}
+  porte_mult: {Micro: 0.45, Pequeno: 0.75, Medio: 1.0, Grande: 2.1}
+  segmentos: 6
+  pedidos_mes_mediana: 0.55   # taxa base de pedidos/mês (heterogênea entre clientes)
+  pedidos_mes_sd_log: 0.6
+  share_televenda: 0.22       # clientes atendidos também pelo televendas (vendedor interno)
+  p_pedido_televenda: 0.7
+
+pedido:
+  linhas_media: 9
+  qtd_media: 7
+  preco_mediana: 15.61        # perturbado ±1–5% em relação à referência (privacidade)
+  preco_sd_log: 1.35
+  popularidade_sd_log: 1.6
+  jitter: [0.01, 0.05]        # perturbação por linha (privacidade)
+  share_devolucao: 0.002
+
+calendario:
+  dia_semana: [1.00, 0.97, 1.08, 1.03, 0.90, 0.11, 0.0]   # seg..dom (sábado meio expediente)
+  vespera_feriado: 1.25      # antecipação de compras
+  ponte: 0.5                 # emenda de feriado
+  sazonalidade_mes: [0.92, 0.95, 1.05, 0.98, 1.05, 1.00, 1.00, 1.03, 1.00, 1.05, 1.02, 0.95]
+  tendencia_ano: 0.06        # crescimento nominal anual
+
+equipe:
+  habilidade_sd_log: 0.22    # habilidade latente do representante (verdade do oráculo)
+
+campanhas:
+  por_mes: [4, 5]
+  skus_mediana: 45
+  tipos_p: {F: 0.85, Q: 0.10, V: 0.05}   # F = faturamento (R$), Q = quantidade, V = positivação
+  uplift_mediana: 0.35       # incremento verdadeiro na escolha dos SKUs da campanha
+  uplift_sd_log: 0.45
+  dip_frac: 0.35             # antecipação: queda no mês seguinte = dip_frac * uplift
+  selecao_giro: 0.6          # >0: campanhas preferem SKUs de giro lento (viés de seleção)
+  meta_crescimento: 0.30
+  meta_interno_frac: 0.20
+
+metas_legado:
+  crescimento: 0.10          # meta = (1+g) * max(mesmo mês do ano anterior, média dos últimos 3 meses)
+
+shock:                       # cenário de choque (--scenario shock): retração regional
+  start: "2025-12-01"
+  uf: MT
+  mult: 0.72

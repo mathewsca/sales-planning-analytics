@@ -1,0 +1,34 @@
+name: sales_planning_analytics
+version: "1.0.0"
+config-version: 2
+profile: sales_planning_analytics
+
+model-paths: ["models"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+vars:
+  # "hoje" do warehouse; mesmo valor do gerador (config/generator.yaml)
+  snapshot_date: "{{ env_var('SNAPSHOT_DATE', '2026-02-18') }}"
+  # regra legada das metas de campanha: histórico x (1 + g); mesmo valor de
+  # campanhas.meta_crescimento em config/generator.yaml
+  meta_crescimento_campanha: 0.30
+
+models:
+  sales_planning_analytics:
+    staging:
+      +materialized: view
+      +schema: staging
+    marts:
+      +materialized: table
+      +schema: marts
+    ml:
+      +materialized: table
+      +schema: ml
+    reporting:
+      # dependem das saídas dos modelos (ml.*): rodam depois do treino, com `dbt build -s tag:reporting`
+      +materialized: table
+      +schema: marts
+      +tags: ["reporting"]

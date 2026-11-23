@@ -1,0 +1,25 @@
+version: 2
+
+models:
+  - name: stg_erp__vendas_itens
+    columns:
+      - name: qtd_itens
+        data_tests: [not_null]
+      - name: vlr_liquido
+        data_tests: [not_null]
+  - name: stg_erp__clientes
+    columns:
+      - name: cod_cliente
+        data_tests: [unique, not_null]
+      - name: cod_ibge
+        data_tests:
+          - relationships:
+              arguments: { to: ref('stg_public__municipios'), field: cod_ibge }
+  - name: stg_public__municipios
+    columns:
+      - name: cod_ibge
+        data_tests: [unique, not_null]
+  - name: stg_public__feriados
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["data", "cod_ibge"] }

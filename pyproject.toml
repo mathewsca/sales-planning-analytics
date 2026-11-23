@@ -1,0 +1,54 @@
+[project]
+name = "sales-planning-analytics"
+version = "1.0.0"
+description = "Previsão hierárquica de vendas, metas da equipe comercial e efeito causal de campanhas: dados públicos (IBGE, feriados), PostgreSQL, dbt, Airflow, MLflow, FastAPI e Apache Superset."
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [{ name = "Mathews Carvalho" }]
+license = "MIT"
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "pyarrow>=15",
+    "faker>=25",
+    "sqlalchemy>=2.0",
+    "psycopg[binary]>=3.1",
+    "pyyaml>=6",
+    "requests>=2.32",
+    "holidays>=0.60",
+    "scipy>=1.12",
+    "scikit-learn>=1.6",
+    "statsmodels>=0.14",
+    "lightgbm>=4.3",
+    "statsforecast>=2.0",
+    "mlforecast>=1.0",
+    "hierarchicalforecast>=1.0",
+    "mlflow>=2.16",
+    "pandera>=0.20",
+]
+
+[project.optional-dependencies]
+api = ["fastapi>=0.115", "uvicorn[standard]>=0.30", "pydantic>=2.7"]
+dbt = ["dbt-core>=1.10,<1.13", "dbt-postgres>=1.9,<1.12"]
+dev = ["pytest>=8", "ruff>=0.6", "pre-commit>=3.7", "httpx>=0.27", "playwright>=1.45"]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py311"
+extend-exclude = ["dbt/target", "dbt/dbt_packages"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP", "SIM", "PD"]
+ignore = ["PD011", "PD010", "PD015", "PD008", "E501"]  # E501: o formatter controla o tamanho das linhas
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]  # o pacote `api` (FastAPI) fica na raiz, fora de src/
+addopts = "-q"

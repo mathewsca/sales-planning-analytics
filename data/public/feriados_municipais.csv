@@ -1,0 +1,3677 @@
+data,cod_ibge,uf,nome
+2022-11-14,5201405,GO,Emancipação política
+2022-10-21,5204508,GO,Aniversário da Cidade
+2022-05-24,5208707,GO,Nossa Senhora Auxiliadora
+2022-10-24,5208707,GO,Aniversário de Goiânia
+2022-11-20,5208707,GO,Dia da Consciência Negra
+2022-07-26,5208905,GO,Fundação da Cidade
+2022-03-19,5209937,GO,São José
+2022-03-19,5210000,GO,São José
+2022-03-19,5213905,GO,São José
+2022-03-19,5214606,GO,São José
+2022-10-08,5216809,GO,Aniversário da Cidade
+2022-03-19,5217609,GO,São José
+2022-06-16,5219100,GO,Corpus Christi
+2022-10-23,5219100,GO,Aniversário da cidade
+2022-12-04,5219100,GO,Santa Bárbara
+2022-06-15,5221858,GO,Aniversário
+2022-10-04,5221858,GO,Dia do Padroeiro
+2022-11-30,5221858,GO,Dia do Evangélico
+2022-03-19,5222005,GO,São José
+2022-04-21,5300108,DF,Aniversário de Brasília
+2022-08-15,5200100,GO,Feriado Municipal
+2022-04-04,5200134,GO,Feriado Municipal
+2022-05-14,5200134,GO,Feriado Municipal
+2022-11-30,5200258,GO,Feriado Municipal
+2022-12-15,5200258,GO,Feriado Municipal
+2022-09-15,5200308,GO,Feriado Municipal
+2022-11-14,5200308,GO,Feriado Municipal
+2022-01-20,5200506,GO,Feriado Municipal
+2022-06-17,5200506,GO,Feriado Municipal
+2022-08-15,5200605,GO,Feriado Municipal
+2022-11-27,5200605,GO,Feriado Municipal
+2022-12-12,5200605,GO,Feriado Municipal
+2022-09-08,5200803,GO,Feriado Municipal
+2022-07-26,5201108,GO,Padroeira
+2022-07-31,5201108,GO,Aniversário
+2022-06-07,5201306,GO,Feriado Municipal
+2022-08-28,5201504,GO,Feriado Municipal
+2022-11-14,5201504,GO,Feriado Municipal
+2022-08-06,5201702,GO,Feriado Municipal
+2022-11-20,5201702,GO,Dia da Consciência Negra
+2022-05-14,5202155,GO,Feriado Municipal
+2022-08-15,5202155,GO,Feriado Municipal
+2022-05-14,5202353,GO,Feriado Municipal
+2022-06-29,5202353,GO,Feriado Municipal
+2022-12-18,5202502,GO,Feriado Municipal
+2022-12-13,5202601,GO,Feriado Municipal
+2022-08-15,5203203,GO,Feriado Municipal
+2022-11-14,5203203,GO,Feriado Municipal
+2022-06-05,5203302,GO,Feriado Municipal
+2022-06-23,5203401,GO,Feriado Municipal
+2022-06-24,5203401,GO,Feriado Municipal
+2022-08-18,5203401,GO,Feriado Municipal
+2022-08-06,5203500,GO,Feriado Municipal
+2022-11-07,5203500,GO,Feriado Municipal
+2022-01-25,5203807,GO,Feriado Municipal
+2022-06-29,5203807,GO,Feriado Municipal
+2022-06-24,5203906,GO,Feriado Municipal
+2022-08-15,5203906,GO,Feriado Municipal
+2022-08-23,5204003,GO,Feriado Municipal
+2022-11-14,5204003,GO,Feriado Municipal
+2022-08-15,5204102,GO,Feriado Municipal
+2022-09-24,5204102,GO,Feriado Municipal
+2022-01-20,5204250,GO,Feriado Municipal
+2022-05-14,5204250,GO,Feriado Municipal
+2022-09-16,5204300,GO,Feriado Municipal
+2022-01-20,5204409,GO,Feriado Municipal
+2022-07-29,5204409,GO,Feriado Municipal
+2022-11-01,5204409,GO,Feriado Municipal
+2022-09-15,5204508,GO,Feriado Municipal
+2022-01-20,5204557,GO,Feriado Municipal
+2022-04-29,5204557,GO,Feriado Municipal
+2022-08-15,5204557,GO,Feriado Municipal
+2022-05-31,5204607,GO,Feriado Municipal
+2022-12-08,5204706,GO,Feriado Municipal
+2022-09-08,5204805,GO,Feriado Municipal
+2022-11-12,5204805,GO,Feriado Municipal
+2022-12-08,5204904,GO,Feriado Municipal
+2022-06-13,5204953,GO,Dia de Santo Antônio
+2022-06-11,5205000,GO,Feriado Municipal
+2022-11-14,5205000,GO,Feriado Municipal
+2022-01-16,5205059,GO,Feriado Municipal
+2022-06-16,5205059,GO,Feriado Municipal
+2022-08-20,5205109,GO,Feriado Municipal
+2022-07-26,5205307,GO,Feriado Municipal
+2022-08-15,5205307,GO,Feriado Municipal
+2022-09-16,5205307,GO,Feriado Municipal
+2022-11-11,5205307,GO,Feriado Municipal
+2022-11-30,5205307,GO,Feriado Municipal
+2022-03-17,5205406,GO,Feriado Municipal
+2022-07-16,5205406,GO,Feriado Municipal
+2022-09-04,5205406,GO,Feriado Municipal
+2022-12-08,5205406,GO,Feriado Municipal
+2022-05-14,5205455,GO,Feriado Municipal
+2022-07-25,5205455,GO,Feriado Municipal
+2022-08-21,5205471,GO,Feriado Municipal
+2022-08-22,5205471,GO,Feriado Municipal
+2022-06-13,5205497,GO,Dia de Santo Antônio
+2022-10-31,5205497,GO,Feriado Municipal
+2022-12-09,5205497,GO,Feriado Municipal
+2022-06-13,5205513,GO,Dia de Santo Antônio
+2022-07-03,5205513,GO,Feriado Municipal
+2022-11-30,5205513,GO,Feriado Municipal
+2022-09-24,5205703,GO,Feriado Municipal
+2022-01-20,5205802,GO,Feriado Municipal
+2022-07-09,5205802,GO,Feriado Municipal
+2022-09-08,5205802,GO,Feriado Municipal
+2022-11-30,5205802,GO,Feriado Municipal
+2022-05-28,5205901,GO,Feriado Municipal
+2022-08-06,5205901,GO,Feriado Municipal
+2022-01-20,5206206,GO,Feriado Municipal
+2022-05-16,5206206,GO,Feriado Municipal
+2022-07-18,5206206,GO,Feriado Municipal
+2022-10-31,5206206,GO,Feriado Municipal
+2022-06-23,5206305,GO,Feriado Municipal
+2022-10-30,5206404,GO,Feriado Municipal
+2022-12-08,5206404,GO,Feriado Municipal
+2022-11-12,5206503,GO,Feriado Municipal
+2022-12-04,5206503,GO,Feriado Municipal
+2022-01-20,5206602,GO,Feriado Municipal
+2022-07-10,5206602,GO,Feriado Municipal
+2022-07-14,5206602,GO,Feriado Municipal
+2022-12-10,5206602,GO,Feriado Municipal
+2022-04-30,5206701,GO,Feriado Municipal
+2022-11-14,5206701,GO,Feriado Municipal
+2022-06-13,5206800,GO,Dia de Santo Antônio
+2022-11-14,5206800,GO,Feriado Municipal
+2022-12-17,5207105,GO,Feriado Municipal
+2022-01-20,5208301,GO,Feriado Municipal
+2022-06-24,5208301,GO,Feriado Municipal
+2022-08-10,5208301,GO,Feriado Municipal
+2022-11-14,5208301,GO,Feriado Municipal
+2022-05-14,5207253,GO,Feriado Municipal
+2022-09-29,5207253,GO,Feriado Municipal
+2022-06-13,5207402,GO,Dia de Santo Antônio
+2022-08-15,5207600,GO,Feriado Municipal
+2022-09-08,5207808,GO,Feriado Municipal
+2022-11-14,5207907,GO,Feriado Municipal
+2022-11-20,5207907,GO,Dia da Consciência Negra
+2022-08-01,5208004,GO,Feriado Municipal
+2022-12-08,5208004,GO,Feriado Municipal
+2022-08-04,5208103,GO,Feriado Municipal
+2022-09-25,5208103,GO,Feriado Municipal
+2022-06-23,5208400,GO,Feriado Municipal
+2022-11-14,5208400,GO,Feriado Municipal
+2022-12-24,5208400,GO,Feriado Municipal
+2022-01-20,5208509,GO,Feriado Municipal
+2022-05-06,5208509,GO,Feriado Municipal
+2022-06-30,5208509,GO,Feriado Municipal
+2022-11-01,5208509,GO,Feriado Municipal
+2022-12-08,5208509,GO,Feriado Municipal
+2022-06-24,5208608,GO,Feriado Municipal
+2022-07-14,5208608,GO,Feriado Municipal
+2022-08-15,5208608,GO,Feriado Municipal
+2022-09-27,5208608,GO,Feriado Municipal
+2022-01-04,5208806,GO,Feriado Municipal
+2022-03-25,5208806,GO,Feriado Municipal
+2022-12-08,5208905,GO,Feriado Municipal
+2022-01-20,5209101,GO,Feriado Municipal
+2022-01-21,5209101,GO,Feriado Municipal
+2022-06-01,5209150,GO,Feriado Municipal
+2022-06-24,5209150,GO,Feriado Municipal
+2022-05-14,5209200,GO,Feriado Municipal
+2022-06-13,5209705,GO,Dia de Santo Antônio
+2022-11-05,5209705,GO,Feriado Municipal
+2022-11-14,5209804,GO,Feriado Municipal
+2022-11-14,5209903,GO,Feriado Municipal
+2022-04-29,5209937,GO,Feriado Municipal
+2022-02-01,5209952,GO,Feriado Municipal
+2022-04-22,5209952,GO,Feriado Municipal
+2022-05-14,5209952,GO,Feriado Municipal
+2022-07-26,5210000,GO,Feriado Municipal
+2022-08-15,5210109,GO,Feriado Municipal
+2022-09-12,5210109,GO,Feriado Municipal
+2022-05-24,5210208,GO,Feriado Municipal
+2022-11-19,5210208,GO,Feriado Municipal
+2022-01-20,5210406,GO,Feriado Municipal
+2022-08-15,5210406,GO,Feriado Municipal
+2022-11-09,5210406,GO,Feriado Municipal
+2022-01-20,5210604,GO,Feriado Municipal
+2022-11-14,5210604,GO,Feriado Municipal
+2022-06-24,5210802,GO,Feriado Municipal
+2022-11-14,5210802,GO,Feriado Municipal
+2022-11-20,5210802,GO,Dia da Consciência Negra
+2022-08-11,5210901,GO,Feriado Municipal
+2022-08-08,5211008,GO,Feriado Municipal
+2022-11-14,5211008,GO,Feriado Municipal
+2022-01-06,5211206,GO,Feriado Municipal
+2022-01-20,5211305,GO,Feriado Municipal
+2022-07-21,5211305,GO,Feriado Municipal
+2022-08-15,5211305,GO,Feriado Municipal
+2022-08-15,5211404,GO,Feriado Municipal
+2022-05-22,5211503,GO,Feriado Municipal
+2022-08-15,5211701,GO,Feriado Municipal
+2022-01-20,5211800,GO,Feriado Municipal
+2022-07-29,5211800,GO,Feriado Municipal
+2022-09-08,5211800,GO,Feriado Municipal
+2022-05-31,5211909,GO,Feriado Municipal
+2022-08-15,5212105,GO,Feriado Municipal
+2022-11-14,5212105,GO,Feriado Municipal
+2022-11-14,5212204,GO,Feriado Municipal
+2022-11-27,5212204,GO,Feriado Municipal
+2022-01-20,5212303,GO,Feriado Municipal
+2022-05-24,5212303,GO,Feriado Municipal
+2022-08-15,5212303,GO,Feriado Municipal
+2022-09-02,5212303,GO,Feriado Municipal
+2022-11-30,5212501,GO,Dia do Evangélico
+2022-12-13,5212501,GO,Aniversário de Luziânia
+2022-11-13,5212600,GO,Feriado Municipal
+2022-11-14,5212709,GO,Feriado Municipal
+2022-12-08,5212709,GO,Feriado Municipal
+2022-06-13,5212808,GO,Dia de Santo Antônio
+2022-09-02,5212808,GO,Feriado Municipal
+2022-11-30,5212808,GO,Feriado Municipal
+2022-06-01,5212956,GO,Feriado Municipal
+2022-12-13,5212956,GO,Feriado Municipal
+2022-11-14,5213004,GO,Feriado Municipal
+2022-05-14,5213087,GO,Feriado Municipal
+2022-10-31,5213103,GO,Feriado Municipal
+2022-06-13,5213509,GO,Dia de Santo Antônio
+2022-08-15,5213509,GO,Feriado Municipal
+2022-08-15,5213756,GO,Feriado Municipal
+2022-12-30,5213756,GO,Feriado Municipal
+2022-07-16,5213806,GO,Feriado Municipal
+2022-08-29,5213806,GO,Aniversário da Cidade
+2022-11-14,5213905,GO,Feriado Municipal
+2022-06-27,5214002,GO,Feriado Municipal
+2022-06-10,5214051,GO,Feriado Municipal
+2022-08-25,5214408,GO,Feriado Municipal
+2022-08-03,5214507,GO,Feriado Municipal
+2022-07-25,5214606,GO,Feriado Municipal
+2022-08-15,5214606,GO,Feriado Municipal
+2022-01-20,5214804,GO,Feriado Municipal
+2022-05-13,5214804,GO,Feriado Municipal
+2022-08-15,5214804,GO,Feriado Municipal
+2022-11-13,5214804,GO,Feriado Municipal
+2022-02-01,5214838,GO,Feriado Municipal
+2022-06-13,5214838,GO,Dia de Santo Antônio
+2022-06-10,5214861,GO,Feriado Municipal
+2022-08-15,5214861,GO,Feriado Municipal
+2022-09-27,5214861,GO,Feriado Municipal
+2022-07-16,5215009,GO,Feriado Municipal
+2022-11-14,5215009,GO,Feriado Municipal
+2022-06-15,5215231,GO,Feriado Municipal
+2022-11-30,5215231,GO,Feriado Municipal
+2022-12-08,5215231,GO,Feriado Municipal
+2022-06-01,5215256,GO,Feriado Municipal
+2022-06-02,5215256,GO,Feriado Municipal
+2022-06-29,5215256,GO,Feriado Municipal
+2022-07-02,5215256,GO,Feriado Municipal
+2022-08-06,5215256,GO,Feriado Municipal
+2022-09-15,5215306,GO,Feriado Municipal
+2022-05-09,5215603,GO,Feriado Municipal
+2022-07-16,5215603,GO,Feriado Municipal
+2022-11-01,5215603,GO,Feriado Municipal
+2022-01-20,5215702,GO,Feriado Municipal
+2022-07-06,5215702,GO,Feriado Municipal
+2022-11-01,5216304,GO,Feriado Municipal
+2022-12-08,5216304,GO,Feriado Municipal
+2022-08-15,5216403,GO,Feriado Municipal
+2022-11-10,5216403,GO,Feriado Municipal
+2022-09-08,5216809,GO,Feriado Municipal
+2022-08-15,5217104,GO,Feriado Municipal
+2022-11-01,5217104,GO,Feriado Municipal
+2022-11-22,5217104,GO,Feriado Municipal
+2022-06-13,5217203,GO,Dia de Santo Antônio
+2022-06-13,5217401,GO,Dia de Santo Antônio
+2022-11-09,5217401,GO,Feriado Municipal
+2022-11-30,5217609,GO,Feriado Municipal
+2022-05-22,5217708,GO,Feriado Municipal
+2022-10-31,5217708,GO,Feriado Municipal
+2022-08-25,5218003,GO,Feriado Municipal
+2022-09-15,5218003,GO,Feriado Municipal
+2022-12-13,5218003,GO,Feriado Municipal
+2022-11-14,5218102,GO,Feriado Municipal
+2022-07-19,5218300,GO,Feriado Municipal
+2022-07-26,5218300,GO,Feriado Municipal
+2022-01-22,5218508,GO,Feriado Municipal
+2022-08-15,5218508,GO,Feriado Municipal
+2022-03-17,5218607,GO,Feriado Municipal
+2022-05-31,5218607,GO,Feriado Municipal
+2022-07-16,5218607,GO,Feriado Municipal
+2022-09-04,5218607,GO,Feriado Municipal
+2022-12-18,5218706,GO,Feriado Municipal
+2022-01-20,5218789,GO,Feriado Municipal
+2022-05-11,5218789,GO,Feriado Municipal
+2022-01-20,5218805,GO,Dia de São Sebastião (Padroeiro)
+2022-08-05,5218805,GO,Aniversário de Rio Verde
+2022-08-15,5218904,GO,Feriado Municipal
+2022-01-05,5219001,GO,Feriado Municipal
+2022-08-15,5219001,GO,Feriado Municipal
+2022-12-08,5219209,GO,Feriado Municipal
+2022-06-01,5219258,GO,Feriado Municipal
+2022-05-18,5219308,GO,Feriado Municipal
+2022-08-20,5219308,GO,Feriado Municipal
+2022-05-22,5219407,GO,Feriado Municipal
+2022-11-20,5219407,GO,Dia da Consciência Negra
+2022-08-15,5219506,GO,Feriado Municipal
+2022-11-14,5219506,GO,Feriado Municipal
+2022-03-08,5219753,GO,Feriado Municipal
+2022-05-14,5219753,GO,Feriado Municipal
+2022-06-13,5219753,GO,Dia de Santo Antônio
+2022-11-30,5219753,GO,Feriado Municipal
+2022-08-04,5219803,GO,Feriado Municipal
+2022-08-06,5219803,GO,Feriado Municipal
+2022-12-13,5219803,GO,Feriado Municipal
+2022-09-08,5219902,GO,Feriado Municipal
+2022-01-20,5220009,GO,Feriado Municipal
+2022-06-24,5220009,GO,Feriado Municipal
+2022-08-15,5220009,GO,Feriado Municipal
+2022-11-13,5220009,GO,Feriado Municipal
+2022-12-24,5220009,GO,Feriado Municipal
+2022-06-21,5220108,GO,Feriado Municipal
+2022-09-29,5220207,GO,Feriado Municipal
+2022-11-14,5220207,GO,Feriado Municipal
+2022-01-09,5220264,GO,Feriado Municipal
+2022-09-29,5220264,GO,Feriado Municipal
+2022-11-14,5220405,GO,Feriado Municipal
+2022-05-24,5220454,GO,Feriado Municipal
+2022-06-01,5220454,GO,Feriado Municipal
+2022-05-13,5220504,GO,Feriado Municipal
+2022-11-14,5220504,GO,Feriado Municipal
+2022-09-14,5220603,GO,Feriado Municipal
+2022-06-13,5221304,GO,Dia de Santo Antônio
+2022-08-15,5221304,GO,Feriado Municipal
+2022-06-28,5221403,GO,Feriado Municipal
+2022-06-29,5221403,GO,Feriado Municipal
+2022-07-02,5221403,GO,Feriado Municipal
+2022-08-31,5221403,GO,Feriado Municipal
+2022-06-14,5221502,GO,Feriado Municipal
+2022-11-14,5221502,GO,Feriado Municipal
+2022-06-01,5221551,GO,Feriado Municipal
+2022-08-05,5221551,GO,Feriado Municipal
+2022-07-04,5221601,GO,Feriado Municipal
+2022-07-26,5221601,GO,Feriado Municipal
+2022-01-20,5221700,GO,Feriado Municipal
+2022-09-14,5221700,GO,Feriado Municipal
+2022-08-06,5221809,GO,Feriado Municipal
+2022-04-15,5221858,GO,Sexta-feira da Paixão
+2022-08-19,5222005,GO,Feriado Municipal
+2022-01-20,5222054,GO,Feriado Municipal
+2022-06-10,5222054,GO,Feriado Municipal
+2022-02-08,5000203,MS,Aniversário
+2022-10-31,5000203,MS,Dia do Evangélico
+2022-05-24,5000609,MS,Feriado Municipal
+2022-09-28,5000609,MS,Feriado Municipal
+2022-02-11,5000708,MS,Feriado Municipal
+2022-05-08,5000708,MS,Feriado Municipal
+2022-06-24,5000807,MS,Feriado Municipal
+2022-11-11,5000807,MS,Feriado Municipal
+2022-05-13,5000856,MS,Feriado Municipal
+2022-06-29,5000856,MS,Feriado Municipal
+2022-03-18,5000906,MS,Feriado Municipal
+2022-06-27,5000906,MS,Feriado Municipal
+2022-09-28,5001003,MS,Feriado Municipal
+2022-08-15,5001102,MS,Feriado Municipal
+2022-12-08,5001102,MS,Feriado Municipal
+2022-05-13,5001243,MS,Feriado Municipal
+2022-06-20,5001508,MS,Feriado Municipal
+2022-06-24,5001904,MS,Feriado Municipal
+2022-08-15,5001904,MS,Feriado Municipal
+2022-12-11,5001904,MS,Feriado Municipal
+2022-07-20,5002100,MS,Feriado Municipal
+2022-08-01,5002100,MS,Feriado Municipal
+2022-12-08,5002100,MS,Feriado Municipal
+2022-01-06,5002159,MS,Feriado Municipal
+2022-05-13,5002159,MS,Feriado Municipal
+2022-06-27,5002159,MS,Feriado Municipal
+2022-06-29,5002209,MS,Padroeiro
+2022-04-25,5002308,MS,Feriado Municipal
+2022-08-06,5002407,MS,Feriado Municipal
+2022-12-26,5002407,MS,Feriado Municipal
+2022-06-24,5002605,MS,Feriado Municipal
+2022-09-30,5002605,MS,Feriado Municipal
+2022-04-15,5002704,MS,Sexta-feira Santa
+2022-06-13,5002704,MS,Dia de Santo Antônio
+2022-06-16,5002704,MS,Corpus Christi
+2022-08-26,5002704,MS,Aniversário de Campo Grande
+2022-06-19,5002803,MS,Feriado Municipal
+2022-03-19,5002902,MS,São José
+2022-08-03,5002902,MS,Aniversário do município
+2022-06-29,5002951,MS,Feriado Municipal
+2022-12-08,5003157,MS,Feriado Municipal
+2022-12-15,5003157,MS,Feriado Municipal
+2022-02-02,5003207,MS,Nossa Sra da Candelária
+2022-05-09,5007307,MS,Feriado Municipal
+2022-04-15,5003207,MS,Sexta-feira da Paixão
+2022-06-13,5003207,MS,Retomada de Corumbá
+2022-09-21,5003207,MS,Fundação de Corumbá
+2022-11-20,5003207,MS,Dia da Consciência Negra
+2022-05-12,5003256,MS,Feriado Municipal
+2022-06-13,5003256,MS,Dia de Santo Antônio
+2022-03-19,5003306,MS,São José
+2022-04-11,5003306,MS,Feriado Municipal
+2022-05-13,5003454,MS,Feriado Municipal
+2022-11-13,5003488,MS,Feriado Municipal
+2022-05-12,5003504,MS,Feriado Municipal
+2022-12-08,5003702,MS,Feriado Municipal
+2022-12-20,5003702,MS,Feriado Municipal
+2022-05-13,5003751,MS,Feriado Municipal
+2022-05-13,5003801,MS,Feriado Municipal
+2022-07-09,5003801,MS,Feriado Municipal
+2022-08-15,5003900,MS,Feriado Municipal
+2022-09-29,5003900,MS,Feriado Municipal
+2022-05-02,5004007,MS,Feriado Municipal
+2022-08-15,5004007,MS,Feriado Municipal
+2022-03-19,5004106,MS,São José
+2022-05-08,5004304,MS,Feriado Municipal
+2022-12-08,5004304,MS,Feriado Municipal
+2022-04-04,5004403,MS,Feriado Municipal
+2022-08-06,5004403,MS,Feriado Municipal
+2022-03-19,5004502,MS,São José
+2022-11-20,5004502,MS,Dia da Consciência Negra
+2022-12-10,5004502,MS,Feriado Municipal
+2022-05-13,5004601,MS,Feriado Municipal
+2022-06-27,5004601,MS,Feriado Municipal
+2022-01-25,5004700,MS,Feriado Municipal
+2022-11-11,5004700,MS,Feriado Municipal
+2022-03-31,5004809,MS,Feriado Municipal
+2022-04-30,5004809,MS,Feriado Municipal
+2022-05-14,5005004,MS,Feriado Municipal
+2022-06-13,5005004,MS,Dia de Santo Antônio
+2022-06-29,5005103,MS,Feriado Municipal
+2022-11-11,5005103,MS,Feriado Municipal
+2022-12-13,5005103,MS,Feriado Municipal
+2022-12-13,5005152,MS,Feriado Municipal
+2022-12-14,5005152,MS,Feriado Municipal
+2022-09-02,5005202,MS,Feriado Municipal
+2022-11-20,5005202,MS,Dia da Consciência Negra
+2022-04-22,5005251,MS,Feriado Municipal
+2022-05-26,5005251,MS,Feriado Municipal
+2022-06-11,5005400,MS,Aniversário da Cidade
+2022-04-19,5005608,MS,Feriado Municipal
+2022-07-16,5005608,MS,Feriado Municipal
+2022-12-08,5005608,MS,Feriado Municipal
+2022-05-13,5005681,MS,Feriado Municipal
+2022-05-13,5005707,MS,Feriado Municipal
+2022-11-11,5005707,MS,Feriado Municipal
+2022-04-08,5005806,MS,Feriado Municipal
+2022-04-19,5005806,MS,Dia do ìndio
+2022-05-22,5005806,MS,Feriado Municipal
+2022-07-18,5005806,MS,Feriado Municipal
+2022-07-25,5006002,MS,Feriado Municipal
+2022-04-30,5006200,MS,Feriado Municipal
+2022-05-31,5006200,MS,Feriado Municipal
+2022-04-30,5006259,MS,Feriado Municipal
+2022-06-14,5006259,MS,Feriado Municipal
+2022-07-04,5006309,MS,Feriado Municipal
+2022-07-26,5006309,MS,Feriado Municipal
+2022-06-24,5006358,MS,Feriado Municipal
+2022-11-17,5006358,MS,Feriado Municipal
+2022-12-08,5006358,MS,Feriado Municipal
+2022-01-20,5006408,MS,Feriado Municipal
+2022-11-11,5006408,MS,Feriado Municipal
+2022-03-19,5006606,MS,São José
+2022-07-18,5006606,MS,Aniversário da Cidade
+2022-06-13,5006903,MS,Dia de Santo Antônio
+2022-06-15,5006903,MS,Feriado Municipal
+2022-06-24,5006903,MS,Feriado Municipal
+2022-12-08,5006903,MS,Feriado Municipal
+2022-01-20,5007109,MS,Feriado Municipal
+2022-03-19,5007109,MS,São José
+2022-12-08,5007109,MS,Feriado Municipal
+2022-09-26,5007208,MS,Feriado Municipal
+2022-12-08,5007208,MS,Feriado Municipal
+2022-05-13,5007307,MS,Feriado Municipal
+2022-05-24,5007406,MS,Feriado Municipal
+2022-12-16,5007406,MS,Feriado Municipal
+2022-08-06,5007505,MS,Bom Jesus de Rochedo
+2022-11-23,5007505,MS,Feriado Municipal
+2022-05-22,5007554,MS,Feriado Municipal
+2022-12-18,5007554,MS,Feriado Municipal
+2022-05-12,5007695,MS,Feriado Municipal
+2022-09-29,5007695,MS,Feriado Municipal
+2022-05-12,5007802,MS,Feriado Municipal
+2022-06-24,5007802,MS,Feriado Municipal
+2022-05-13,5007703,MS,Feriado Municipal
+2022-08-15,5007703,MS,Feriado Municipal
+2022-12-08,5007703,MS,Feriado Municipal
+2022-08-15,5007901,MS,Feriado Municipal
+2022-12-11,5007901,MS,Feriado Municipal
+2022-06-03,5007935,MS,Feriado Municipal
+2022-01-20,5007950,MS,Feriado Municipal
+2022-05-13,5007950,MS,Feriado Municipal
+2022-12-08,5007950,MS,Feriado Municipal
+2022-05-12,5007976,MS,Feriado Municipal
+2022-05-08,5008008,MS,Feriado Municipal
+2022-06-13,5008008,MS,Dia de Santo Antônio
+2022-06-15,5008305,MS,Aniversário da Cidade
+2022-05-25,5008404,MS,Feriado Municipal
+2022-06-20,5008404,MS,Feriado Municipal
+2022-09-12,5008404,MS,Feriado Municipal
+2022-12-08,5008404,MS,Feriado Municipal
+2022-05-19,5100250,MT,Feriado Municipal
+2022-05-24,5100300,MT,Feriado Municipal
+2022-01-20,5100409,MT,Feriado Municipal
+2022-12-10,5100409,MT,Feriado Municipal
+2022-03-19,5100508,MT,São José
+2022-08-06,5100508,MT,Feriado Municipal
+2022-12-16,5100508,MT,Feriado Municipal
+2022-03-19,5100607,MT,"Dia de São José, padroeiro da cidade"
+2022-05-13,5100607,MT,Aniversário da cidade
+2022-05-14,5101001,MT,Feriado Municipal
+2022-02-02,5101258,MT,Emancipação Política
+2022-05-13,5101258,MT,Feriado Municipal
+2022-05-23,5101258,MT,Feriado Municipal
+2022-01-20,5101308,MT,Feriado Municipal
+2022-02-05,5101308,MT,Feriado Municipal
+2022-08-06,5101308,MT,Feriado Municipal
+2022-07-26,5101407,MT,Feriado Municipal
+2022-10-31,5101407,MT,Feriado Municipal
+2022-04-19,5101704,MT,Feriado Municipal
+2022-09-14,5101704,MT,Feriado Municipal
+2022-06-13,5101803,MT,Dia de Santo Antônio
+2022-09-15,5101803,MT,Feriado Municipal
+2022-06-01,5101902,MT,Feriado Municipal
+2022-08-25,5102504,MT,"Dia de São Luiz de Cáceres, Padroeiro da cidade"
+2022-10-06,5102504,MT,Aniversário da cidade
+2022-05-13,5102603,MT,Feriado Municipal
+2022-08-06,5102603,MT,Feriado Municipal
+2022-11-01,5102603,MT,Feriado Municipal
+2022-07-04,5102637,MT,Aniversário da Cidade
+2022-07-25,5102637,MT,Dia de São Cristóvão
+2022-07-04,5102678,MT,Emancipação do Município
+2022-07-25,5102678,MT,São Cristóvão
+2022-11-27,5102686,MT,Feriado Municipal
+2022-11-28,5102686,MT,Feriado Municipal
+2022-02-15,5102702,MT,Feriado Municipal
+2022-05-24,5102702,MT,Feriado Municipal
+2022-07-25,5102702,MT,Feriado Municipal
+2022-07-26,5103007,MT,Feriado Municipal
+2022-07-31,5103007,MT,Feriado Municipal
+2022-07-04,5103056,MT,Feriado Municipal
+2022-08-15,5103056,MT,Feriado Municipal
+2022-06-24,5103205,MT,Feriado Municipal
+2022-12-18,5103205,MT,Feriado Municipal
+2022-05-13,5103304,MT,Feriado Municipal
+2022-07-09,5103353,MT,Dia do Evangélico
+2022-07-29,5103353,MT,Feriado Municipal
+2022-04-08,5103403,MT,Aniversário de Cuiabá
+2022-04-15,5103403,MT,Sexta-feira Santa
+2022-06-16,5103403,MT,Corpus Christi
+2022-12-08,5103403,MT,Nossa Senhora da Conceição
+2022-05-06,5103452,MT,Feriado Municipal
+2022-07-25,5103452,MT,Feriado Municipal
+2022-09-18,5103502,MT,Feriado Municipal
+2022-12-08,5103502,MT,Feriado Municipal
+2022-01-20,5103601,MT,Feriado Municipal
+2022-04-14,5103601,MT,Feriado Municipal
+2022-06-29,5103700,MT,São Pedro Apóstolo
+2022-06-02,5104104,MT,Feriado Municipal
+2022-06-24,5104203,MT,Feriado Municipal
+2022-08-02,5104203,MT,Feriado Municipal
+2022-10-31,5104542,MT,Dia da Reforma Protestante
+2022-05-13,5104559,MT,Feriado Municipal
+2022-06-29,5104559,MT,Feriado Municipal
+2022-01-20,5104609,MT,Feriado Municipal
+2022-07-16,5104609,MT,Feriado Municipal
+2022-12-01,5104609,MT,Feriado Municipal
+2022-09-11,5104906,MT,Feriado Municipal
+2022-02-22,5105002,MT,Feriado Municipal
+2022-04-29,5105002,MT,Feriado Municipal
+2022-09-20,5105002,MT,Feriado Municipal
+2022-03-19,5105101,MT,São José
+2022-04-15,5105101,MT,Sexta-Feira Santa
+2022-06-16,5105101,MT,Corpus Christi
+2022-12-14,5105101,MT,Emancipação do Município
+2022-05-09,5105150,MT,Feriado Municipal
+2022-07-04,5105176,MT,Feriado Municipal
+2022-08-06,5105200,MT,Feriado Municipal
+2022-12-10,5105200,MT,Feriado Municipal
+2022-05-13,5105259,MT,Dia da Padroeira
+2022-08-05,5105259,MT,Aniversário da cidade
+2022-05-13,5105580,MT,Feriado Municipal
+2022-10-31,5105580,MT,Feriado Municipal
+2022-12-08,5105580,MT,Feriado Municipal
+2022-07-04,5105606,MT,Feriado Municipal
+2022-07-25,5105606,MT,Feriado Municipal
+2022-02-27,5105622,MT,Pe. Thiago Cheza
+2022-04-15,5105622,MT,Sexta-Feria Santa
+2022-05-14,5105622,MT,Emancipação Política
+2022-01-20,5105903,MT,Feriado Municipal
+2022-02-05,5106000,MT,Feriado Municipal
+2022-07-26,5106000,MT,Feriado Municipal
+2022-05-13,5106216,MT,Feriado Municipal
+2022-08-26,5108907,MT,Feriado Municipal
+2022-06-13,5108956,MT,Dia de Santo Antônio
+2022-08-19,5108956,MT,Feriado Municipal
+2022-07-04,5106224,MT,Feriado Municipal
+2022-05-13,5106232,MT,Feriado Municipal
+2022-12-19,5106240,MT,Feriado Municipal
+2022-04-14,5106257,MT,Aniversário da Cidade
+2022-11-27,5106257,MT,Nossa Sra das Graças
+2022-05-13,5106281,MT,Feriado Municipal
+2022-07-26,5106281,MT,Feriado Municipal
+2022-06-29,5106299,MT,Feriado Municipal
+2022-06-29,5106307,MT,Feriado Municipal
+2022-12-03,5106307,MT,Feriado Municipal
+2022-12-17,5106307,MT,Feriado Municipal
+2022-05-13,5106372,MT,Feriado Municipal
+2022-06-29,5106372,MT,Feriado Municipal
+2022-05-13,5106422,MT,Feriado Municipal
+2022-01-21,5106505,MT,Feriado Municipal
+2022-08-06,5106752,MT,Feriado Municipal
+2022-06-13,5106778,MT,Dia de Santo Antônio
+2022-09-24,5106778,MT,Feriado Municipal
+2022-02-02,5106802,MT,Feriado Municipal
+2022-11-11,5106802,MT,Feriado Municipal
+2022-06-24,5107008,MT,Feriado Municipal
+2022-05-13,5107040,MT,Feriado Municipal
+2022-07-25,5107040,MT,Feriado Municipal
+2022-10-31,5107065,MT,Feriado Municipal
+2022-12-08,5107065,MT,N. Sra Imaculada Conceição
+2022-12-19,5107065,MT,Emancipação do Município
+2022-05-03,5107180,MT,Feriado Municipal
+2022-06-24,5107180,MT,Feriado Municipal
+2022-08-12,5107180,MT,Feriado Municipal
+2022-05-22,5107206,MT,Feriado Municipal
+2022-08-16,5107206,MT,Feriado Municipal
+2022-06-16,5107602,MT,Corpus Christi
+2022-12-10,5107602,MT,Feriado Municipal
+2022-06-25,5107701,MT,Feriado Municipal
+2022-07-25,5107248,MT,Feriado Municipal
+2022-09-15,5107248,MT,Feriado Municipal
+2022-12-19,5107248,MT,Feriado Municipal
+2022-05-22,5107768,MT,Dia da Padroeira
+2022-09-25,5107768,MT,Aniversário da Cidade
+2022-01-28,5107792,MT,Feriado Municipal
+2022-06-13,5107792,MT,Dia de Santo Antônio
+2022-05-05,5107800,MT,Feriado Municipal
+2022-06-13,5107800,MT,Dia de Santo Antônio
+2022-05-13,5107859,MT,Feriado Municipal
+2022-08-15,5107859,MT,Feriado Municipal
+2022-03-19,5107305,MT,São José
+2022-06-15,5107107,MT,Feriado Municipal
+2022-12-14,5107107,MT,Feriado Municipal
+2022-04-22,5107875,MT,Fundação do Município
+2022-05-13,5107875,MT,Dia da Padroeira
+2022-09-19,5107875,MT,Aniversário do Município
+2022-10-31,5107875,MT,Dia do Evangélico
+2022-06-13,5107909,MT,Dia de Santo Antônio
+2022-09-14,5107909,MT,Aniversário da Cidade
+2022-05-13,5107925,MT,Emancipação
+2022-06-29,5107925,MT,São Pedro
+2022-06-13,5107941,MT,Dia de Santo Antônio
+2022-09-20,5107941,MT,Feriado Municipal
+2022-05-13,5107958,MT,Feriado Municipal
+2022-07-04,5108006,MT,Feriado Municipal
+2022-05-13,5108055,MT,Feriado Municipal
+2022-04-30,5108204,MT,Feriado Municipal
+2022-12-10,5108204,MT,Feriado Municipal
+2022-03-01,5108402,MT,Carnaval
+2022-04-15,5108402,MT,Sexta-Feira Santa
+2022-06-16,5108402,MT,Corpus Christi
+2022-05-13,5108501,MT,Emancipação do Município
+2022-07-27,5108501,MT,Fundação do Município
+2022-10-28,5108501,MT,São Judas Tadeu
+2022-03-19,5105507,MT,Aniversário
+2022-05-13,5108600,MT,Feriado Municipal
+2022-06-29,5108600,MT,Feriado Municipal
+2022-08-10,5108600,MT,Feriado Municipal
+2022-01-10,1700350,TO,Feriado Municipal
+2022-06-24,1700350,TO,Feriado Municipal
+2022-05-17,1700400,TO,Feriado Municipal
+2022-05-18,1700400,TO,Feriado Municipal
+2022-11-14,1700400,TO,Feriado Municipal
+2022-12-10,1700400,TO,Feriado Municipal
+2022-06-29,1701002,TO,Feriado Municipal
+2022-11-14,1702000,TO,Feriado Municipal
+2022-12-08,1702000,TO,Feriado Municipal
+2022-06-15,1702109,TO,Feriado Municipal
+2022-11-14,1702109,TO,Feriado Municipal
+2022-06-09,1702208,TO,Feriado Municipal
+2022-08-15,1702208,TO,Feriado Municipal
+2022-11-07,1702307,TO,Feriado Municipal
+2022-01-20,1702406,TO,Feriado Municipal
+2022-08-01,1702406,TO,Feriado Municipal
+2022-11-20,1702406,TO,Dia da Consciência Negra
+2022-05-22,1702554,TO,Feriado Municipal
+2022-11-14,1703701,TO,Feriado Municipal
+2022-10-31,1705508,TO,Feriado Municipal
+2022-05-14,1716703,TO,Feriado Municipal
+2022-08-06,1716703,TO,Feriado Municipal
+2022-12-26,1716703,TO,Feriado Municipal
+2022-06-01,1705557,TO,Feriado Municipal
+2022-06-23,1706100,TO,Feriado Municipal
+2022-07-27,1706100,TO,Feriado Municipal
+2022-03-08,1707009,TO,"Dia internacional da mulher, de acordo com a ei nº 1190/2011"
+2022-03-19,1707009,TO,São José
+2022-08-26,1707009,TO,Feriado Municipal
+2022-11-20,1707009,TO,Consciência Negra
+2022-06-01,1707108,TO,Feriado Municipal
+2022-07-16,1707108,TO,Feriado Municipal
+2022-05-13,1707553,TO,Feriado Municipal
+2022-05-14,1707553,TO,Feriado Municipal
+2022-12-21,1707553,TO,Feriado Municipal
+2022-06-10,1707652,TO,Feriado Municipal
+2022-06-24,1707652,TO,Feriado Municipal
+2022-09-21,1707702,TO,Dia do Feijão
+2022-06-24,1708205,TO,Feriado Municipal
+2022-08-23,1708205,TO,Feriado Municipal
+2022-04-11,1709302,TO,Feriado Municipal
+2022-06-29,1709302,TO,Feriado Municipal
+2022-06-13,1709500,TO,Padroeiro
+2022-11-14,1709500,TO,Aniversário
+2022-11-30,1709500,TO,Feriado Municipal
+2022-02-20,1711902,TO,Feriado Municipal
+2022-08-15,1711902,TO,Feriado Municipal
+2022-06-25,1713205,TO,Feriado Municipal
+2022-08-25,1713205,TO,Feriado Municipal
+2022-10-01,1713205,TO,"Dia de Santa Teresinha do Menino Jesus, Padroeira do Município"
+2022-11-20,1713205,TO,Dia da Consciência Negra
+2022-06-13,1713304,TO,Dia de Santo Antônio
+2022-11-08,1713304,TO,Feriado Municipal
+2022-06-01,1714203,TO,Feriado Municipal
+2022-08-15,1714203,TO,Feriado Municipal
+2022-08-16,1714203,TO,Feriado Municipal
+2022-03-19,1721000,TO,São José
+2022-04-15,1721000,TO,Sexta-feira Santa
+2022-05-20,1721000,TO,Aniversário de Palmas
+2022-11-02,1721000,TO,Dia de Finados
+2022-06-10,1715754,TO,Feriado Municipal
+2022-11-27,1715754,TO,Feriado Municipal
+2022-06-29,1716505,TO,Feriado Municipal
+2022-07-15,1716505,TO,Feriado Municipal
+2022-06-20,1716604,TO,Feriado Municipal
+2022-08-15,1716604,TO,Feriado Municipal
+2022-11-20,1717909,TO,Consciência Negra
+2022-07-13,1718204,TO,Feriado Municipal
+2022-09-24,1718204,TO,Feriado Municipal
+2022-11-20,1718204,TO,Dia da Consciência Negra
+2022-01-20,1720655,TO,Feriado Municipal
+2022-06-10,1720655,TO,Feriado Municipal
+2022-06-10,1720903,TO,Feriado Municipal
+2022-05-26,1720978,TO,Feriado Municipal
+2022-07-07,1721208,TO,Feriado Municipal
+2022-07-28,1721208,TO,Feriado Municipal
+2022-08-15,1721208,TO,Feriado Municipal
+2022-09-29,1722107,TO,Feriado Municipal
+2022-11-14,1722107,TO,Feriado Municipal
+2022-11-30,1722107,TO,Feriado Municipal
+2023-04-21,5300108,DF,Aniversário de Brasília
+2023-08-15,5200100,GO,Feriado Municipal
+2023-04-04,5200134,GO,Feriado Municipal
+2023-05-14,5200134,GO,Feriado Municipal
+2023-11-30,5200258,GO,Feriado Municipal
+2023-12-15,5200258,GO,Feriado Municipal
+2023-09-15,5200308,GO,Feriado Municipal
+2023-11-14,5200308,GO,Feriado Municipal
+2023-01-20,5200506,GO,Feriado Municipal
+2023-06-17,5200506,GO,Feriado Municipal
+2023-08-15,5200605,GO,Feriado Municipal
+2023-11-27,5200605,GO,Feriado Municipal
+2023-12-12,5200605,GO,Feriado Municipal
+2023-09-08,5200803,GO,Feriado Municipal
+2023-07-26,5201108,GO,Padroeira
+2023-07-31,5201108,GO,Aniversário
+2023-06-07,5201306,GO,Feriado Municipal
+2023-11-14,5201405,GO,Emancipação política
+2023-08-28,5201504,GO,Feriado Municipal
+2023-11-14,5201504,GO,Feriado Municipal
+2023-08-06,5201702,GO,Feriado Municipal
+2023-11-20,5201702,GO,Dia da Consciência Negra
+2023-05-14,5202155,GO,Feriado Municipal
+2023-08-15,5202155,GO,Feriado Municipal
+2023-05-14,5202353,GO,Feriado Municipal
+2023-06-29,5202353,GO,Feriado Municipal
+2023-12-18,5202502,GO,Feriado Municipal
+2023-12-13,5202601,GO,Feriado Municipal
+2023-08-15,5203203,GO,Feriado Municipal
+2023-11-14,5203203,GO,Feriado Municipal
+2023-06-05,5203302,GO,Feriado Municipal
+2023-06-23,5203401,GO,Feriado Municipal
+2023-06-24,5203401,GO,Feriado Municipal
+2023-08-18,5203401,GO,Feriado Municipal
+2023-08-06,5203500,GO,Feriado Municipal
+2023-11-07,5203500,GO,Feriado Municipal
+2023-01-25,5203807,GO,Feriado Municipal
+2023-06-29,5203807,GO,Feriado Municipal
+2023-06-24,5203906,GO,Feriado Municipal
+2023-08-15,5203906,GO,Feriado Municipal
+2023-08-23,5204003,GO,Feriado Municipal
+2023-11-14,5204003,GO,Feriado Municipal
+2023-08-15,5204102,GO,Feriado Municipal
+2023-09-24,5204102,GO,Feriado Municipal
+2023-01-20,5204250,GO,Feriado Municipal
+2023-05-14,5204250,GO,Feriado Municipal
+2023-09-16,5204300,GO,Feriado Municipal
+2023-01-20,5204409,GO,Feriado Municipal
+2023-07-29,5204409,GO,Feriado Municipal
+2023-11-01,5204409,GO,Feriado Municipal
+2023-09-15,5204508,GO,Feriado Municipal
+2023-10-21,5204508,GO,Aniversário da Cidade
+2023-01-20,5204557,GO,Feriado Municipal
+2023-04-29,5204557,GO,Feriado Municipal
+2023-08-15,5204557,GO,Feriado Municipal
+2023-05-31,5204607,GO,Feriado Municipal
+2023-12-08,5204706,GO,Feriado Municipal
+2023-09-08,5204805,GO,Feriado Municipal
+2023-11-12,5204805,GO,Feriado Municipal
+2023-12-08,5204904,GO,Feriado Municipal
+2023-06-13,5204953,GO,Dia de Santo Antônio
+2023-06-11,5205000,GO,Feriado Municipal
+2023-11-14,5205000,GO,Feriado Municipal
+2023-01-16,5205059,GO,Feriado Municipal
+2023-06-16,5205059,GO,Feriado Municipal
+2023-08-20,5205109,GO,Feriado Municipal
+2023-07-26,5205307,GO,Feriado Municipal
+2023-08-15,5205307,GO,Feriado Municipal
+2023-09-16,5205307,GO,Feriado Municipal
+2023-11-11,5205307,GO,Feriado Municipal
+2023-11-30,5205307,GO,Feriado Municipal
+2023-03-17,5205406,GO,Feriado Municipal
+2023-07-16,5205406,GO,Feriado Municipal
+2023-09-04,5205406,GO,Feriado Municipal
+2023-12-08,5205406,GO,Feriado Municipal
+2023-05-14,5205455,GO,Feriado Municipal
+2023-07-25,5205455,GO,Feriado Municipal
+2023-08-21,5205471,GO,Feriado Municipal
+2023-08-22,5205471,GO,Feriado Municipal
+2023-06-13,5205497,GO,Dia de Santo Antônio
+2023-10-31,5205497,GO,Feriado Municipal
+2023-12-09,5205497,GO,Feriado Municipal
+2023-06-13,5205513,GO,Dia de Santo Antônio
+2023-07-03,5205513,GO,Feriado Municipal
+2023-11-30,5205513,GO,Feriado Municipal
+2023-09-24,5205703,GO,Feriado Municipal
+2023-01-20,5205802,GO,Feriado Municipal
+2023-07-09,5205802,GO,Feriado Municipal
+2023-09-08,5205802,GO,Feriado Municipal
+2023-11-30,5205802,GO,Feriado Municipal
+2023-05-28,5205901,GO,Feriado Municipal
+2023-08-06,5205901,GO,Feriado Municipal
+2023-01-20,5206206,GO,Feriado Municipal
+2023-05-16,5206206,GO,Feriado Municipal
+2023-07-18,5206206,GO,Feriado Municipal
+2023-10-31,5206206,GO,Feriado Municipal
+2023-06-23,5206305,GO,Feriado Municipal
+2023-10-30,5206404,GO,Feriado Municipal
+2023-12-08,5206404,GO,Feriado Municipal
+2023-11-12,5206503,GO,Feriado Municipal
+2023-12-04,5206503,GO,Feriado Municipal
+2023-01-20,5206602,GO,Feriado Municipal
+2023-07-10,5206602,GO,Feriado Municipal
+2023-07-14,5206602,GO,Feriado Municipal
+2023-12-10,5206602,GO,Feriado Municipal
+2023-04-30,5206701,GO,Feriado Municipal
+2023-11-14,5206701,GO,Feriado Municipal
+2023-06-13,5206800,GO,Dia de Santo Antônio
+2023-11-14,5206800,GO,Feriado Municipal
+2023-12-17,5207105,GO,Feriado Municipal
+2023-01-20,5208301,GO,Feriado Municipal
+2023-06-24,5208301,GO,Feriado Municipal
+2023-08-10,5208301,GO,Feriado Municipal
+2023-11-14,5208301,GO,Feriado Municipal
+2023-05-14,5207253,GO,Feriado Municipal
+2023-09-29,5207253,GO,Feriado Municipal
+2023-06-13,5207402,GO,Dia de Santo Antônio
+2023-08-15,5207600,GO,Feriado Municipal
+2023-09-08,5207808,GO,Feriado Municipal
+2023-11-14,5207907,GO,Feriado Municipal
+2023-11-20,5207907,GO,Dia da Consciência Negra
+2023-08-01,5208004,GO,Feriado Municipal
+2023-12-08,5208004,GO,Feriado Municipal
+2023-08-04,5208103,GO,Feriado Municipal
+2023-09-25,5208103,GO,Feriado Municipal
+2023-06-23,5208400,GO,Feriado Municipal
+2023-11-14,5208400,GO,Feriado Municipal
+2023-12-24,5208400,GO,Feriado Municipal
+2023-01-20,5208509,GO,Feriado Municipal
+2023-05-06,5208509,GO,Feriado Municipal
+2023-06-30,5208509,GO,Feriado Municipal
+2023-11-01,5208509,GO,Feriado Municipal
+2023-12-08,5208509,GO,Feriado Municipal
+2023-06-24,5208608,GO,Feriado Municipal
+2023-07-14,5208608,GO,Feriado Municipal
+2023-08-15,5208608,GO,Feriado Municipal
+2023-09-27,5208608,GO,Feriado Municipal
+2023-05-24,5208707,GO,Nossa Senhora Auxiliadora
+2023-10-24,5208707,GO,Aniversário de Goiânia
+2023-11-20,5208707,GO,Dia da Consciência Negra
+2023-01-04,5208806,GO,Feriado Municipal
+2023-03-25,5208806,GO,Feriado Municipal
+2023-07-26,5208905,GO,Fundação da Cidade
+2023-12-08,5208905,GO,Feriado Municipal
+2023-01-20,5209101,GO,Feriado Municipal
+2023-01-21,5209101,GO,Feriado Municipal
+2023-06-01,5209150,GO,Feriado Municipal
+2023-06-24,5209150,GO,Feriado Municipal
+2023-05-14,5209200,GO,Feriado Municipal
+2023-06-13,5209705,GO,Dia de Santo Antônio
+2023-11-05,5209705,GO,Feriado Municipal
+2023-11-14,5209804,GO,Feriado Municipal
+2023-11-14,5209903,GO,Feriado Municipal
+2023-03-19,5209937,GO,São José
+2023-04-29,5209937,GO,Feriado Municipal
+2023-02-01,5209952,GO,Feriado Municipal
+2023-04-22,5209952,GO,Feriado Municipal
+2023-05-14,5209952,GO,Feriado Municipal
+2023-03-19,5210000,GO,São José
+2023-07-26,5210000,GO,Feriado Municipal
+2023-08-15,5210109,GO,Feriado Municipal
+2023-09-12,5210109,GO,Feriado Municipal
+2023-05-24,5210208,GO,Feriado Municipal
+2023-11-19,5210208,GO,Feriado Municipal
+2023-01-20,5210406,GO,Feriado Municipal
+2023-08-15,5210406,GO,Feriado Municipal
+2023-11-09,5210406,GO,Feriado Municipal
+2023-01-20,5210604,GO,Feriado Municipal
+2023-11-14,5210604,GO,Feriado Municipal
+2023-06-24,5210802,GO,Feriado Municipal
+2023-11-14,5210802,GO,Feriado Municipal
+2023-11-20,5210802,GO,Dia da Consciência Negra
+2023-08-11,5210901,GO,Feriado Municipal
+2023-08-08,5211008,GO,Feriado Municipal
+2023-11-14,5211008,GO,Feriado Municipal
+2023-01-06,5211206,GO,Feriado Municipal
+2023-01-20,5211305,GO,Feriado Municipal
+2023-07-21,5211305,GO,Feriado Municipal
+2023-08-15,5211305,GO,Feriado Municipal
+2023-08-15,5211404,GO,Feriado Municipal
+2023-05-22,5211503,GO,Feriado Municipal
+2023-08-15,5211701,GO,Feriado Municipal
+2023-01-20,5211800,GO,Feriado Municipal
+2023-07-29,5211800,GO,Feriado Municipal
+2023-09-08,5211800,GO,Feriado Municipal
+2023-05-31,5211909,GO,Feriado Municipal
+2023-08-15,5212105,GO,Feriado Municipal
+2023-11-14,5212105,GO,Feriado Municipal
+2023-11-14,5212204,GO,Feriado Municipal
+2023-11-27,5212204,GO,Feriado Municipal
+2023-01-20,5212303,GO,Feriado Municipal
+2023-05-24,5212303,GO,Feriado Municipal
+2023-08-15,5212303,GO,Feriado Municipal
+2023-09-02,5212303,GO,Feriado Municipal
+2023-11-30,5212501,GO,Dia do Evangélico
+2023-12-13,5212501,GO,Aniversário de Luziânia
+2023-11-13,5212600,GO,Feriado Municipal
+2023-11-14,5212709,GO,Feriado Municipal
+2023-12-08,5212709,GO,Feriado Municipal
+2023-06-13,5212808,GO,Dia de Santo Antônio
+2023-09-02,5212808,GO,Feriado Municipal
+2023-11-30,5212808,GO,Feriado Municipal
+2023-06-01,5212956,GO,Feriado Municipal
+2023-12-13,5212956,GO,Feriado Municipal
+2023-11-14,5213004,GO,Feriado Municipal
+2023-05-14,5213087,GO,Feriado Municipal
+2023-10-31,5213103,GO,Feriado Municipal
+2023-06-13,5213509,GO,Dia de Santo Antônio
+2023-08-15,5213509,GO,Feriado Municipal
+2023-08-15,5213756,GO,Feriado Municipal
+2023-12-30,5213756,GO,Feriado Municipal
+2023-07-16,5213806,GO,Feriado Municipal
+2023-08-29,5213806,GO,Aniversário da Cidade
+2023-03-19,5213905,GO,São José
+2023-11-14,5213905,GO,Feriado Municipal
+2023-06-27,5214002,GO,Feriado Municipal
+2023-06-10,5214051,GO,Feriado Municipal
+2023-08-25,5214408,GO,Feriado Municipal
+2023-08-03,5214507,GO,Feriado Municipal
+2023-03-19,5214606,GO,São José
+2023-07-25,5214606,GO,Feriado Municipal
+2023-08-15,5214606,GO,Feriado Municipal
+2023-01-20,5214804,GO,Feriado Municipal
+2023-05-13,5214804,GO,Feriado Municipal
+2023-08-15,5214804,GO,Feriado Municipal
+2023-11-13,5214804,GO,Feriado Municipal
+2023-02-01,5214838,GO,Feriado Municipal
+2023-06-13,5214838,GO,Dia de Santo Antônio
+2023-06-10,5214861,GO,Feriado Municipal
+2023-08-15,5214861,GO,Feriado Municipal
+2023-09-27,5214861,GO,Feriado Municipal
+2023-07-16,5215009,GO,Feriado Municipal
+2023-11-14,5215009,GO,Feriado Municipal
+2023-06-15,5215231,GO,Feriado Municipal
+2023-11-30,5215231,GO,Feriado Municipal
+2023-12-08,5215231,GO,Feriado Municipal
+2023-06-01,5215256,GO,Feriado Municipal
+2023-06-02,5215256,GO,Feriado Municipal
+2023-06-29,5215256,GO,Feriado Municipal
+2023-07-02,5215256,GO,Feriado Municipal
+2023-08-06,5215256,GO,Feriado Municipal
+2023-09-15,5215306,GO,Feriado Municipal
+2023-05-09,5215603,GO,Feriado Municipal
+2023-07-16,5215603,GO,Feriado Municipal
+2023-11-01,5215603,GO,Feriado Municipal
+2023-01-20,5215702,GO,Feriado Municipal
+2023-07-06,5215702,GO,Feriado Municipal
+2023-11-01,5216304,GO,Feriado Municipal
+2023-12-08,5216304,GO,Feriado Municipal
+2023-08-15,5216403,GO,Feriado Municipal
+2023-11-10,5216403,GO,Feriado Municipal
+2023-09-08,5216809,GO,Feriado Municipal
+2023-10-08,5216809,GO,Aniversário da Cidade
+2023-08-15,5217104,GO,Feriado Municipal
+2023-11-01,5217104,GO,Feriado Municipal
+2023-11-22,5217104,GO,Feriado Municipal
+2023-06-13,5217203,GO,Dia de Santo Antônio
+2023-06-13,5217401,GO,Dia de Santo Antônio
+2023-11-09,5217401,GO,Feriado Municipal
+2023-03-19,5217609,GO,São José
+2023-11-30,5217609,GO,Feriado Municipal
+2023-05-22,5217708,GO,Feriado Municipal
+2023-10-31,5217708,GO,Feriado Municipal
+2023-08-25,5218003,GO,Feriado Municipal
+2023-09-15,5218003,GO,Feriado Municipal
+2023-12-13,5218003,GO,Feriado Municipal
+2023-11-14,5218102,GO,Feriado Municipal
+2023-07-19,5218300,GO,Feriado Municipal
+2023-07-26,5218300,GO,Feriado Municipal
+2023-01-22,5218508,GO,Feriado Municipal
+2023-08-15,5218508,GO,Feriado Municipal
+2023-03-17,5218607,GO,Feriado Municipal
+2023-05-31,5218607,GO,Feriado Municipal
+2023-07-16,5218607,GO,Feriado Municipal
+2023-09-04,5218607,GO,Feriado Municipal
+2023-12-18,5218706,GO,Feriado Municipal
+2023-01-20,5218789,GO,Feriado Municipal
+2023-05-11,5218789,GO,Feriado Municipal
+2023-01-20,5218805,GO,Dia de São Sebastião (Padroeiro)
+2023-08-05,5218805,GO,Aniversário de Rio Verde
+2023-08-15,5218904,GO,Feriado Municipal
+2023-01-05,5219001,GO,Feriado Municipal
+2023-08-15,5219001,GO,Feriado Municipal
+2023-06-08,5219100,GO,Corpus Christi
+2023-10-23,5219100,GO,Aniversário da cidade
+2023-12-04,5219100,GO,Santa Bárbara
+2023-12-08,5219209,GO,Feriado Municipal
+2023-06-01,5219258,GO,Feriado Municipal
+2023-05-18,5219308,GO,Feriado Municipal
+2023-08-20,5219308,GO,Feriado Municipal
+2023-05-22,5219407,GO,Feriado Municipal
+2023-11-20,5219407,GO,Dia da Consciência Negra
+2023-08-15,5219506,GO,Feriado Municipal
+2023-11-14,5219506,GO,Feriado Municipal
+2023-03-08,5219753,GO,Feriado Municipal
+2023-05-14,5219753,GO,Feriado Municipal
+2023-06-13,5219753,GO,Dia de Santo Antônio
+2023-11-30,5219753,GO,Feriado Municipal
+2023-08-04,5219803,GO,Feriado Municipal
+2023-08-06,5219803,GO,Feriado Municipal
+2023-12-13,5219803,GO,Feriado Municipal
+2023-09-08,5219902,GO,Feriado Municipal
+2023-01-20,5220009,GO,Feriado Municipal
+2023-06-24,5220009,GO,Feriado Municipal
+2023-08-15,5220009,GO,Feriado Municipal
+2023-11-13,5220009,GO,Feriado Municipal
+2023-12-24,5220009,GO,Feriado Municipal
+2023-06-21,5220108,GO,Feriado Municipal
+2023-09-29,5220207,GO,Feriado Municipal
+2023-11-14,5220207,GO,Feriado Municipal
+2023-01-09,5220264,GO,Feriado Municipal
+2023-09-29,5220264,GO,Feriado Municipal
+2023-11-14,5220405,GO,Feriado Municipal
+2023-05-24,5220454,GO,Feriado Municipal
+2023-06-01,5220454,GO,Feriado Municipal
+2023-05-13,5220504,GO,Feriado Municipal
+2023-11-14,5220504,GO,Feriado Municipal
+2023-09-14,5220603,GO,Feriado Municipal
+2023-06-13,5221304,GO,Dia de Santo Antônio
+2023-08-15,5221304,GO,Feriado Municipal
+2023-06-28,5221403,GO,Feriado Municipal
+2023-06-29,5221403,GO,Feriado Municipal
+2023-07-02,5221403,GO,Feriado Municipal
+2023-08-31,5221403,GO,Feriado Municipal
+2023-06-14,5221502,GO,Feriado Municipal
+2023-11-14,5221502,GO,Feriado Municipal
+2023-06-01,5221551,GO,Feriado Municipal
+2023-08-05,5221551,GO,Feriado Municipal
+2023-07-04,5221601,GO,Feriado Municipal
+2023-07-26,5221601,GO,Feriado Municipal
+2023-01-20,5221700,GO,Feriado Municipal
+2023-09-14,5221700,GO,Feriado Municipal
+2023-08-06,5221809,GO,Feriado Municipal
+2023-04-07,5221858,GO,Sexta-feira da Paixão
+2023-06-15,5221858,GO,Aniversário
+2023-10-04,5221858,GO,Dia do Padroeiro
+2023-11-30,5221858,GO,Dia do Evangélico
+2023-03-19,5222005,GO,São José
+2023-08-19,5222005,GO,Feriado Municipal
+2023-01-20,5222054,GO,Feriado Municipal
+2023-06-10,5222054,GO,Feriado Municipal
+2023-02-08,5000203,MS,Aniversário
+2023-10-31,5000203,MS,Dia do Evangélico
+2023-05-24,5000609,MS,Feriado Municipal
+2023-09-28,5000609,MS,Feriado Municipal
+2023-02-11,5000708,MS,Feriado Municipal
+2023-05-08,5000708,MS,Feriado Municipal
+2023-06-24,5000807,MS,Feriado Municipal
+2023-11-11,5000807,MS,Feriado Municipal
+2023-05-13,5000856,MS,Feriado Municipal
+2023-06-29,5000856,MS,Feriado Municipal
+2023-03-18,5000906,MS,Feriado Municipal
+2023-06-27,5000906,MS,Feriado Municipal
+2023-09-28,5001003,MS,Feriado Municipal
+2023-08-15,5001102,MS,Feriado Municipal
+2023-12-08,5001102,MS,Feriado Municipal
+2023-05-13,5001243,MS,Feriado Municipal
+2023-06-20,5001508,MS,Feriado Municipal
+2023-06-24,5001904,MS,Feriado Municipal
+2023-08-15,5001904,MS,Feriado Municipal
+2023-12-11,5001904,MS,Feriado Municipal
+2023-07-20,5002100,MS,Feriado Municipal
+2023-08-01,5002100,MS,Feriado Municipal
+2023-12-08,5002100,MS,Feriado Municipal
+2023-01-06,5002159,MS,Feriado Municipal
+2023-05-13,5002159,MS,Feriado Municipal
+2023-06-27,5002159,MS,Feriado Municipal
+2023-06-29,5002209,MS,Padroeiro
+2023-04-25,5002308,MS,Feriado Municipal
+2023-08-06,5002407,MS,Feriado Municipal
+2023-12-26,5002407,MS,Feriado Municipal
+2023-06-24,5002605,MS,Feriado Municipal
+2023-09-30,5002605,MS,Feriado Municipal
+2023-04-07,5002704,MS,Sexta-feira Santa
+2023-06-08,5002704,MS,Corpus Christi
+2023-06-13,5002704,MS,Dia de Santo Antônio
+2023-08-26,5002704,MS,Aniversário de Campo Grande
+2023-06-19,5002803,MS,Feriado Municipal
+2023-03-19,5002902,MS,São José
+2023-08-03,5002902,MS,Aniversário do município
+2023-06-29,5002951,MS,Feriado Municipal
+2023-12-08,5003157,MS,Feriado Municipal
+2023-12-15,5003157,MS,Feriado Municipal
+2023-02-02,5003207,MS,Nossa Sra da Candelária
+2023-04-07,5003207,MS,Sexta-feira da Paixão
+2023-06-13,5003207,MS,Retomada de Corumbá
+2023-09-21,5003207,MS,Fundação de Corumbá
+2023-11-20,5003207,MS,Dia da Consciência Negra
+2023-05-12,5003256,MS,Feriado Municipal
+2023-06-13,5003256,MS,Dia de Santo Antônio
+2023-03-19,5003306,MS,São José
+2023-04-11,5003306,MS,Feriado Municipal
+2023-05-13,5003454,MS,Feriado Municipal
+2023-11-13,5003488,MS,Feriado Municipal
+2023-05-12,5003504,MS,Feriado Municipal
+2023-12-08,5003702,MS,Feriado Municipal
+2023-12-20,5003702,MS,Feriado Municipal
+2023-05-13,5003751,MS,Feriado Municipal
+2023-05-13,5003801,MS,Feriado Municipal
+2023-07-09,5003801,MS,Feriado Municipal
+2023-08-15,5003900,MS,Feriado Municipal
+2023-09-29,5003900,MS,Feriado Municipal
+2023-05-02,5004007,MS,Feriado Municipal
+2023-08-15,5004007,MS,Feriado Municipal
+2023-03-19,5004106,MS,São José
+2023-05-08,5004304,MS,Feriado Municipal
+2023-12-08,5004304,MS,Feriado Municipal
+2023-04-04,5004403,MS,Feriado Municipal
+2023-08-06,5004403,MS,Feriado Municipal
+2023-03-19,5004502,MS,São José
+2023-11-20,5004502,MS,Dia da Consciência Negra
+2023-12-10,5004502,MS,Feriado Municipal
+2023-05-13,5004601,MS,Feriado Municipal
+2023-06-27,5004601,MS,Feriado Municipal
+2023-01-25,5004700,MS,Feriado Municipal
+2023-11-11,5004700,MS,Feriado Municipal
+2023-03-31,5004809,MS,Feriado Municipal
+2023-04-30,5004809,MS,Feriado Municipal
+2023-05-14,5005004,MS,Feriado Municipal
+2023-06-13,5005004,MS,Dia de Santo Antônio
+2023-06-29,5005103,MS,Feriado Municipal
+2023-11-11,5005103,MS,Feriado Municipal
+2023-12-13,5005103,MS,Feriado Municipal
+2023-12-13,5005152,MS,Feriado Municipal
+2023-12-14,5005152,MS,Feriado Municipal
+2023-09-02,5005202,MS,Feriado Municipal
+2023-11-20,5005202,MS,Dia da Consciência Negra
+2023-04-22,5005251,MS,Feriado Municipal
+2023-05-26,5005251,MS,Feriado Municipal
+2023-06-11,5005400,MS,Aniversário da Cidade
+2023-04-19,5005608,MS,Feriado Municipal
+2023-07-16,5005608,MS,Feriado Municipal
+2023-12-08,5005608,MS,Feriado Municipal
+2023-05-13,5005681,MS,Feriado Municipal
+2023-05-13,5005707,MS,Feriado Municipal
+2023-11-11,5005707,MS,Feriado Municipal
+2023-04-08,5005806,MS,Feriado Municipal
+2023-04-19,5005806,MS,Dia do ìndio
+2023-05-22,5005806,MS,Feriado Municipal
+2023-07-18,5005806,MS,Feriado Municipal
+2023-07-25,5006002,MS,Feriado Municipal
+2023-04-30,5006200,MS,Feriado Municipal
+2023-05-31,5006200,MS,Feriado Municipal
+2023-04-30,5006259,MS,Feriado Municipal
+2023-06-14,5006259,MS,Feriado Municipal
+2023-07-04,5006309,MS,Feriado Municipal
+2023-07-26,5006309,MS,Feriado Municipal
+2023-06-24,5006358,MS,Feriado Municipal
+2023-11-17,5006358,MS,Feriado Municipal
+2023-12-08,5006358,MS,Feriado Municipal
+2023-01-20,5006408,MS,Feriado Municipal
+2023-11-11,5006408,MS,Feriado Municipal
+2023-03-19,5006606,MS,São José
+2023-07-18,5006606,MS,Aniversário da Cidade
+2023-06-13,5006903,MS,Dia de Santo Antônio
+2023-06-15,5006903,MS,Feriado Municipal
+2023-06-24,5006903,MS,Feriado Municipal
+2023-12-08,5006903,MS,Feriado Municipal
+2023-01-20,5007109,MS,Feriado Municipal
+2023-03-19,5007109,MS,São José
+2023-12-08,5007109,MS,Feriado Municipal
+2023-09-26,5007208,MS,Feriado Municipal
+2023-12-08,5007208,MS,Feriado Municipal
+2023-05-09,5007307,MS,Feriado Municipal
+2023-05-13,5007307,MS,Feriado Municipal
+2023-05-24,5007406,MS,Feriado Municipal
+2023-12-16,5007406,MS,Feriado Municipal
+2023-08-06,5007505,MS,Bom Jesus de Rochedo
+2023-11-23,5007505,MS,Feriado Municipal
+2023-05-22,5007554,MS,Feriado Municipal
+2023-12-18,5007554,MS,Feriado Municipal
+2023-05-12,5007695,MS,Feriado Municipal
+2023-09-29,5007695,MS,Feriado Municipal
+2023-05-12,5007802,MS,Feriado Municipal
+2023-06-24,5007802,MS,Feriado Municipal
+2023-05-13,5007703,MS,Feriado Municipal
+2023-08-15,5007703,MS,Feriado Municipal
+2023-12-08,5007703,MS,Feriado Municipal
+2023-08-15,5007901,MS,Feriado Municipal
+2023-12-11,5007901,MS,Feriado Municipal
+2023-06-03,5007935,MS,Feriado Municipal
+2023-01-20,5007950,MS,Feriado Municipal
+2023-05-13,5007950,MS,Feriado Municipal
+2023-12-08,5007950,MS,Feriado Municipal
+2023-05-12,5007976,MS,Feriado Municipal
+2023-05-08,5008008,MS,Feriado Municipal
+2023-06-13,5008008,MS,Dia de Santo Antônio
+2023-06-15,5008305,MS,Aniversário da Cidade
+2023-05-25,5008404,MS,Feriado Municipal
+2023-06-20,5008404,MS,Feriado Municipal
+2023-09-12,5008404,MS,Feriado Municipal
+2023-12-08,5008404,MS,Feriado Municipal
+2023-05-19,5100250,MT,Feriado Municipal
+2023-05-24,5100300,MT,Feriado Municipal
+2023-01-20,5100409,MT,Feriado Municipal
+2023-12-10,5100409,MT,Feriado Municipal
+2023-03-19,5100508,MT,São José
+2023-08-06,5100508,MT,Feriado Municipal
+2023-12-16,5100508,MT,Feriado Municipal
+2023-03-19,5100607,MT,"Dia de São José, padroeiro da cidade"
+2023-05-13,5100607,MT,Aniversário da cidade
+2023-05-14,5101001,MT,Feriado Municipal
+2023-02-02,5101258,MT,Emancipação Política
+2023-05-13,5101258,MT,Feriado Municipal
+2023-05-23,5101258,MT,Feriado Municipal
+2023-01-20,5101308,MT,Feriado Municipal
+2023-02-05,5101308,MT,Feriado Municipal
+2023-08-06,5101308,MT,Feriado Municipal
+2023-07-26,5101407,MT,Feriado Municipal
+2023-10-31,5101407,MT,Feriado Municipal
+2023-04-19,5101704,MT,Feriado Municipal
+2023-09-14,5101704,MT,Feriado Municipal
+2023-06-13,5101803,MT,Dia de Santo Antônio
+2023-09-15,5101803,MT,Feriado Municipal
+2023-06-01,5101902,MT,Feriado Municipal
+2023-08-25,5102504,MT,"Dia de São Luiz de Cáceres, Padroeiro da cidade"
+2023-10-06,5102504,MT,Aniversário da cidade
+2023-05-13,5102603,MT,Feriado Municipal
+2023-08-06,5102603,MT,Feriado Municipal
+2023-11-01,5102603,MT,Feriado Municipal
+2023-07-04,5102637,MT,Aniversário da Cidade
+2023-07-25,5102637,MT,Dia de São Cristóvão
+2023-07-04,5102678,MT,Emancipação do Município
+2023-07-25,5102678,MT,São Cristóvão
+2023-11-27,5102686,MT,Feriado Municipal
+2023-11-28,5102686,MT,Feriado Municipal
+2023-02-15,5102702,MT,Feriado Municipal
+2023-05-24,5102702,MT,Feriado Municipal
+2023-07-25,5102702,MT,Feriado Municipal
+2023-07-26,5103007,MT,Feriado Municipal
+2023-07-31,5103007,MT,Feriado Municipal
+2023-07-04,5103056,MT,Feriado Municipal
+2023-08-15,5103056,MT,Feriado Municipal
+2023-06-24,5103205,MT,Feriado Municipal
+2023-12-18,5103205,MT,Feriado Municipal
+2023-05-13,5103304,MT,Feriado Municipal
+2023-07-08,5103353,MT,Dia do Evangélico
+2023-07-29,5103353,MT,Feriado Municipal
+2023-04-07,5103403,MT,Sexta-feira Santa
+2023-04-08,5103403,MT,Aniversário de Cuiabá
+2023-06-08,5103403,MT,Corpus Christi
+2023-12-08,5103403,MT,Nossa Senhora da Conceição
+2023-05-06,5103452,MT,Feriado Municipal
+2023-07-25,5103452,MT,Feriado Municipal
+2023-09-18,5103502,MT,Feriado Municipal
+2023-12-08,5103502,MT,Feriado Municipal
+2023-01-20,5103601,MT,Feriado Municipal
+2023-04-14,5103601,MT,Feriado Municipal
+2023-06-29,5103700,MT,São Pedro Apóstolo
+2023-06-02,5104104,MT,Feriado Municipal
+2023-06-24,5104203,MT,Feriado Municipal
+2023-08-02,5104203,MT,Feriado Municipal
+2023-10-31,5104542,MT,Dia da Reforma Protestante
+2023-05-13,5104559,MT,Feriado Municipal
+2023-06-29,5104559,MT,Feriado Municipal
+2023-01-20,5104609,MT,Feriado Municipal
+2023-07-16,5104609,MT,Feriado Municipal
+2023-12-01,5104609,MT,Feriado Municipal
+2023-09-11,5104906,MT,Feriado Municipal
+2023-02-22,5105002,MT,Feriado Municipal
+2023-04-29,5105002,MT,Feriado Municipal
+2023-09-20,5105002,MT,Feriado Municipal
+2023-03-19,5105101,MT,São José
+2023-04-07,5105101,MT,Sexta-Feira Santa
+2023-06-08,5105101,MT,Corpus Christi
+2023-12-14,5105101,MT,Emancipação do Município
+2023-05-09,5105150,MT,Feriado Municipal
+2023-07-04,5105176,MT,Feriado Municipal
+2023-08-06,5105200,MT,Feriado Municipal
+2023-12-10,5105200,MT,Feriado Municipal
+2023-05-13,5105259,MT,Dia da Padroeira
+2023-08-05,5105259,MT,Aniversário da cidade
+2023-05-13,5105580,MT,Feriado Municipal
+2023-10-31,5105580,MT,Feriado Municipal
+2023-12-08,5105580,MT,Feriado Municipal
+2023-07-04,5105606,MT,Feriado Municipal
+2023-07-25,5105606,MT,Feriado Municipal
+2023-02-27,5105622,MT,Pe. Thiago Cheza
+2023-04-07,5105622,MT,Sexta-Feria Santa
+2023-05-14,5105622,MT,Emancipação Política
+2023-01-20,5105903,MT,Feriado Municipal
+2023-02-05,5106000,MT,Feriado Municipal
+2023-07-26,5106000,MT,Feriado Municipal
+2023-05-13,5106216,MT,Feriado Municipal
+2023-08-26,5108907,MT,Feriado Municipal
+2023-06-13,5108956,MT,Dia de Santo Antônio
+2023-08-19,5108956,MT,Feriado Municipal
+2023-07-04,5106224,MT,Feriado Municipal
+2023-05-13,5106232,MT,Feriado Municipal
+2023-12-19,5106240,MT,Feriado Municipal
+2023-04-14,5106257,MT,Aniversário da Cidade
+2023-11-27,5106257,MT,Nossa Sra das Graças
+2023-05-13,5106281,MT,Feriado Municipal
+2023-07-26,5106281,MT,Feriado Municipal
+2023-06-29,5106299,MT,Feriado Municipal
+2023-06-29,5106307,MT,Feriado Municipal
+2023-12-03,5106307,MT,Feriado Municipal
+2023-12-17,5106307,MT,Feriado Municipal
+2023-05-13,5106372,MT,Feriado Municipal
+2023-06-29,5106372,MT,Feriado Municipal
+2023-05-13,5106422,MT,Feriado Municipal
+2023-01-21,5106505,MT,Feriado Municipal
+2023-08-06,5106752,MT,Feriado Municipal
+2023-06-13,5106778,MT,Dia de Santo Antônio
+2023-09-24,5106778,MT,Feriado Municipal
+2023-02-02,5106802,MT,Feriado Municipal
+2023-11-11,5106802,MT,Feriado Municipal
+2023-06-24,5107008,MT,Feriado Municipal
+2023-05-13,5107040,MT,Feriado Municipal
+2023-07-25,5107040,MT,Feriado Municipal
+2023-10-31,5107065,MT,Feriado Municipal
+2023-12-08,5107065,MT,N. Sra Imaculada Conceição
+2023-12-19,5107065,MT,Emancipação do Município
+2023-05-03,5107180,MT,Feriado Municipal
+2023-06-24,5107180,MT,Feriado Municipal
+2023-08-12,5107180,MT,Feriado Municipal
+2023-05-22,5107206,MT,Feriado Municipal
+2023-08-16,5107206,MT,Feriado Municipal
+2023-06-08,5107602,MT,Corpus Christi
+2023-12-10,5107602,MT,Feriado Municipal
+2023-06-25,5107701,MT,Feriado Municipal
+2023-07-25,5107248,MT,Feriado Municipal
+2023-09-15,5107248,MT,Feriado Municipal
+2023-12-19,5107248,MT,Feriado Municipal
+2023-05-22,5107768,MT,Dia da Padroeira
+2023-09-25,5107768,MT,Aniversário da Cidade
+2023-01-28,5107792,MT,Feriado Municipal
+2023-06-13,5107792,MT,Dia de Santo Antônio
+2023-05-05,5107800,MT,Feriado Municipal
+2023-06-13,5107800,MT,Dia de Santo Antônio
+2023-05-13,5107859,MT,Feriado Municipal
+2023-08-15,5107859,MT,Feriado Municipal
+2023-03-19,5107305,MT,São José
+2023-06-15,5107107,MT,Feriado Municipal
+2023-12-14,5107107,MT,Feriado Municipal
+2023-04-22,5107875,MT,Fundação do Município
+2023-05-13,5107875,MT,Dia da Padroeira
+2023-09-19,5107875,MT,Aniversário do Município
+2023-10-31,5107875,MT,Dia do Evangélico
+2023-06-13,5107909,MT,Dia de Santo Antônio
+2023-09-14,5107909,MT,Aniversário da Cidade
+2023-05-13,5107925,MT,Emancipação
+2023-06-29,5107925,MT,São Pedro
+2023-06-13,5107941,MT,Dia de Santo Antônio
+2023-09-20,5107941,MT,Feriado Municipal
+2023-05-13,5107958,MT,Feriado Municipal
+2023-07-04,5108006,MT,Feriado Municipal
+2023-05-13,5108055,MT,Feriado Municipal
+2023-04-30,5108204,MT,Feriado Municipal
+2023-12-10,5108204,MT,Feriado Municipal
+2023-02-21,5108402,MT,Carnaval
+2023-04-07,5108402,MT,Sexta-Feira Santa
+2023-06-08,5108402,MT,Corpus Christi
+2023-05-13,5108501,MT,Emancipação do Município
+2023-07-27,5108501,MT,Fundação do Município
+2023-10-28,5108501,MT,São Judas Tadeu
+2023-03-19,5105507,MT,Aniversário
+2023-05-13,5108600,MT,Feriado Municipal
+2023-06-29,5108600,MT,Feriado Municipal
+2023-08-10,5108600,MT,Feriado Municipal
+2023-11-14,1702109,TO,Feriado Municipal
+2023-06-09,1702208,TO,Feriado Municipal
+2023-01-10,1700350,TO,Feriado Municipal
+2023-06-24,1700350,TO,Feriado Municipal
+2023-05-17,1700400,TO,Feriado Municipal
+2023-05-18,1700400,TO,Feriado Municipal
+2023-11-14,1700400,TO,Feriado Municipal
+2023-12-10,1700400,TO,Feriado Municipal
+2023-06-29,1701002,TO,Feriado Municipal
+2023-11-14,1702000,TO,Feriado Municipal
+2023-12-08,1702000,TO,Feriado Municipal
+2023-06-15,1702109,TO,Feriado Municipal
+2023-08-15,1702208,TO,Feriado Municipal
+2023-11-07,1702307,TO,Feriado Municipal
+2023-01-20,1702406,TO,Feriado Municipal
+2023-08-01,1702406,TO,Feriado Municipal
+2023-11-20,1702406,TO,Dia da Consciência Negra
+2023-05-22,1702554,TO,Feriado Municipal
+2023-11-14,1703701,TO,Feriado Municipal
+2023-10-31,1705508,TO,Feriado Municipal
+2023-05-14,1716703,TO,Feriado Municipal
+2023-08-06,1716703,TO,Feriado Municipal
+2023-12-26,1716703,TO,Feriado Municipal
+2023-06-01,1705557,TO,Feriado Municipal
+2023-06-23,1706100,TO,Feriado Municipal
+2023-07-27,1706100,TO,Feriado Municipal
+2023-03-08,1707009,TO,"Dia internacional da mulher, de acordo com a ei nº 1190/2011"
+2023-03-19,1707009,TO,São José
+2023-08-26,1707009,TO,Feriado Municipal
+2023-11-20,1707009,TO,Consciência Negra
+2023-06-01,1707108,TO,Feriado Municipal
+2023-07-16,1707108,TO,Feriado Municipal
+2023-05-13,1707553,TO,Feriado Municipal
+2023-05-14,1707553,TO,Feriado Municipal
+2023-12-21,1707553,TO,Feriado Municipal
+2023-06-10,1707652,TO,Feriado Municipal
+2023-06-24,1707652,TO,Feriado Municipal
+2023-09-21,1707702,TO,Dia do Feijão
+2023-06-24,1708205,TO,Feriado Municipal
+2023-08-23,1708205,TO,Feriado Municipal
+2023-04-11,1709302,TO,Feriado Municipal
+2023-06-29,1709302,TO,Feriado Municipal
+2023-06-13,1709500,TO,Padroeiro
+2023-11-14,1709500,TO,Aniversário
+2023-11-30,1709500,TO,Feriado Municipal
+2023-02-20,1711902,TO,Feriado Municipal
+2023-08-15,1711902,TO,Feriado Municipal
+2023-06-25,1713205,TO,Feriado Municipal
+2023-08-25,1713205,TO,Feriado Municipal
+2023-10-01,1713205,TO,"Dia de Santa Teresinha do Menino Jesus, Padroeira do Município"
+2023-11-20,1713205,TO,Dia da Consciência Negra
+2023-06-13,1713304,TO,Dia de Santo Antônio
+2023-11-08,1713304,TO,Feriado Municipal
+2023-06-01,1714203,TO,Feriado Municipal
+2023-08-15,1714203,TO,Feriado Municipal
+2023-08-16,1714203,TO,Feriado Municipal
+2023-03-19,1721000,TO,São José
+2023-04-07,1721000,TO,Sexta-feira Santa
+2023-05-20,1721000,TO,Aniversário de Palmas
+2023-11-02,1721000,TO,Dia de Finados
+2023-06-10,1715754,TO,Feriado Municipal
+2023-11-27,1715754,TO,Feriado Municipal
+2023-06-29,1716505,TO,Feriado Municipal
+2023-07-15,1716505,TO,Feriado Municipal
+2023-06-20,1716604,TO,Feriado Municipal
+2023-08-15,1716604,TO,Feriado Municipal
+2023-11-20,1717909,TO,Consciência Negra
+2023-07-13,1718204,TO,Feriado Municipal
+2023-09-24,1718204,TO,Feriado Municipal
+2023-11-20,1718204,TO,Dia da Consciência Negra
+2023-01-20,1720655,TO,Feriado Municipal
+2023-06-10,1720655,TO,Feriado Municipal
+2023-06-10,1720903,TO,Feriado Municipal
+2023-05-26,1720978,TO,Feriado Municipal
+2023-07-07,1721208,TO,Feriado Municipal
+2023-07-28,1721208,TO,Feriado Municipal
+2023-08-15,1721208,TO,Feriado Municipal
+2023-09-29,1722107,TO,Feriado Municipal
+2023-11-14,1722107,TO,Feriado Municipal
+2023-11-30,1722107,TO,Feriado Municipal
+2024-11-14,5201405,GO,Emancipação política
+2024-10-21,5204508,GO,Aniversário da Cidade
+2024-05-24,5208707,GO,Nossa Senhora Auxiliadora
+2024-10-24,5208707,GO,Aniversário de Goiânia
+2024-11-20,5208707,GO,Dia da Consciência Negra
+2024-07-26,5208905,GO,Fundação da Cidade
+2024-03-19,5209937,GO,São José
+2024-03-19,5210000,GO,São José
+2024-03-19,5213905,GO,São José
+2024-03-19,5214606,GO,São José
+2024-10-08,5216809,GO,Aniversário da Cidade
+2024-03-19,5217609,GO,São José
+2024-05-30,5219100,GO,Corpus Christi
+2024-10-23,5219100,GO,Aniversário da cidade
+2024-12-04,5219100,GO,Santa Bárbara
+2024-06-15,5221858,GO,Aniversário
+2024-10-04,5221858,GO,Dia do Padroeiro
+2024-11-30,5221858,GO,Dia do Evangélico
+2024-03-19,5222005,GO,São José
+2024-03-29,5002704,MS,Sexta-feira Santa
+2024-05-30,5002704,MS,Corpus Christi
+2024-06-13,5002704,MS,Dia de Santo Antônio
+2024-08-26,5002704,MS,Aniversário de Campo Grande
+2024-03-19,5002902,MS,São José
+2024-08-03,5002902,MS,Aniversário do município
+2024-02-02,5003207,MS,Nossa Sra da Candelária
+2024-03-29,5003207,MS,Sexta-feira da Paixão
+2024-06-13,5003207,MS,Retomada de Corumbá
+2024-09-21,5003207,MS,Fundação de Corumbá
+2024-11-20,5003207,MS,Dia da Consciência Negra
+2024-03-19,5003306,MS,São José
+2024-03-19,5004106,MS,São José
+2024-03-19,5004502,MS,São José
+2024-11-20,5005202,MS,Dia da Consciência Negra
+2024-06-11,5005400,MS,Aniversário da Cidade
+2024-03-19,5006606,MS,São José
+2024-07-18,5006606,MS,Aniversário da Cidade
+2024-03-19,5007109,MS,São José
+2024-08-06,5007505,MS,Bom Jesus de Rochedo
+2024-06-15,5008305,MS,Aniversário da Cidade
+2024-03-19,5100508,MT,São José
+2024-03-19,5100607,MT,"Dia de São José, padroeiro da cidade"
+2024-05-13,5100607,MT,Aniversário da cidade
+2024-02-02,5101258,MT,Emancipação Política
+2024-07-04,5102637,MT,Aniversário da Cidade
+2024-07-25,5102637,MT,Dia de São Cristóvão
+2024-07-04,5102678,MT,Emancipação do Município
+2024-07-25,5102678,MT,São Cristóvão
+2024-07-13,5103353,MT,Dia do Evangélico
+2024-03-29,5103403,MT,Sexta-feira Santa
+2024-04-08,5103403,MT,Aniversário de Cuiabá
+2024-05-30,5103403,MT,Corpus Christi
+2024-12-08,5103403,MT,Nossa Senhora da Conceição
+2024-06-29,5103700,MT,São Pedro Apóstolo
+2024-10-31,5104542,MT,Dia da Reforma Protestante
+2024-05-13,5104559,MT,Feriado Municipal
+2024-03-19,5105101,MT,São José
+2024-03-29,5105101,MT,Sexta-Feira Santa
+2024-05-30,5105101,MT,Corpus Christi
+2024-12-14,5105101,MT,Emancipação do Município
+2024-02-27,5105622,MT,Pe. Thiago Cheza
+2024-03-29,5105622,MT,Sexta-Feria Santa
+2024-05-14,5105622,MT,Emancipação Política
+2024-04-14,5106257,MT,Aniversário da Cidade
+2024-11-27,5106257,MT,Nossa Sra das Graças
+2024-12-08,5107065,MT,N. Sra Imaculada Conceição
+2024-12-19,5107065,MT,Emancipação do Município
+2024-05-30,5107602,MT,Corpus Christi
+2024-05-22,5107768,MT,Dia da Padroeira
+2024-09-25,5107768,MT,Aniversário da Cidade
+2024-03-19,5107305,MT,São José
+2024-04-22,5107875,MT,Fundação do Município
+2024-05-13,5107875,MT,Dia da Padroeira
+2024-09-19,5107875,MT,Aniversário do Município
+2024-10-31,5107875,MT,Dia do Evangélico
+2024-06-13,5107909,MT,Dia de Santo Antônio
+2024-09-14,5107909,MT,Aniversário da Cidade
+2024-05-13,5107925,MT,Emancipação
+2024-06-29,5107925,MT,São Pedro
+2024-02-13,5108402,MT,Carnaval
+2024-03-29,5108402,MT,Sexta-Feira Santa
+2024-05-30,5108402,MT,Corpus Christi
+2024-05-13,5108501,MT,Emancipação do Município
+2024-07-27,5108501,MT,Fundação do Município
+2024-10-28,5108501,MT,São Judas Tadeu
+2024-03-19,5105507,MT,Aniversário
+2024-04-21,5300108,DF,Aniversário de Brasília
+2024-08-15,5200100,GO,Feriado Municipal
+2024-04-04,5200134,GO,Feriado Municipal
+2024-05-14,5200134,GO,Feriado Municipal
+2024-11-30,5200258,GO,Feriado Municipal
+2024-12-15,5200258,GO,Feriado Municipal
+2024-09-15,5200308,GO,Feriado Municipal
+2024-11-14,5200308,GO,Feriado Municipal
+2024-01-20,5200506,GO,Feriado Municipal
+2024-06-17,5200506,GO,Feriado Municipal
+2024-08-15,5200605,GO,Feriado Municipal
+2024-11-27,5200605,GO,Feriado Municipal
+2024-12-12,5200605,GO,Feriado Municipal
+2024-09-08,5200803,GO,Feriado Municipal
+2024-07-26,5201108,GO,Padroeira
+2024-07-31,5201108,GO,Aniversário
+2024-06-07,5201306,GO,Feriado Municipal
+2024-08-28,5201504,GO,Feriado Municipal
+2024-11-14,5201504,GO,Feriado Municipal
+2024-08-06,5201702,GO,Feriado Municipal
+2024-11-20,5201702,GO,Dia da Consciência Negra
+2024-05-14,5202155,GO,Feriado Municipal
+2024-08-15,5202155,GO,Feriado Municipal
+2024-05-14,5202353,GO,Feriado Municipal
+2024-06-29,5202353,GO,Feriado Municipal
+2024-12-18,5202502,GO,Feriado Municipal
+2024-12-13,5202601,GO,Feriado Municipal
+2024-08-15,5203203,GO,Feriado Municipal
+2024-11-14,5203203,GO,Feriado Municipal
+2024-06-05,5203302,GO,Feriado Municipal
+2024-06-23,5203401,GO,Feriado Municipal
+2024-06-24,5203401,GO,Feriado Municipal
+2024-08-18,5203401,GO,Feriado Municipal
+2024-08-06,5203500,GO,Feriado Municipal
+2024-11-07,5203500,GO,Feriado Municipal
+2024-01-25,5203807,GO,Feriado Municipal
+2024-06-29,5203807,GO,Feriado Municipal
+2024-06-24,5203906,GO,Feriado Municipal
+2024-08-15,5203906,GO,Feriado Municipal
+2024-08-23,5204003,GO,Feriado Municipal
+2024-11-14,5204003,GO,Feriado Municipal
+2024-08-15,5204102,GO,Feriado Municipal
+2024-09-24,5204102,GO,Feriado Municipal
+2024-01-20,5204250,GO,Feriado Municipal
+2024-05-14,5204250,GO,Feriado Municipal
+2024-09-16,5204300,GO,Feriado Municipal
+2024-01-20,5204409,GO,Feriado Municipal
+2024-07-29,5204409,GO,Feriado Municipal
+2024-11-01,5204409,GO,Feriado Municipal
+2024-09-15,5204508,GO,Feriado Municipal
+2024-01-20,5204557,GO,Feriado Municipal
+2024-04-29,5204557,GO,Feriado Municipal
+2024-08-15,5204557,GO,Feriado Municipal
+2024-05-31,5204607,GO,Feriado Municipal
+2024-12-08,5204706,GO,Feriado Municipal
+2024-09-08,5204805,GO,Feriado Municipal
+2024-11-12,5204805,GO,Feriado Municipal
+2024-12-08,5204904,GO,Feriado Municipal
+2024-06-13,5204953,GO,Dia de Santo Antônio
+2024-06-11,5205000,GO,Feriado Municipal
+2024-11-14,5205000,GO,Feriado Municipal
+2024-01-16,5205059,GO,Feriado Municipal
+2024-06-16,5205059,GO,Feriado Municipal
+2024-08-20,5205109,GO,Feriado Municipal
+2024-07-26,5205307,GO,Feriado Municipal
+2024-08-15,5205307,GO,Feriado Municipal
+2024-09-16,5205307,GO,Feriado Municipal
+2024-11-11,5205307,GO,Feriado Municipal
+2024-11-30,5205307,GO,Feriado Municipal
+2024-03-17,5205406,GO,Feriado Municipal
+2024-07-16,5205406,GO,Feriado Municipal
+2024-09-04,5205406,GO,Feriado Municipal
+2024-12-08,5205406,GO,Feriado Municipal
+2024-05-14,5205455,GO,Feriado Municipal
+2024-07-25,5205455,GO,Feriado Municipal
+2024-08-21,5205471,GO,Feriado Municipal
+2024-08-22,5205471,GO,Feriado Municipal
+2024-06-13,5205497,GO,Dia de Santo Antônio
+2024-10-31,5205497,GO,Feriado Municipal
+2024-12-09,5205497,GO,Feriado Municipal
+2024-06-13,5205513,GO,Dia de Santo Antônio
+2024-07-03,5205513,GO,Feriado Municipal
+2024-11-30,5205513,GO,Feriado Municipal
+2024-09-24,5205703,GO,Feriado Municipal
+2024-01-20,5205802,GO,Feriado Municipal
+2024-07-09,5205802,GO,Feriado Municipal
+2024-09-08,5205802,GO,Feriado Municipal
+2024-11-30,5205802,GO,Feriado Municipal
+2024-05-28,5205901,GO,Feriado Municipal
+2024-08-06,5205901,GO,Feriado Municipal
+2024-01-20,5206206,GO,Feriado Municipal
+2024-05-16,5206206,GO,Feriado Municipal
+2024-07-18,5206206,GO,Feriado Municipal
+2024-10-31,5206206,GO,Feriado Municipal
+2024-06-23,5206305,GO,Feriado Municipal
+2024-10-30,5206404,GO,Feriado Municipal
+2024-12-08,5206404,GO,Feriado Municipal
+2024-11-12,5206503,GO,Feriado Municipal
+2024-12-04,5206503,GO,Feriado Municipal
+2024-01-20,5206602,GO,Feriado Municipal
+2024-07-10,5206602,GO,Feriado Municipal
+2024-07-14,5206602,GO,Feriado Municipal
+2024-12-10,5206602,GO,Feriado Municipal
+2024-04-30,5206701,GO,Feriado Municipal
+2024-11-14,5206701,GO,Feriado Municipal
+2024-06-13,5206800,GO,Dia de Santo Antônio
+2024-11-14,5206800,GO,Feriado Municipal
+2024-12-17,5207105,GO,Feriado Municipal
+2024-01-20,5208301,GO,Feriado Municipal
+2024-06-24,5208301,GO,Feriado Municipal
+2024-08-10,5208301,GO,Feriado Municipal
+2024-11-14,5208301,GO,Feriado Municipal
+2024-05-14,5207253,GO,Feriado Municipal
+2024-09-29,5207253,GO,Feriado Municipal
+2024-06-13,5207402,GO,Dia de Santo Antônio
+2024-08-15,5207600,GO,Feriado Municipal
+2024-09-08,5207808,GO,Feriado Municipal
+2024-11-14,5207907,GO,Feriado Municipal
+2024-11-20,5207907,GO,Dia da Consciência Negra
+2024-08-01,5208004,GO,Feriado Municipal
+2024-12-08,5208004,GO,Feriado Municipal
+2024-08-04,5208103,GO,Feriado Municipal
+2024-09-25,5208103,GO,Feriado Municipal
+2024-06-23,5208400,GO,Feriado Municipal
+2024-11-14,5208400,GO,Feriado Municipal
+2024-12-24,5208400,GO,Feriado Municipal
+2024-01-20,5208509,GO,Feriado Municipal
+2024-05-06,5208509,GO,Feriado Municipal
+2024-06-30,5208509,GO,Feriado Municipal
+2024-11-01,5208509,GO,Feriado Municipal
+2024-12-08,5208509,GO,Feriado Municipal
+2024-06-24,5208608,GO,Feriado Municipal
+2024-07-14,5208608,GO,Feriado Municipal
+2024-08-15,5208608,GO,Feriado Municipal
+2024-09-27,5208608,GO,Feriado Municipal
+2024-01-04,5208806,GO,Feriado Municipal
+2024-03-25,5208806,GO,Feriado Municipal
+2024-12-08,5208905,GO,Feriado Municipal
+2024-01-20,5209101,GO,Feriado Municipal
+2024-01-21,5209101,GO,Feriado Municipal
+2024-06-01,5209150,GO,Feriado Municipal
+2024-06-24,5209150,GO,Feriado Municipal
+2024-05-14,5209200,GO,Feriado Municipal
+2024-06-13,5209705,GO,Dia de Santo Antônio
+2024-11-05,5209705,GO,Feriado Municipal
+2024-11-14,5209804,GO,Feriado Municipal
+2024-11-14,5209903,GO,Feriado Municipal
+2024-04-29,5209937,GO,Feriado Municipal
+2024-02-01,5209952,GO,Feriado Municipal
+2024-04-22,5209952,GO,Feriado Municipal
+2024-05-14,5209952,GO,Feriado Municipal
+2024-07-26,5210000,GO,Feriado Municipal
+2024-08-15,5210109,GO,Feriado Municipal
+2024-09-12,5210109,GO,Feriado Municipal
+2024-05-24,5210208,GO,Feriado Municipal
+2024-11-19,5210208,GO,Feriado Municipal
+2024-01-20,5210406,GO,Feriado Municipal
+2024-08-15,5210406,GO,Feriado Municipal
+2024-11-09,5210406,GO,Feriado Municipal
+2024-01-20,5210604,GO,Feriado Municipal
+2024-11-14,5210604,GO,Feriado Municipal
+2024-06-24,5210802,GO,Feriado Municipal
+2024-11-14,5210802,GO,Feriado Municipal
+2024-11-20,5210802,GO,Dia da Consciência Negra
+2024-08-11,5210901,GO,Feriado Municipal
+2024-08-08,5211008,GO,Feriado Municipal
+2024-11-14,5211008,GO,Feriado Municipal
+2024-01-06,5211206,GO,Feriado Municipal
+2024-01-20,5211305,GO,Feriado Municipal
+2024-07-21,5211305,GO,Feriado Municipal
+2024-08-15,5211305,GO,Feriado Municipal
+2024-08-15,5211404,GO,Feriado Municipal
+2024-05-22,5211503,GO,Feriado Municipal
+2024-08-15,5211701,GO,Feriado Municipal
+2024-01-20,5211800,GO,Feriado Municipal
+2024-07-29,5211800,GO,Feriado Municipal
+2024-09-08,5211800,GO,Feriado Municipal
+2024-05-31,5211909,GO,Feriado Municipal
+2024-08-15,5212105,GO,Feriado Municipal
+2024-11-14,5212105,GO,Feriado Municipal
+2024-11-14,5212204,GO,Feriado Municipal
+2024-11-27,5212204,GO,Feriado Municipal
+2024-01-20,5212303,GO,Feriado Municipal
+2024-05-24,5212303,GO,Feriado Municipal
+2024-08-15,5212303,GO,Feriado Municipal
+2024-09-02,5212303,GO,Feriado Municipal
+2024-11-30,5212501,GO,Dia do Evangélico
+2024-12-13,5212501,GO,Aniversário de Luziânia
+2024-11-13,5212600,GO,Feriado Municipal
+2024-11-14,5212709,GO,Feriado Municipal
+2024-12-08,5212709,GO,Feriado Municipal
+2024-06-13,5212808,GO,Dia de Santo Antônio
+2024-09-02,5212808,GO,Feriado Municipal
+2024-11-30,5212808,GO,Feriado Municipal
+2024-06-01,5212956,GO,Feriado Municipal
+2024-12-13,5212956,GO,Feriado Municipal
+2024-11-14,5213004,GO,Feriado Municipal
+2024-05-14,5213087,GO,Feriado Municipal
+2024-10-31,5213103,GO,Feriado Municipal
+2024-06-13,5213509,GO,Dia de Santo Antônio
+2024-08-15,5213509,GO,Feriado Municipal
+2024-08-15,5213756,GO,Feriado Municipal
+2024-12-30,5213756,GO,Feriado Municipal
+2024-07-16,5213806,GO,Feriado Municipal
+2024-08-29,5213806,GO,Aniversário da Cidade
+2024-11-14,5213905,GO,Feriado Municipal
+2024-06-27,5214002,GO,Feriado Municipal
+2024-06-10,5214051,GO,Feriado Municipal
+2024-08-25,5214408,GO,Feriado Municipal
+2024-08-03,5214507,GO,Feriado Municipal
+2024-07-25,5214606,GO,Feriado Municipal
+2024-08-15,5214606,GO,Feriado Municipal
+2024-01-20,5214804,GO,Feriado Municipal
+2024-05-13,5214804,GO,Feriado Municipal
+2024-08-15,5214804,GO,Feriado Municipal
+2024-11-13,5214804,GO,Feriado Municipal
+2024-02-01,5214838,GO,Feriado Municipal
+2024-06-13,5214838,GO,Dia de Santo Antônio
+2024-06-10,5214861,GO,Feriado Municipal
+2024-08-15,5214861,GO,Feriado Municipal
+2024-09-27,5214861,GO,Feriado Municipal
+2024-07-16,5215009,GO,Feriado Municipal
+2024-11-14,5215009,GO,Feriado Municipal
+2024-06-15,5215231,GO,Feriado Municipal
+2024-11-30,5215231,GO,Feriado Municipal
+2024-12-08,5215231,GO,Feriado Municipal
+2024-06-01,5215256,GO,Feriado Municipal
+2024-06-02,5215256,GO,Feriado Municipal
+2024-06-29,5215256,GO,Feriado Municipal
+2024-07-02,5215256,GO,Feriado Municipal
+2024-08-06,5215256,GO,Feriado Municipal
+2024-09-15,5215306,GO,Feriado Municipal
+2024-05-09,5215603,GO,Feriado Municipal
+2024-07-16,5215603,GO,Feriado Municipal
+2024-11-01,5215603,GO,Feriado Municipal
+2024-01-20,5215702,GO,Feriado Municipal
+2024-07-06,5215702,GO,Feriado Municipal
+2024-11-01,5216304,GO,Feriado Municipal
+2024-12-08,5216304,GO,Feriado Municipal
+2024-08-15,5216403,GO,Feriado Municipal
+2024-11-10,5216403,GO,Feriado Municipal
+2024-09-08,5216809,GO,Feriado Municipal
+2024-08-15,5217104,GO,Feriado Municipal
+2024-11-01,5217104,GO,Feriado Municipal
+2024-11-22,5217104,GO,Feriado Municipal
+2024-06-13,5217203,GO,Dia de Santo Antônio
+2024-06-13,5217401,GO,Dia de Santo Antônio
+2024-11-09,5217401,GO,Feriado Municipal
+2024-11-30,5217609,GO,Feriado Municipal
+2024-05-22,5217708,GO,Feriado Municipal
+2024-10-31,5217708,GO,Feriado Municipal
+2024-08-25,5218003,GO,Feriado Municipal
+2024-09-15,5218003,GO,Feriado Municipal
+2024-12-13,5218003,GO,Feriado Municipal
+2024-11-14,5218102,GO,Feriado Municipal
+2024-07-19,5218300,GO,Feriado Municipal
+2024-07-26,5218300,GO,Feriado Municipal
+2024-01-22,5218508,GO,Feriado Municipal
+2024-08-15,5218508,GO,Feriado Municipal
+2024-03-17,5218607,GO,Feriado Municipal
+2024-05-31,5218607,GO,Feriado Municipal
+2024-07-16,5218607,GO,Feriado Municipal
+2024-09-04,5218607,GO,Feriado Municipal
+2024-12-18,5218706,GO,Feriado Municipal
+2024-01-20,5218789,GO,Feriado Municipal
+2024-05-11,5218789,GO,Feriado Municipal
+2024-01-20,5218805,GO,Dia de São Sebastião (Padroeiro)
+2024-08-05,5218805,GO,Aniversário de Rio Verde
+2024-08-15,5218904,GO,Feriado Municipal
+2024-01-05,5219001,GO,Feriado Municipal
+2024-08-15,5219001,GO,Feriado Municipal
+2024-12-08,5219209,GO,Feriado Municipal
+2024-06-01,5219258,GO,Feriado Municipal
+2024-05-18,5219308,GO,Feriado Municipal
+2024-08-20,5219308,GO,Feriado Municipal
+2024-05-22,5219407,GO,Feriado Municipal
+2024-11-20,5219407,GO,Dia da Consciência Negra
+2024-08-15,5219506,GO,Feriado Municipal
+2024-11-14,5219506,GO,Feriado Municipal
+2024-03-08,5219753,GO,Feriado Municipal
+2024-05-14,5219753,GO,Feriado Municipal
+2024-06-13,5219753,GO,Dia de Santo Antônio
+2024-11-30,5219753,GO,Feriado Municipal
+2024-08-04,5219803,GO,Feriado Municipal
+2024-08-06,5219803,GO,Feriado Municipal
+2024-12-13,5219803,GO,Feriado Municipal
+2024-09-08,5219902,GO,Feriado Municipal
+2024-01-20,5220009,GO,Feriado Municipal
+2024-06-24,5220009,GO,Feriado Municipal
+2024-08-15,5220009,GO,Feriado Municipal
+2024-11-13,5220009,GO,Feriado Municipal
+2024-12-24,5220009,GO,Feriado Municipal
+2024-06-21,5220108,GO,Feriado Municipal
+2024-09-29,5220207,GO,Feriado Municipal
+2024-11-14,5220207,GO,Feriado Municipal
+2024-01-09,5220264,GO,Feriado Municipal
+2024-09-29,5220264,GO,Feriado Municipal
+2024-11-14,5220405,GO,Feriado Municipal
+2024-05-24,5220454,GO,Feriado Municipal
+2024-06-01,5220454,GO,Feriado Municipal
+2024-05-13,5220504,GO,Feriado Municipal
+2024-11-14,5220504,GO,Feriado Municipal
+2024-09-14,5220603,GO,Feriado Municipal
+2024-06-13,5221304,GO,Dia de Santo Antônio
+2024-08-15,5221304,GO,Feriado Municipal
+2024-06-28,5221403,GO,Feriado Municipal
+2024-06-29,5221403,GO,Feriado Municipal
+2024-07-02,5221403,GO,Feriado Municipal
+2024-08-31,5221403,GO,Feriado Municipal
+2024-06-14,5221502,GO,Feriado Municipal
+2024-11-14,5221502,GO,Feriado Municipal
+2024-06-01,5221551,GO,Feriado Municipal
+2024-08-05,5221551,GO,Feriado Municipal
+2024-07-04,5221601,GO,Feriado Municipal
+2024-07-26,5221601,GO,Feriado Municipal
+2024-01-20,5221700,GO,Feriado Municipal
+2024-09-14,5221700,GO,Feriado Municipal
+2024-08-06,5221809,GO,Feriado Municipal
+2024-03-29,5221858,GO,Sexta-feira da Paixão
+2024-08-19,5222005,GO,Feriado Municipal
+2024-01-20,5222054,GO,Feriado Municipal
+2024-06-10,5222054,GO,Feriado Municipal
+2024-02-08,5000203,MS,Aniversário
+2024-10-31,5000203,MS,Dia do Evangélico
+2024-05-24,5000609,MS,Feriado Municipal
+2024-09-28,5000609,MS,Feriado Municipal
+2024-02-11,5000708,MS,Feriado Municipal
+2024-05-08,5000708,MS,Feriado Municipal
+2024-06-24,5000807,MS,Feriado Municipal
+2024-11-11,5000807,MS,Feriado Municipal
+2024-05-13,5000856,MS,Feriado Municipal
+2024-06-29,5000856,MS,Feriado Municipal
+2024-03-18,5000906,MS,Feriado Municipal
+2024-06-27,5000906,MS,Feriado Municipal
+2024-09-28,5001003,MS,Feriado Municipal
+2024-08-15,5001102,MS,Feriado Municipal
+2024-12-08,5001102,MS,Feriado Municipal
+2024-05-13,5001243,MS,Feriado Municipal
+2024-06-20,5001508,MS,Feriado Municipal
+2024-06-24,5001904,MS,Feriado Municipal
+2024-08-15,5001904,MS,Feriado Municipal
+2024-12-11,5001904,MS,Feriado Municipal
+2024-07-20,5002100,MS,Feriado Municipal
+2024-08-01,5002100,MS,Feriado Municipal
+2024-12-08,5002100,MS,Feriado Municipal
+2024-01-06,5002159,MS,Feriado Municipal
+2024-05-13,5002159,MS,Feriado Municipal
+2024-06-27,5002159,MS,Feriado Municipal
+2024-06-29,5002209,MS,Padroeiro
+2024-04-25,5002308,MS,Feriado Municipal
+2024-08-06,5002407,MS,Feriado Municipal
+2024-12-26,5002407,MS,Feriado Municipal
+2024-06-24,5002605,MS,Feriado Municipal
+2024-09-30,5002605,MS,Feriado Municipal
+2024-06-19,5002803,MS,Feriado Municipal
+2024-06-29,5002951,MS,Feriado Municipal
+2024-12-08,5003157,MS,Feriado Municipal
+2024-12-15,5003157,MS,Feriado Municipal
+2024-05-12,5003256,MS,Feriado Municipal
+2024-06-13,5003256,MS,Dia de Santo Antônio
+2024-04-11,5003306,MS,Feriado Municipal
+2024-05-13,5003454,MS,Feriado Municipal
+2024-11-13,5003488,MS,Feriado Municipal
+2024-05-12,5003504,MS,Feriado Municipal
+2024-12-08,5003702,MS,Feriado Municipal
+2024-12-20,5003702,MS,Feriado Municipal
+2024-05-13,5003751,MS,Feriado Municipal
+2024-05-13,5003801,MS,Feriado Municipal
+2024-07-09,5003801,MS,Feriado Municipal
+2024-08-15,5003900,MS,Feriado Municipal
+2024-09-29,5003900,MS,Feriado Municipal
+2024-05-02,5004007,MS,Feriado Municipal
+2024-08-15,5004007,MS,Feriado Municipal
+2024-05-08,5004304,MS,Feriado Municipal
+2024-12-08,5004304,MS,Feriado Municipal
+2024-04-04,5004403,MS,Feriado Municipal
+2024-08-06,5004403,MS,Feriado Municipal
+2024-11-20,5004502,MS,Dia da Consciência Negra
+2024-12-10,5004502,MS,Feriado Municipal
+2024-05-13,5004601,MS,Feriado Municipal
+2024-06-27,5004601,MS,Feriado Municipal
+2024-01-25,5004700,MS,Feriado Municipal
+2024-11-11,5004700,MS,Feriado Municipal
+2024-03-31,5004809,MS,Feriado Municipal
+2024-04-30,5004809,MS,Feriado Municipal
+2024-05-14,5005004,MS,Feriado Municipal
+2024-06-13,5005004,MS,Dia de Santo Antônio
+2024-06-29,5005103,MS,Feriado Municipal
+2024-11-11,5005103,MS,Feriado Municipal
+2024-12-13,5005103,MS,Feriado Municipal
+2024-12-13,5005152,MS,Feriado Municipal
+2024-12-14,5005152,MS,Feriado Municipal
+2024-09-02,5005202,MS,Feriado Municipal
+2024-04-22,5005251,MS,Feriado Municipal
+2024-05-26,5005251,MS,Feriado Municipal
+2024-04-19,5005608,MS,Feriado Municipal
+2024-07-16,5005608,MS,Feriado Municipal
+2024-12-08,5005608,MS,Feriado Municipal
+2024-05-13,5005681,MS,Feriado Municipal
+2024-05-13,5005707,MS,Feriado Municipal
+2024-11-11,5005707,MS,Feriado Municipal
+2024-04-08,5005806,MS,Feriado Municipal
+2024-04-19,5005806,MS,Dia do ìndio
+2024-05-22,5005806,MS,Feriado Municipal
+2024-07-18,5005806,MS,Feriado Municipal
+2024-07-25,5006002,MS,Feriado Municipal
+2024-04-30,5006200,MS,Feriado Municipal
+2024-05-31,5006200,MS,Feriado Municipal
+2024-04-30,5006259,MS,Feriado Municipal
+2024-06-14,5006259,MS,Feriado Municipal
+2024-07-04,5006309,MS,Feriado Municipal
+2024-07-26,5006309,MS,Feriado Municipal
+2024-06-24,5006358,MS,Feriado Municipal
+2024-11-17,5006358,MS,Feriado Municipal
+2024-12-08,5006358,MS,Feriado Municipal
+2024-01-20,5006408,MS,Feriado Municipal
+2024-11-11,5006408,MS,Feriado Municipal
+2024-06-13,5006903,MS,Dia de Santo Antônio
+2024-06-15,5006903,MS,Feriado Municipal
+2024-06-24,5006903,MS,Feriado Municipal
+2024-12-08,5006903,MS,Feriado Municipal
+2024-01-20,5007109,MS,Feriado Municipal
+2024-12-08,5007109,MS,Feriado Municipal
+2024-09-26,5007208,MS,Feriado Municipal
+2024-12-08,5007208,MS,Feriado Municipal
+2024-05-09,5007307,MS,Feriado Municipal
+2024-05-13,5007307,MS,Feriado Municipal
+2024-05-24,5007406,MS,Feriado Municipal
+2024-12-16,5007406,MS,Feriado Municipal
+2024-11-23,5007505,MS,Feriado Municipal
+2024-05-22,5007554,MS,Feriado Municipal
+2024-12-18,5007554,MS,Feriado Municipal
+2024-05-12,5007695,MS,Feriado Municipal
+2024-09-29,5007695,MS,Feriado Municipal
+2024-05-12,5007802,MS,Feriado Municipal
+2024-06-24,5007802,MS,Feriado Municipal
+2024-05-13,5007703,MS,Feriado Municipal
+2024-08-15,5007703,MS,Feriado Municipal
+2024-12-08,5007703,MS,Feriado Municipal
+2024-08-15,5007901,MS,Feriado Municipal
+2024-12-11,5007901,MS,Feriado Municipal
+2024-06-03,5007935,MS,Feriado Municipal
+2024-01-20,5007950,MS,Feriado Municipal
+2024-05-13,5007950,MS,Feriado Municipal
+2024-12-08,5007950,MS,Feriado Municipal
+2024-05-12,5007976,MS,Feriado Municipal
+2024-05-08,5008008,MS,Feriado Municipal
+2024-06-13,5008008,MS,Dia de Santo Antônio
+2024-05-25,5008404,MS,Feriado Municipal
+2024-06-20,5008404,MS,Feriado Municipal
+2024-09-12,5008404,MS,Feriado Municipal
+2024-12-08,5008404,MS,Feriado Municipal
+2024-05-19,5100250,MT,Feriado Municipal
+2024-05-24,5100300,MT,Feriado Municipal
+2024-01-20,5100409,MT,Feriado Municipal
+2024-12-10,5100409,MT,Feriado Municipal
+2024-08-06,5100508,MT,Feriado Municipal
+2024-12-16,5100508,MT,Feriado Municipal
+2024-05-14,5101001,MT,Feriado Municipal
+2024-05-13,5101258,MT,Feriado Municipal
+2024-05-23,5101258,MT,Feriado Municipal
+2024-01-20,5101308,MT,Feriado Municipal
+2024-02-05,5101308,MT,Feriado Municipal
+2024-08-06,5101308,MT,Feriado Municipal
+2024-07-26,5101407,MT,Feriado Municipal
+2024-10-31,5101407,MT,Feriado Municipal
+2024-04-19,5101704,MT,Feriado Municipal
+2024-09-14,5101704,MT,Feriado Municipal
+2024-06-13,5101803,MT,Dia de Santo Antônio
+2024-09-15,5101803,MT,Feriado Municipal
+2024-06-01,5101902,MT,Feriado Municipal
+2024-08-25,5102504,MT,"Dia de São Luiz de Cáceres, Padroeiro da cidade"
+2024-10-06,5102504,MT,Aniversário da cidade
+2024-05-13,5102603,MT,Feriado Municipal
+2024-08-06,5102603,MT,Feriado Municipal
+2024-11-01,5102603,MT,Feriado Municipal
+2024-11-27,5102686,MT,Feriado Municipal
+2024-11-28,5102686,MT,Feriado Municipal
+2024-02-15,5102702,MT,Feriado Municipal
+2024-05-24,5102702,MT,Feriado Municipal
+2024-07-25,5102702,MT,Feriado Municipal
+2024-07-26,5103007,MT,Feriado Municipal
+2024-07-31,5103007,MT,Feriado Municipal
+2024-07-04,5103056,MT,Feriado Municipal
+2024-08-15,5103056,MT,Feriado Municipal
+2024-06-24,5103205,MT,Feriado Municipal
+2024-12-18,5103205,MT,Feriado Municipal
+2024-05-13,5103304,MT,Feriado Municipal
+2024-07-29,5103353,MT,Feriado Municipal
+2024-05-06,5103452,MT,Feriado Municipal
+2024-07-25,5103452,MT,Feriado Municipal
+2024-09-18,5103502,MT,Feriado Municipal
+2024-12-08,5103502,MT,Feriado Municipal
+2024-01-20,5103601,MT,Feriado Municipal
+2024-04-14,5103601,MT,Feriado Municipal
+2024-06-02,5104104,MT,Feriado Municipal
+2024-06-24,5104203,MT,Feriado Municipal
+2024-08-02,5104203,MT,Feriado Municipal
+2024-06-29,5104559,MT,Feriado Municipal
+2024-01-20,5104609,MT,Feriado Municipal
+2024-07-16,5104609,MT,Feriado Municipal
+2024-12-01,5104609,MT,Feriado Municipal
+2024-09-11,5104906,MT,Feriado Municipal
+2024-02-22,5105002,MT,Feriado Municipal
+2024-04-29,5105002,MT,Feriado Municipal
+2024-09-20,5105002,MT,Feriado Municipal
+2024-05-09,5105150,MT,Feriado Municipal
+2024-07-04,5105176,MT,Feriado Municipal
+2024-08-06,5105200,MT,Feriado Municipal
+2024-12-10,5105200,MT,Feriado Municipal
+2024-05-13,5105259,MT,Dia da Padroeira
+2024-08-05,5105259,MT,Aniversário da cidade
+2024-05-13,5105580,MT,Feriado Municipal
+2024-10-31,5105580,MT,Feriado Municipal
+2024-12-08,5105580,MT,Feriado Municipal
+2024-07-04,5105606,MT,Feriado Municipal
+2024-07-25,5105606,MT,Feriado Municipal
+2024-01-20,5105903,MT,Feriado Municipal
+2024-02-05,5106000,MT,Feriado Municipal
+2024-07-26,5106000,MT,Feriado Municipal
+2024-05-13,5106216,MT,Feriado Municipal
+2024-08-26,5108907,MT,Feriado Municipal
+2024-06-13,5108956,MT,Dia de Santo Antônio
+2024-08-19,5108956,MT,Feriado Municipal
+2024-07-04,5106224,MT,Feriado Municipal
+2024-05-13,5106232,MT,Feriado Municipal
+2024-12-19,5106240,MT,Feriado Municipal
+2024-05-13,5106281,MT,Feriado Municipal
+2024-07-26,5106281,MT,Feriado Municipal
+2024-06-29,5106299,MT,Feriado Municipal
+2024-06-29,5106307,MT,Feriado Municipal
+2024-12-03,5106307,MT,Feriado Municipal
+2024-12-17,5106307,MT,Feriado Municipal
+2024-05-13,5106372,MT,Feriado Municipal
+2024-06-29,5106372,MT,Feriado Municipal
+2024-05-13,5106422,MT,Feriado Municipal
+2024-01-21,5106505,MT,Feriado Municipal
+2024-08-06,5106752,MT,Feriado Municipal
+2024-06-13,5106778,MT,Dia de Santo Antônio
+2024-09-24,5106778,MT,Feriado Municipal
+2024-02-02,5106802,MT,Feriado Municipal
+2024-11-11,5106802,MT,Feriado Municipal
+2024-06-24,5107008,MT,Feriado Municipal
+2024-05-13,5107040,MT,Feriado Municipal
+2024-07-25,5107040,MT,Feriado Municipal
+2024-10-31,5107065,MT,Feriado Municipal
+2024-05-03,5107180,MT,Feriado Municipal
+2024-06-24,5107180,MT,Feriado Municipal
+2024-08-12,5107180,MT,Feriado Municipal
+2024-05-22,5107206,MT,Feriado Municipal
+2024-08-16,5107206,MT,Feriado Municipal
+2024-12-10,5107602,MT,Feriado Municipal
+2024-06-25,5107701,MT,Feriado Municipal
+2024-07-25,5107248,MT,Feriado Municipal
+2024-09-15,5107248,MT,Feriado Municipal
+2024-12-19,5107248,MT,Feriado Municipal
+2024-01-28,5107792,MT,Feriado Municipal
+2024-06-13,5107792,MT,Dia de Santo Antônio
+2024-05-05,5107800,MT,Feriado Municipal
+2024-06-13,5107800,MT,Dia de Santo Antônio
+2024-05-13,5107859,MT,Feriado Municipal
+2024-08-15,5107859,MT,Feriado Municipal
+2024-06-15,5107107,MT,Feriado Municipal
+2024-12-14,5107107,MT,Feriado Municipal
+2024-06-13,5107941,MT,Dia de Santo Antônio
+2024-09-20,5107941,MT,Feriado Municipal
+2024-05-13,5107958,MT,Feriado Municipal
+2024-07-04,5108006,MT,Feriado Municipal
+2024-05-13,5108055,MT,Feriado Municipal
+2024-04-30,5108204,MT,Feriado Municipal
+2024-12-10,5108204,MT,Feriado Municipal
+2024-05-13,5108600,MT,Feriado Municipal
+2024-06-29,5108600,MT,Feriado Municipal
+2024-08-10,5108600,MT,Feriado Municipal
+2024-01-10,1700350,TO,Feriado Municipal
+2024-06-24,1700350,TO,Feriado Municipal
+2024-05-17,1700400,TO,Feriado Municipal
+2024-05-18,1700400,TO,Feriado Municipal
+2024-11-14,1700400,TO,Feriado Municipal
+2024-12-10,1700400,TO,Feriado Municipal
+2024-06-29,1701002,TO,Feriado Municipal
+2024-11-14,1702000,TO,Feriado Municipal
+2024-12-08,1702000,TO,Feriado Municipal
+2024-06-15,1702109,TO,Feriado Municipal
+2024-11-14,1702109,TO,Feriado Municipal
+2024-06-09,1702208,TO,Feriado Municipal
+2024-08-15,1702208,TO,Feriado Municipal
+2024-11-07,1702307,TO,Feriado Municipal
+2024-01-20,1702406,TO,Feriado Municipal
+2024-08-01,1702406,TO,Feriado Municipal
+2024-11-20,1702406,TO,Dia da Consciência Negra
+2024-05-22,1702554,TO,Feriado Municipal
+2024-11-14,1703701,TO,Feriado Municipal
+2024-10-31,1705508,TO,Feriado Municipal
+2024-05-14,1716703,TO,Feriado Municipal
+2024-08-06,1716703,TO,Feriado Municipal
+2024-12-26,1716703,TO,Feriado Municipal
+2024-06-01,1705557,TO,Feriado Municipal
+2024-06-23,1706100,TO,Feriado Municipal
+2024-07-27,1706100,TO,Feriado Municipal
+2024-03-08,1707009,TO,"Dia internacional da mulher, de acordo com a ei nº 1190/2011"
+2024-03-19,1707009,TO,São José
+2024-08-26,1707009,TO,Feriado Municipal
+2024-11-20,1707009,TO,Consciência Negra
+2024-06-01,1707108,TO,Feriado Municipal
+2024-07-16,1707108,TO,Feriado Municipal
+2024-05-13,1707553,TO,Feriado Municipal
+2024-05-14,1707553,TO,Feriado Municipal
+2024-12-21,1707553,TO,Feriado Municipal
+2024-06-10,1707652,TO,Feriado Municipal
+2024-06-24,1707652,TO,Feriado Municipal
+2024-09-21,1707702,TO,Dia do Feijão
+2024-06-24,1708205,TO,Feriado Municipal
+2024-08-23,1708205,TO,Feriado Municipal
+2024-04-11,1709302,TO,Feriado Municipal
+2024-06-29,1709302,TO,Feriado Municipal
+2024-06-13,1709500,TO,Padroeiro
+2024-11-14,1709500,TO,Aniversário
+2024-11-30,1709500,TO,Feriado Municipal
+2024-02-20,1711902,TO,Feriado Municipal
+2024-08-15,1711902,TO,Feriado Municipal
+2024-06-25,1713205,TO,Feriado Municipal
+2024-08-25,1713205,TO,Feriado Municipal
+2024-10-01,1713205,TO,"Dia de Santa Teresinha do Menino Jesus, Padroeira do Município"
+2024-11-20,1713205,TO,Dia da Consciência Negra
+2024-06-13,1713304,TO,Dia de Santo Antônio
+2024-11-08,1713304,TO,Feriado Municipal
+2024-06-01,1714203,TO,Feriado Municipal
+2024-08-15,1714203,TO,Feriado Municipal
+2024-08-16,1714203,TO,Feriado Municipal
+2024-03-19,1721000,TO,São José
+2024-03-29,1721000,TO,Sexta-feira Santa
+2024-05-20,1721000,TO,Aniversário de Palmas
+2024-11-02,1721000,TO,Dia de Finados
+2024-06-10,1715754,TO,Feriado Municipal
+2024-11-27,1715754,TO,Feriado Municipal
+2024-06-29,1716505,TO,Feriado Municipal
+2024-07-15,1716505,TO,Feriado Municipal
+2024-06-20,1716604,TO,Feriado Municipal
+2024-08-15,1716604,TO,Feriado Municipal
+2024-11-20,1717909,TO,Consciência Negra
+2024-07-13,1718204,TO,Feriado Municipal
+2024-09-24,1718204,TO,Feriado Municipal
+2024-11-20,1718204,TO,Dia da Consciência Negra
+2024-01-20,1720655,TO,Feriado Municipal
+2024-06-10,1720655,TO,Feriado Municipal
+2024-06-10,1720903,TO,Feriado Municipal
+2024-05-26,1720978,TO,Feriado Municipal
+2024-07-07,1721208,TO,Feriado Municipal
+2024-07-28,1721208,TO,Feriado Municipal
+2024-08-15,1721208,TO,Feriado Municipal
+2024-09-29,1722107,TO,Feriado Municipal
+2024-11-14,1722107,TO,Feriado Municipal
+2024-11-30,1722107,TO,Feriado Municipal
+2025-08-15,5200100,GO,Feriado Municipal
+2025-04-04,5200134,GO,Feriado Municipal
+2025-05-14,5200134,GO,Feriado Municipal
+2025-11-30,5200258,GO,Feriado Municipal
+2025-12-15,5200258,GO,Feriado Municipal
+2025-09-15,5200308,GO,Feriado Municipal
+2025-11-14,5200308,GO,Feriado Municipal
+2025-01-20,5200506,GO,Feriado Municipal
+2025-06-17,5200506,GO,Feriado Municipal
+2025-08-15,5200605,GO,Feriado Municipal
+2025-11-27,5200605,GO,Feriado Municipal
+2025-12-12,5200605,GO,Feriado Municipal
+2025-09-08,5200803,GO,Feriado Municipal
+2025-07-26,5201108,GO,Padroeira
+2025-07-31,5201108,GO,Aniversário
+2025-06-07,5201306,GO,Feriado Municipal
+2025-11-14,5201405,GO,Emancipação política
+2025-08-28,5201504,GO,Feriado Municipal
+2025-11-14,5201504,GO,Feriado Municipal
+2025-08-06,5201702,GO,Feriado Municipal
+2025-05-14,5202155,GO,Feriado Municipal
+2025-08-15,5202155,GO,Feriado Municipal
+2025-05-14,5202353,GO,Feriado Municipal
+2025-06-29,5202353,GO,Feriado Municipal
+2025-12-18,5202502,GO,Feriado Municipal
+2025-12-13,5202601,GO,Feriado Municipal
+2025-08-15,5203203,GO,Feriado Municipal
+2025-11-14,5203203,GO,Feriado Municipal
+2025-06-05,5203302,GO,Feriado Municipal
+2025-06-23,5203401,GO,Feriado Municipal
+2025-06-24,5203401,GO,Feriado Municipal
+2025-08-18,5203401,GO,Feriado Municipal
+2025-08-06,5203500,GO,Feriado Municipal
+2025-11-07,5203500,GO,Feriado Municipal
+2025-01-25,5203807,GO,Feriado Municipal
+2025-06-29,5203807,GO,Feriado Municipal
+2025-06-24,5203906,GO,Feriado Municipal
+2025-08-15,5203906,GO,Feriado Municipal
+2025-08-23,5204003,GO,Feriado Municipal
+2025-11-14,5204003,GO,Feriado Municipal
+2025-08-15,5204102,GO,Feriado Municipal
+2025-09-24,5204102,GO,Feriado Municipal
+2025-01-20,5204250,GO,Feriado Municipal
+2025-05-14,5204250,GO,Feriado Municipal
+2025-09-16,5204300,GO,Feriado Municipal
+2025-01-20,5204409,GO,Feriado Municipal
+2025-07-29,5204409,GO,Feriado Municipal
+2025-11-01,5204409,GO,Feriado Municipal
+2025-09-15,5204508,GO,Feriado Municipal
+2025-10-21,5204508,GO,Aniversário da Cidade
+2025-01-20,5204557,GO,Feriado Municipal
+2025-04-29,5204557,GO,Feriado Municipal
+2025-08-15,5204557,GO,Feriado Municipal
+2025-05-31,5204607,GO,Feriado Municipal
+2025-12-08,5204706,GO,Feriado Municipal
+2025-09-08,5204805,GO,Feriado Municipal
+2025-11-12,5204805,GO,Feriado Municipal
+2025-12-08,5204904,GO,Feriado Municipal
+2025-06-13,5204953,GO,Dia de Santo Antônio
+2025-06-11,5205000,GO,Feriado Municipal
+2025-11-14,5205000,GO,Feriado Municipal
+2025-01-16,5205059,GO,Feriado Municipal
+2025-06-16,5205059,GO,Feriado Municipal
+2025-08-20,5205109,GO,Feriado Municipal
+2025-07-26,5205307,GO,Feriado Municipal
+2025-08-15,5205307,GO,Feriado Municipal
+2025-09-16,5205307,GO,Feriado Municipal
+2025-11-11,5205307,GO,Feriado Municipal
+2025-11-30,5205307,GO,Feriado Municipal
+2025-03-17,5205406,GO,Feriado Municipal
+2025-07-16,5205406,GO,Feriado Municipal
+2025-09-04,5205406,GO,Feriado Municipal
+2025-12-08,5205406,GO,Feriado Municipal
+2025-05-14,5205455,GO,Feriado Municipal
+2025-07-25,5205455,GO,Feriado Municipal
+2025-08-21,5205471,GO,Feriado Municipal
+2025-08-22,5205471,GO,Feriado Municipal
+2025-06-13,5205497,GO,Dia de Santo Antônio
+2025-10-31,5205497,GO,Feriado Municipal
+2025-12-09,5205497,GO,Feriado Municipal
+2025-06-13,5205513,GO,Dia de Santo Antônio
+2025-07-03,5205513,GO,Feriado Municipal
+2025-11-30,5205513,GO,Feriado Municipal
+2025-09-24,5205703,GO,Feriado Municipal
+2025-01-20,5205802,GO,Feriado Municipal
+2025-07-09,5205802,GO,Feriado Municipal
+2025-09-08,5205802,GO,Feriado Municipal
+2025-11-30,5205802,GO,Feriado Municipal
+2025-05-28,5205901,GO,Feriado Municipal
+2025-08-06,5205901,GO,Feriado Municipal
+2025-01-20,5206206,GO,Feriado Municipal
+2025-05-16,5206206,GO,Feriado Municipal
+2025-07-18,5206206,GO,Feriado Municipal
+2025-10-31,5206206,GO,Feriado Municipal
+2025-06-23,5206305,GO,Feriado Municipal
+2025-10-30,5206404,GO,Feriado Municipal
+2025-12-08,5206404,GO,Feriado Municipal
+2025-11-12,5206503,GO,Feriado Municipal
+2025-12-04,5206503,GO,Feriado Municipal
+2025-01-20,5206602,GO,Feriado Municipal
+2025-07-10,5206602,GO,Feriado Municipal
+2025-07-14,5206602,GO,Feriado Municipal
+2025-12-10,5206602,GO,Feriado Municipal
+2025-04-30,5206701,GO,Feriado Municipal
+2025-11-14,5206701,GO,Feriado Municipal
+2025-06-13,5206800,GO,Dia de Santo Antônio
+2025-11-14,5206800,GO,Feriado Municipal
+2025-12-17,5207105,GO,Feriado Municipal
+2025-01-20,5208301,GO,Feriado Municipal
+2025-06-24,5208301,GO,Feriado Municipal
+2025-08-10,5208301,GO,Feriado Municipal
+2025-11-14,5208301,GO,Feriado Municipal
+2025-05-14,5207253,GO,Feriado Municipal
+2025-09-29,5207253,GO,Feriado Municipal
+2025-06-13,5207402,GO,Dia de Santo Antônio
+2025-08-15,5207600,GO,Feriado Municipal
+2025-09-08,5207808,GO,Feriado Municipal
+2025-11-14,5207907,GO,Feriado Municipal
+2025-08-01,5208004,GO,Feriado Municipal
+2025-12-08,5208004,GO,Feriado Municipal
+2025-08-04,5208103,GO,Feriado Municipal
+2025-09-25,5208103,GO,Feriado Municipal
+2025-06-23,5208400,GO,Feriado Municipal
+2025-11-14,5208400,GO,Feriado Municipal
+2025-12-24,5208400,GO,Feriado Municipal
+2025-01-20,5208509,GO,Feriado Municipal
+2025-05-06,5208509,GO,Feriado Municipal
+2025-06-30,5208509,GO,Feriado Municipal
+2025-11-01,5208509,GO,Feriado Municipal
+2025-12-08,5208509,GO,Feriado Municipal
+2025-06-24,5208608,GO,Feriado Municipal
+2025-07-14,5208608,GO,Feriado Municipal
+2025-08-15,5208608,GO,Feriado Municipal
+2025-09-27,5208608,GO,Feriado Municipal
+2025-05-24,5208707,GO,Nossa Senhora Auxiliadora
+2025-10-24,5208707,GO,Aniversário de Goiânia
+2025-01-04,5208806,GO,Feriado Municipal
+2025-03-25,5208806,GO,Feriado Municipal
+2025-07-26,5208905,GO,Fundação da Cidade
+2025-12-08,5208905,GO,Feriado Municipal
+2025-01-20,5209101,GO,Feriado Municipal
+2025-01-21,5209101,GO,Feriado Municipal
+2025-06-01,5209150,GO,Feriado Municipal
+2025-06-24,5209150,GO,Feriado Municipal
+2025-05-14,5209200,GO,Feriado Municipal
+2025-06-13,5209705,GO,Dia de Santo Antônio
+2025-11-05,5209705,GO,Feriado Municipal
+2025-11-14,5209804,GO,Feriado Municipal
+2025-11-14,5209903,GO,Feriado Municipal
+2025-03-19,5209937,GO,São José
+2025-04-29,5209937,GO,Feriado Municipal
+2025-02-01,5209952,GO,Feriado Municipal
+2025-04-22,5209952,GO,Feriado Municipal
+2025-05-14,5209952,GO,Feriado Municipal
+2025-03-19,5210000,GO,São José
+2025-07-26,5210000,GO,Feriado Municipal
+2025-08-15,5210109,GO,Feriado Municipal
+2025-09-12,5210109,GO,Feriado Municipal
+2025-05-24,5210208,GO,Feriado Municipal
+2025-11-19,5210208,GO,Feriado Municipal
+2025-01-20,5210406,GO,Feriado Municipal
+2025-08-15,5210406,GO,Feriado Municipal
+2025-11-09,5210406,GO,Feriado Municipal
+2025-01-20,5210604,GO,Feriado Municipal
+2025-11-14,5210604,GO,Feriado Municipal
+2025-06-24,5210802,GO,Feriado Municipal
+2025-11-14,5210802,GO,Feriado Municipal
+2025-08-11,5210901,GO,Feriado Municipal
+2025-08-08,5211008,GO,Feriado Municipal
+2025-11-14,5211008,GO,Feriado Municipal
+2025-01-06,5211206,GO,Feriado Municipal
+2025-01-20,5211305,GO,Feriado Municipal
+2025-07-21,5211305,GO,Feriado Municipal
+2025-08-15,5211305,GO,Feriado Municipal
+2025-08-15,5211404,GO,Feriado Municipal
+2025-05-22,5211503,GO,Feriado Municipal
+2025-08-15,5211701,GO,Feriado Municipal
+2025-01-20,5211800,GO,Feriado Municipal
+2025-07-29,5211800,GO,Feriado Municipal
+2025-09-08,5211800,GO,Feriado Municipal
+2025-05-31,5211909,GO,Feriado Municipal
+2025-08-15,5212105,GO,Feriado Municipal
+2025-11-14,5212105,GO,Feriado Municipal
+2025-11-14,5212204,GO,Feriado Municipal
+2025-11-27,5212204,GO,Feriado Municipal
+2025-01-20,5212303,GO,Feriado Municipal
+2025-05-24,5212303,GO,Feriado Municipal
+2025-08-15,5212303,GO,Feriado Municipal
+2025-09-02,5212303,GO,Feriado Municipal
+2025-11-30,5212501,GO,Dia do Evangélico
+2025-12-13,5212501,GO,Aniversário de Luziânia
+2025-11-13,5212600,GO,Feriado Municipal
+2025-11-14,5212709,GO,Feriado Municipal
+2025-12-08,5212709,GO,Feriado Municipal
+2025-06-13,5212808,GO,Dia de Santo Antônio
+2025-09-02,5212808,GO,Feriado Municipal
+2025-11-30,5212808,GO,Feriado Municipal
+2025-06-01,5212956,GO,Feriado Municipal
+2025-12-13,5212956,GO,Feriado Municipal
+2025-11-14,5213004,GO,Feriado Municipal
+2025-05-14,5213087,GO,Feriado Municipal
+2025-10-31,5213103,GO,Feriado Municipal
+2025-06-13,5213509,GO,Dia de Santo Antônio
+2025-08-15,5213509,GO,Feriado Municipal
+2025-08-15,5213756,GO,Feriado Municipal
+2025-12-30,5213756,GO,Feriado Municipal
+2025-07-16,5213806,GO,Feriado Municipal
+2025-08-29,5213806,GO,Aniversário da Cidade
+2025-03-19,5213905,GO,São José
+2025-11-14,5213905,GO,Feriado Municipal
+2025-06-27,5214002,GO,Feriado Municipal
+2025-06-10,5214051,GO,Feriado Municipal
+2025-08-25,5214408,GO,Feriado Municipal
+2025-08-03,5214507,GO,Feriado Municipal
+2025-03-19,5214606,GO,São José
+2025-07-25,5214606,GO,Feriado Municipal
+2025-08-15,5214606,GO,Feriado Municipal
+2025-01-20,5214804,GO,Feriado Municipal
+2025-05-13,5214804,GO,Feriado Municipal
+2025-08-15,5214804,GO,Feriado Municipal
+2025-11-13,5214804,GO,Feriado Municipal
+2025-02-01,5214838,GO,Feriado Municipal
+2025-06-13,5214838,GO,Dia de Santo Antônio
+2025-06-10,5214861,GO,Feriado Municipal
+2025-08-15,5214861,GO,Feriado Municipal
+2025-09-27,5214861,GO,Feriado Municipal
+2025-07-16,5215009,GO,Feriado Municipal
+2025-11-14,5215009,GO,Feriado Municipal
+2025-06-15,5215231,GO,Feriado Municipal
+2025-11-30,5215231,GO,Feriado Municipal
+2025-12-08,5215231,GO,Feriado Municipal
+2025-06-01,5215256,GO,Feriado Municipal
+2025-06-02,5215256,GO,Feriado Municipal
+2025-06-29,5215256,GO,Feriado Municipal
+2025-07-02,5215256,GO,Feriado Municipal
+2025-08-06,5215256,GO,Feriado Municipal
+2025-09-15,5215306,GO,Feriado Municipal
+2025-05-09,5215603,GO,Feriado Municipal
+2025-07-16,5215603,GO,Feriado Municipal
+2025-11-01,5215603,GO,Feriado Municipal
+2025-01-20,5215702,GO,Feriado Municipal
+2025-07-06,5215702,GO,Feriado Municipal
+2025-11-01,5216304,GO,Feriado Municipal
+2025-12-08,5216304,GO,Feriado Municipal
+2025-08-15,5216403,GO,Feriado Municipal
+2025-11-10,5216403,GO,Feriado Municipal
+2025-09-08,5216809,GO,Feriado Municipal
+2025-10-08,5216809,GO,Aniversário da Cidade
+2025-08-15,5217104,GO,Feriado Municipal
+2025-11-01,5217104,GO,Feriado Municipal
+2025-11-22,5217104,GO,Feriado Municipal
+2025-06-13,5217203,GO,Dia de Santo Antônio
+2025-06-13,5217401,GO,Dia de Santo Antônio
+2025-11-09,5217401,GO,Feriado Municipal
+2025-03-19,5217609,GO,São José
+2025-11-30,5217609,GO,Feriado Municipal
+2025-05-22,5217708,GO,Feriado Municipal
+2025-10-31,5217708,GO,Feriado Municipal
+2025-08-25,5218003,GO,Feriado Municipal
+2025-09-15,5218003,GO,Feriado Municipal
+2025-12-13,5218003,GO,Feriado Municipal
+2025-11-14,5218102,GO,Feriado Municipal
+2025-07-19,5218300,GO,Feriado Municipal
+2025-07-26,5218300,GO,Feriado Municipal
+2025-01-22,5218508,GO,Feriado Municipal
+2025-08-15,5218508,GO,Feriado Municipal
+2025-03-17,5218607,GO,Feriado Municipal
+2025-05-31,5218607,GO,Feriado Municipal
+2025-07-16,5218607,GO,Feriado Municipal
+2025-09-04,5218607,GO,Feriado Municipal
+2025-12-18,5218706,GO,Feriado Municipal
+2025-01-20,5218789,GO,Feriado Municipal
+2025-05-11,5218789,GO,Feriado Municipal
+2025-01-20,5218805,GO,Dia de São Sebastião (Padroeiro)
+2025-08-05,5218805,GO,Aniversário de Rio Verde
+2025-08-15,5218904,GO,Feriado Municipal
+2025-01-05,5219001,GO,Feriado Municipal
+2025-08-15,5219001,GO,Feriado Municipal
+2025-06-19,5219100,GO,Corpus Christi
+2025-10-23,5219100,GO,Aniversário da cidade
+2025-12-04,5219100,GO,Santa Bárbara
+2025-12-08,5219209,GO,Feriado Municipal
+2025-06-01,5219258,GO,Feriado Municipal
+2025-05-18,5219308,GO,Feriado Municipal
+2025-08-20,5219308,GO,Feriado Municipal
+2025-05-22,5219407,GO,Feriado Municipal
+2025-08-15,5219506,GO,Feriado Municipal
+2025-11-14,5219506,GO,Feriado Municipal
+2025-03-08,5219753,GO,Feriado Municipal
+2025-05-14,5219753,GO,Feriado Municipal
+2025-06-13,5219753,GO,Dia de Santo Antônio
+2025-11-30,5219753,GO,Feriado Municipal
+2025-08-04,5219803,GO,Feriado Municipal
+2025-08-06,5219803,GO,Feriado Municipal
+2025-12-13,5219803,GO,Feriado Municipal
+2025-09-08,5219902,GO,Feriado Municipal
+2025-01-20,5220009,GO,Feriado Municipal
+2025-06-24,5220009,GO,Feriado Municipal
+2025-08-15,5220009,GO,Feriado Municipal
+2025-11-13,5220009,GO,Feriado Municipal
+2025-12-24,5220009,GO,Feriado Municipal
+2025-06-21,5220108,GO,Feriado Municipal
+2025-09-29,5220207,GO,Feriado Municipal
+2025-11-14,5220207,GO,Feriado Municipal
+2025-01-09,5220264,GO,Feriado Municipal
+2025-09-29,5220264,GO,Feriado Municipal
+2025-11-14,5220405,GO,Feriado Municipal
+2025-05-24,5220454,GO,Feriado Municipal
+2025-06-01,5220454,GO,Feriado Municipal
+2025-05-13,5220504,GO,Feriado Municipal
+2025-11-14,5220504,GO,Feriado Municipal
+2025-09-14,5220603,GO,Feriado Municipal
+2025-06-13,5221304,GO,Dia de Santo Antônio
+2025-08-15,5221304,GO,Feriado Municipal
+2025-06-28,5221403,GO,Feriado Municipal
+2025-06-29,5221403,GO,Feriado Municipal
+2025-07-02,5221403,GO,Feriado Municipal
+2025-08-31,5221403,GO,Feriado Municipal
+2025-06-14,5221502,GO,Feriado Municipal
+2025-11-14,5221502,GO,Feriado Municipal
+2025-06-01,5221551,GO,Feriado Municipal
+2025-08-05,5221551,GO,Feriado Municipal
+2025-07-04,5221601,GO,Feriado Municipal
+2025-07-26,5221601,GO,Feriado Municipal
+2025-01-20,5221700,GO,Feriado Municipal
+2025-09-14,5221700,GO,Feriado Municipal
+2025-08-06,5221809,GO,Feriado Municipal
+2025-06-15,5221858,GO,Aniversário
+2025-10-04,5221858,GO,Dia do Padroeiro
+2025-11-30,5221858,GO,Dia do Evangélico
+2025-03-19,5222005,GO,São José
+2025-08-19,5222005,GO,Feriado Municipal
+2025-01-20,5222054,GO,Feriado Municipal
+2025-06-10,5222054,GO,Feriado Municipal
+2025-02-08,5000203,MS,Aniversário
+2025-10-31,5000203,MS,Dia do Evangélico
+2025-05-24,5000609,MS,Feriado Municipal
+2025-09-28,5000609,MS,Feriado Municipal
+2025-02-11,5000708,MS,Feriado Municipal
+2025-05-08,5000708,MS,Feriado Municipal
+2025-06-24,5000807,MS,Feriado Municipal
+2025-11-11,5000807,MS,Feriado Municipal
+2025-05-13,5000856,MS,Feriado Municipal
+2025-06-29,5000856,MS,Feriado Municipal
+2025-03-18,5000906,MS,Feriado Municipal
+2025-06-27,5000906,MS,Feriado Municipal
+2025-09-28,5001003,MS,Feriado Municipal
+2025-08-15,5001102,MS,Feriado Municipal
+2025-12-08,5001102,MS,Feriado Municipal
+2025-05-13,5001243,MS,Feriado Municipal
+2025-06-20,5001508,MS,Feriado Municipal
+2025-06-24,5001904,MS,Feriado Municipal
+2025-08-15,5001904,MS,Feriado Municipal
+2025-12-11,5001904,MS,Feriado Municipal
+2025-07-20,5002100,MS,Feriado Municipal
+2025-08-01,5002100,MS,Feriado Municipal
+2025-12-08,5002100,MS,Feriado Municipal
+2025-01-06,5002159,MS,Feriado Municipal
+2025-05-13,5002159,MS,Feriado Municipal
+2025-06-27,5002159,MS,Feriado Municipal
+2025-06-29,5002209,MS,Padroeiro
+2025-04-25,5002308,MS,Feriado Municipal
+2025-08-06,5002407,MS,Feriado Municipal
+2025-12-26,5002407,MS,Feriado Municipal
+2025-06-24,5002605,MS,Feriado Municipal
+2025-09-30,5002605,MS,Feriado Municipal
+2025-06-13,5002704,MS,Dia de Santo Antônio
+2025-06-19,5002704,MS,Corpus Christi
+2025-08-26,5002704,MS,Aniversário de Campo Grande
+2025-06-19,5002803,MS,Feriado Municipal
+2025-03-19,5002902,MS,São José
+2025-08-03,5002902,MS,Aniversário do município
+2025-06-29,5002951,MS,Feriado Municipal
+2025-12-08,5003157,MS,Feriado Municipal
+2025-12-15,5003157,MS,Feriado Municipal
+2025-02-02,5003207,MS,Nossa Sra da Candelária
+2025-06-13,5003207,MS,Retomada de Corumbá
+2025-09-21,5003207,MS,Fundação de Corumbá
+2025-05-12,5003256,MS,Feriado Municipal
+2025-06-13,5003256,MS,Dia de Santo Antônio
+2025-03-19,5003306,MS,São José
+2025-04-11,5003306,MS,Feriado Municipal
+2025-05-13,5003454,MS,Feriado Municipal
+2025-11-13,5003488,MS,Feriado Municipal
+2025-05-12,5003504,MS,Feriado Municipal
+2025-12-08,5003702,MS,Feriado Municipal
+2025-12-20,5003702,MS,Feriado Municipal
+2025-05-13,5003751,MS,Feriado Municipal
+2025-05-13,5003801,MS,Feriado Municipal
+2025-07-09,5003801,MS,Feriado Municipal
+2025-08-15,5003900,MS,Feriado Municipal
+2025-09-29,5003900,MS,Feriado Municipal
+2025-05-02,5004007,MS,Feriado Municipal
+2025-08-15,5004007,MS,Feriado Municipal
+2025-03-19,5004106,MS,São José
+2025-05-08,5004304,MS,Feriado Municipal
+2025-12-08,5004304,MS,Feriado Municipal
+2025-04-04,5004403,MS,Feriado Municipal
+2025-08-06,5004403,MS,Feriado Municipal
+2025-03-19,5004502,MS,São José
+2025-12-10,5004502,MS,Feriado Municipal
+2025-05-13,5004601,MS,Feriado Municipal
+2025-06-27,5004601,MS,Feriado Municipal
+2025-01-25,5004700,MS,Feriado Municipal
+2025-11-11,5004700,MS,Feriado Municipal
+2025-03-31,5004809,MS,Feriado Municipal
+2025-04-30,5004809,MS,Feriado Municipal
+2025-05-14,5005004,MS,Feriado Municipal
+2025-06-13,5005004,MS,Dia de Santo Antônio
+2025-06-29,5005103,MS,Feriado Municipal
+2025-11-11,5005103,MS,Feriado Municipal
+2025-12-13,5005103,MS,Feriado Municipal
+2025-12-13,5005152,MS,Feriado Municipal
+2025-12-14,5005152,MS,Feriado Municipal
+2025-09-02,5005202,MS,Feriado Municipal
+2025-04-22,5005251,MS,Feriado Municipal
+2025-05-26,5005251,MS,Feriado Municipal
+2025-06-11,5005400,MS,Aniversário da Cidade
+2025-04-19,5005608,MS,Feriado Municipal
+2025-07-16,5005608,MS,Feriado Municipal
+2025-12-08,5005608,MS,Feriado Municipal
+2025-05-13,5005681,MS,Feriado Municipal
+2025-05-13,5005707,MS,Feriado Municipal
+2025-11-11,5005707,MS,Feriado Municipal
+2025-04-08,5005806,MS,Feriado Municipal
+2025-04-19,5005806,MS,Dia do ìndio
+2025-05-22,5005806,MS,Feriado Municipal
+2025-07-18,5005806,MS,Feriado Municipal
+2025-07-25,5006002,MS,Feriado Municipal
+2025-04-30,5006200,MS,Feriado Municipal
+2025-05-31,5006200,MS,Feriado Municipal
+2025-04-30,5006259,MS,Feriado Municipal
+2025-06-14,5006259,MS,Feriado Municipal
+2025-07-04,5006309,MS,Feriado Municipal
+2025-07-26,5006309,MS,Feriado Municipal
+2025-06-24,5006358,MS,Feriado Municipal
+2025-11-17,5006358,MS,Feriado Municipal
+2025-12-08,5006358,MS,Feriado Municipal
+2025-01-20,5006408,MS,Feriado Municipal
+2025-11-11,5006408,MS,Feriado Municipal
+2025-03-19,5006606,MS,São José
+2025-07-18,5006606,MS,Aniversário da Cidade
+2025-06-13,5006903,MS,Dia de Santo Antônio
+2025-06-15,5006903,MS,Feriado Municipal
+2025-06-24,5006903,MS,Feriado Municipal
+2025-12-08,5006903,MS,Feriado Municipal
+2025-01-20,5007109,MS,Feriado Municipal
+2025-03-19,5007109,MS,São José
+2025-12-08,5007109,MS,Feriado Municipal
+2025-09-26,5007208,MS,Feriado Municipal
+2025-12-08,5007208,MS,Feriado Municipal
+2025-05-09,5007307,MS,Feriado Municipal
+2025-05-13,5007307,MS,Feriado Municipal
+2025-05-24,5007406,MS,Feriado Municipal
+2025-12-16,5007406,MS,Feriado Municipal
+2025-08-06,5007505,MS,Bom Jesus de Rochedo
+2025-11-23,5007505,MS,Feriado Municipal
+2025-05-22,5007554,MS,Feriado Municipal
+2025-12-18,5007554,MS,Feriado Municipal
+2025-05-12,5007695,MS,Feriado Municipal
+2025-09-29,5007695,MS,Feriado Municipal
+2025-05-12,5007802,MS,Feriado Municipal
+2025-06-24,5007802,MS,Feriado Municipal
+2025-05-13,5007703,MS,Feriado Municipal
+2025-08-15,5007703,MS,Feriado Municipal
+2025-12-08,5007703,MS,Feriado Municipal
+2025-08-15,5007901,MS,Feriado Municipal
+2025-12-11,5007901,MS,Feriado Municipal
+2025-06-03,5007935,MS,Feriado Municipal
+2025-01-20,5007950,MS,Feriado Municipal
+2025-05-13,5007950,MS,Feriado Municipal
+2025-12-08,5007950,MS,Feriado Municipal
+2025-05-12,5007976,MS,Feriado Municipal
+2025-05-08,5008008,MS,Feriado Municipal
+2025-06-13,5008008,MS,Dia de Santo Antônio
+2025-06-15,5008305,MS,Aniversário da Cidade
+2025-05-25,5008404,MS,Feriado Municipal
+2025-06-20,5008404,MS,Feriado Municipal
+2025-09-12,5008404,MS,Feriado Municipal
+2025-12-08,5008404,MS,Feriado Municipal
+2025-05-19,5100250,MT,Feriado Municipal
+2025-05-24,5100300,MT,Feriado Municipal
+2025-01-20,5100409,MT,Feriado Municipal
+2025-12-10,5100409,MT,Feriado Municipal
+2025-03-19,5100508,MT,São José
+2025-08-06,5100508,MT,Feriado Municipal
+2025-12-16,5100508,MT,Feriado Municipal
+2025-03-19,5100607,MT,"Dia de São José, padroeiro da cidade"
+2025-05-13,5100607,MT,Aniversário da cidade
+2025-05-14,5101001,MT,Feriado Municipal
+2025-02-02,5101258,MT,Emancipação Política
+2025-05-13,5101258,MT,Feriado Municipal
+2025-05-23,5101258,MT,Feriado Municipal
+2025-01-20,5101308,MT,Feriado Municipal
+2025-02-05,5101308,MT,Feriado Municipal
+2025-08-06,5101308,MT,Feriado Municipal
+2025-07-26,5101407,MT,Feriado Municipal
+2025-10-31,5101407,MT,Feriado Municipal
+2025-04-19,5101704,MT,Feriado Municipal
+2025-09-14,5101704,MT,Feriado Municipal
+2025-06-13,5101803,MT,Dia de Santo Antônio
+2025-09-15,5101803,MT,Feriado Municipal
+2025-06-01,5101902,MT,Feriado Municipal
+2025-08-25,5102504,MT,"Dia de São Luiz de Cáceres, Padroeiro da cidade"
+2025-10-06,5102504,MT,Aniversário da cidade
+2025-05-13,5102603,MT,Feriado Municipal
+2025-08-06,5102603,MT,Feriado Municipal
+2025-11-01,5102603,MT,Feriado Municipal
+2025-07-04,5102637,MT,Aniversário da Cidade
+2025-07-25,5102637,MT,Dia de São Cristóvão
+2025-07-04,5102678,MT,Emancipação do Município
+2025-07-25,5102678,MT,São Cristóvão
+2025-11-27,5102686,MT,Feriado Municipal
+2025-11-28,5102686,MT,Feriado Municipal
+2025-02-15,5102702,MT,Feriado Municipal
+2025-05-24,5102702,MT,Feriado Municipal
+2025-07-25,5102702,MT,Feriado Municipal
+2025-07-26,5103007,MT,Feriado Municipal
+2025-07-31,5103007,MT,Feriado Municipal
+2025-07-04,5103056,MT,Feriado Municipal
+2025-08-15,5103056,MT,Feriado Municipal
+2025-06-24,5103205,MT,Feriado Municipal
+2025-12-18,5103205,MT,Feriado Municipal
+2025-05-13,5103304,MT,Feriado Municipal
+2025-07-12,5103353,MT,Dia do Evangélico
+2025-07-29,5103353,MT,Feriado Municipal
+2025-04-08,5103403,MT,Aniversário de Cuiabá
+2025-06-19,5103403,MT,Corpus Christi
+2025-12-08,5103403,MT,Nossa Senhora da Conceição
+2025-05-06,5103452,MT,Feriado Municipal
+2025-07-25,5103452,MT,Feriado Municipal
+2025-09-18,5103502,MT,Feriado Municipal
+2025-12-08,5103502,MT,Feriado Municipal
+2025-01-20,5103601,MT,Feriado Municipal
+2025-04-14,5103601,MT,Feriado Municipal
+2025-06-29,5103700,MT,São Pedro Apóstolo
+2025-06-02,5104104,MT,Feriado Municipal
+2025-06-24,5104203,MT,Feriado Municipal
+2025-08-02,5104203,MT,Feriado Municipal
+2025-10-31,5104542,MT,Dia da Reforma Protestante
+2025-05-13,5104559,MT,Feriado Municipal
+2025-06-29,5104559,MT,Feriado Municipal
+2025-01-20,5104609,MT,Feriado Municipal
+2025-07-16,5104609,MT,Feriado Municipal
+2025-12-01,5104609,MT,Feriado Municipal
+2025-09-11,5104906,MT,Feriado Municipal
+2025-02-22,5105002,MT,Feriado Municipal
+2025-04-29,5105002,MT,Feriado Municipal
+2025-09-20,5105002,MT,Feriado Municipal
+2025-03-19,5105101,MT,São José
+2025-06-19,5105101,MT,Corpus Christi
+2025-12-14,5105101,MT,Emancipação do Município
+2025-05-09,5105150,MT,Feriado Municipal
+2025-07-04,5105176,MT,Feriado Municipal
+2025-08-06,5105200,MT,Feriado Municipal
+2025-12-10,5105200,MT,Feriado Municipal
+2025-05-13,5105259,MT,Dia da Padroeira
+2025-08-05,5105259,MT,Aniversário da cidade
+2025-05-13,5105580,MT,Feriado Municipal
+2025-10-31,5105580,MT,Feriado Municipal
+2025-12-08,5105580,MT,Feriado Municipal
+2025-07-04,5105606,MT,Feriado Municipal
+2025-07-25,5105606,MT,Feriado Municipal
+2025-02-27,5105622,MT,Pe. Thiago Cheza
+2025-05-14,5105622,MT,Emancipação Política
+2025-01-20,5105903,MT,Feriado Municipal
+2025-02-05,5106000,MT,Feriado Municipal
+2025-07-26,5106000,MT,Feriado Municipal
+2025-05-13,5106216,MT,Feriado Municipal
+2025-08-26,5108907,MT,Feriado Municipal
+2025-06-13,5108956,MT,Dia de Santo Antônio
+2025-08-19,5108956,MT,Feriado Municipal
+2025-07-04,5106224,MT,Feriado Municipal
+2025-05-13,5106232,MT,Feriado Municipal
+2025-12-19,5106240,MT,Feriado Municipal
+2025-04-14,5106257,MT,Aniversário da Cidade
+2025-11-27,5106257,MT,Nossa Sra das Graças
+2025-05-13,5106281,MT,Feriado Municipal
+2025-07-26,5106281,MT,Feriado Municipal
+2025-06-29,5106299,MT,Feriado Municipal
+2025-06-29,5106307,MT,Feriado Municipal
+2025-12-03,5106307,MT,Feriado Municipal
+2025-12-17,5106307,MT,Feriado Municipal
+2025-05-13,5106372,MT,Feriado Municipal
+2025-06-29,5106372,MT,Feriado Municipal
+2025-05-13,5106422,MT,Feriado Municipal
+2025-01-21,5106505,MT,Feriado Municipal
+2025-08-06,5106752,MT,Feriado Municipal
+2025-06-13,5106778,MT,Dia de Santo Antônio
+2025-09-24,5106778,MT,Feriado Municipal
+2025-02-02,5106802,MT,Feriado Municipal
+2025-11-11,5106802,MT,Feriado Municipal
+2025-06-24,5107008,MT,Feriado Municipal
+2025-05-13,5107040,MT,Feriado Municipal
+2025-07-25,5107040,MT,Feriado Municipal
+2025-10-31,5107065,MT,Feriado Municipal
+2025-12-08,5107065,MT,N. Sra Imaculada Conceição
+2025-12-19,5107065,MT,Emancipação do Município
+2025-05-03,5107180,MT,Feriado Municipal
+2025-06-24,5107180,MT,Feriado Municipal
+2025-08-12,5107180,MT,Feriado Municipal
+2025-05-22,5107206,MT,Feriado Municipal
+2025-08-16,5107206,MT,Feriado Municipal
+2025-06-19,5107602,MT,Corpus Christi
+2025-12-10,5107602,MT,Feriado Municipal
+2025-06-25,5107701,MT,Feriado Municipal
+2025-07-25,5107248,MT,Feriado Municipal
+2025-09-15,5107248,MT,Feriado Municipal
+2025-12-19,5107248,MT,Feriado Municipal
+2025-05-22,5107768,MT,Dia da Padroeira
+2025-09-25,5107768,MT,Aniversário da Cidade
+2025-01-28,5107792,MT,Feriado Municipal
+2025-06-13,5107792,MT,Dia de Santo Antônio
+2025-05-05,5107800,MT,Feriado Municipal
+2025-06-13,5107800,MT,Dia de Santo Antônio
+2025-05-13,5107859,MT,Feriado Municipal
+2025-08-15,5107859,MT,Feriado Municipal
+2025-03-19,5107305,MT,São José
+2025-06-15,5107107,MT,Feriado Municipal
+2025-12-14,5107107,MT,Feriado Municipal
+2025-04-22,5107875,MT,Fundação do Município
+2025-05-13,5107875,MT,Dia da Padroeira
+2025-09-19,5107875,MT,Aniversário do Município
+2025-10-31,5107875,MT,Dia do Evangélico
+2025-06-13,5107909,MT,Dia de Santo Antônio
+2025-09-14,5107909,MT,Aniversário da Cidade
+2025-05-13,5107925,MT,Emancipação
+2025-06-29,5107925,MT,São Pedro
+2025-06-13,5107941,MT,Dia de Santo Antônio
+2025-09-20,5107941,MT,Feriado Municipal
+2025-05-13,5107958,MT,Feriado Municipal
+2025-07-04,5108006,MT,Feriado Municipal
+2025-05-13,5108055,MT,Feriado Municipal
+2025-04-30,5108204,MT,Feriado Municipal
+2025-12-10,5108204,MT,Feriado Municipal
+2025-03-04,5108402,MT,Carnaval
+2025-06-19,5108402,MT,Corpus Christi
+2025-05-13,5108501,MT,Emancipação do Município
+2025-07-27,5108501,MT,Fundação do Município
+2025-10-28,5108501,MT,São Judas Tadeu
+2025-03-19,5105507,MT,Aniversário
+2025-05-13,5108600,MT,Feriado Municipal
+2025-06-29,5108600,MT,Feriado Municipal
+2025-08-10,5108600,MT,Feriado Municipal
+2025-01-10,1700350,TO,Feriado Municipal
+2025-06-24,1700350,TO,Feriado Municipal
+2025-05-17,1700400,TO,Feriado Municipal
+2025-05-18,1700400,TO,Feriado Municipal
+2025-11-14,1700400,TO,Feriado Municipal
+2025-12-10,1700400,TO,Feriado Municipal
+2025-06-29,1701002,TO,Feriado Municipal
+2025-11-14,1702000,TO,Feriado Municipal
+2025-12-08,1702000,TO,Feriado Municipal
+2025-06-15,1702109,TO,Feriado Municipal
+2025-11-14,1702109,TO,Feriado Municipal
+2025-06-09,1702208,TO,Feriado Municipal
+2025-08-15,1702208,TO,Feriado Municipal
+2025-11-07,1702307,TO,Feriado Municipal
+2025-01-20,1702406,TO,Feriado Municipal
+2025-08-01,1702406,TO,Feriado Municipal
+2025-05-22,1702554,TO,Feriado Municipal
+2025-11-14,1703701,TO,Feriado Municipal
+2025-10-31,1705508,TO,Feriado Municipal
+2025-05-14,1716703,TO,Feriado Municipal
+2025-08-06,1716703,TO,Feriado Municipal
+2025-12-26,1716703,TO,Feriado Municipal
+2025-06-01,1705557,TO,Feriado Municipal
+2025-06-23,1706100,TO,Feriado Municipal
+2025-07-27,1706100,TO,Feriado Municipal
+2025-03-08,1707009,TO,"Dia internacional da mulher, de acordo com a ei nº 1190/2011"
+2025-03-19,1707009,TO,São José
+2025-08-26,1707009,TO,Feriado Municipal
+2025-06-01,1707108,TO,Feriado Municipal
+2025-07-16,1707108,TO,Feriado Municipal
+2025-05-13,1707553,TO,Feriado Municipal
+2025-05-14,1707553,TO,Feriado Municipal
+2025-12-21,1707553,TO,Feriado Municipal
+2025-06-10,1707652,TO,Feriado Municipal
+2025-06-24,1707652,TO,Feriado Municipal
+2025-09-21,1707702,TO,Dia do Feijão
+2025-06-24,1708205,TO,Feriado Municipal
+2025-08-23,1708205,TO,Feriado Municipal
+2025-04-11,1709302,TO,Feriado Municipal
+2025-06-29,1709302,TO,Feriado Municipal
+2025-06-13,1709500,TO,Padroeiro
+2025-11-14,1709500,TO,Aniversário
+2025-11-30,1709500,TO,Feriado Municipal
+2025-02-20,1711902,TO,Feriado Municipal
+2025-08-15,1711902,TO,Feriado Municipal
+2025-06-25,1713205,TO,Feriado Municipal
+2025-08-25,1713205,TO,Feriado Municipal
+2025-10-01,1713205,TO,"Dia de Santa Teresinha do Menino Jesus, Padroeira do Município"
+2025-06-13,1713304,TO,Dia de Santo Antônio
+2025-11-08,1713304,TO,Feriado Municipal
+2025-06-01,1714203,TO,Feriado Municipal
+2025-08-15,1714203,TO,Feriado Municipal
+2025-08-16,1714203,TO,Feriado Municipal
+2025-03-19,1721000,TO,São José
+2025-05-20,1721000,TO,Aniversário de Palmas
+2025-06-10,1715754,TO,Feriado Municipal
+2025-11-27,1715754,TO,Feriado Municipal
+2025-06-29,1716505,TO,Feriado Municipal
+2025-07-15,1716505,TO,Feriado Municipal
+2025-06-20,1716604,TO,Feriado Municipal
+2025-08-15,1716604,TO,Feriado Municipal
+2025-07-13,1718204,TO,Feriado Municipal
+2025-09-24,1718204,TO,Feriado Municipal
+2025-01-20,1720655,TO,Feriado Municipal
+2025-06-10,1720655,TO,Feriado Municipal
+2025-06-10,1720903,TO,Feriado Municipal
+2025-05-26,1720978,TO,Feriado Municipal
+2025-07-07,1721208,TO,Feriado Municipal
+2025-07-28,1721208,TO,Feriado Municipal
+2025-08-15,1721208,TO,Feriado Municipal
+2025-09-29,1722107,TO,Feriado Municipal
+2025-11-14,1722107,TO,Feriado Municipal
+2025-11-30,1722107,TO,Feriado Municipal
+2026-08-15,5200100,GO,Feriado Municipal
+2026-04-04,5200134,GO,Feriado Municipal
+2026-05-14,5200134,GO,Feriado Municipal
+2026-11-30,5200258,GO,Feriado Municipal
+2026-12-15,5200258,GO,Feriado Municipal
+2026-09-15,5200308,GO,Feriado Municipal
+2026-11-14,5200308,GO,Feriado Municipal
+2026-01-20,5200506,GO,Feriado Municipal
+2026-06-17,5200506,GO,Feriado Municipal
+2026-08-15,5200605,GO,Feriado Municipal
+2026-11-27,5200605,GO,Feriado Municipal
+2026-12-12,5200605,GO,Feriado Municipal
+2026-09-08,5200803,GO,Feriado Municipal
+2026-07-26,5201108,GO,Padroeira
+2026-07-31,5201108,GO,Aniversário
+2026-06-07,5201306,GO,Feriado Municipal
+2026-04-03,5201405,GO,Sexta-feira da Paixão
+2026-05-11,5201405,GO,Aniversário de Aparecida de Goiânia
+2026-06-04,5201405,GO,Corpus Christi
+2026-11-14,5201405,GO,Emancipação política
+2026-08-28,5201504,GO,Feriado Municipal
+2026-11-14,5201504,GO,Feriado Municipal
+2026-08-06,5201702,GO,Feriado Municipal
+2026-05-14,5202155,GO,Feriado Municipal
+2026-08-15,5202155,GO,Feriado Municipal
+2026-05-14,5202353,GO,Feriado Municipal
+2026-06-29,5202353,GO,Feriado Municipal
+2026-12-18,5202502,GO,Feriado Municipal
+2026-12-13,5202601,GO,Feriado Municipal
+2026-08-15,5203203,GO,Feriado Municipal
+2026-11-14,5203203,GO,Feriado Municipal
+2026-06-05,5203302,GO,Feriado Municipal
+2026-06-23,5203401,GO,Feriado Municipal
+2026-06-24,5203401,GO,Feriado Municipal
+2026-08-18,5203401,GO,Feriado Municipal
+2026-08-06,5203500,GO,Feriado Municipal
+2026-11-07,5203500,GO,Feriado Municipal
+2026-01-25,5203807,GO,Feriado Municipal
+2026-06-29,5203807,GO,Feriado Municipal
+2026-06-24,5203906,GO,Feriado Municipal
+2026-08-15,5203906,GO,Feriado Municipal
+2026-08-23,5204003,GO,Feriado Municipal
+2026-11-14,5204003,GO,Feriado Municipal
+2026-08-15,5204102,GO,Feriado Municipal
+2026-09-24,5204102,GO,Feriado Municipal
+2026-01-20,5204250,GO,Feriado Municipal
+2026-05-14,5204250,GO,Feriado Municipal
+2026-09-16,5204300,GO,Feriado Municipal
+2026-01-20,5204409,GO,Feriado Municipal
+2026-07-29,5204409,GO,Feriado Municipal
+2026-11-01,5204409,GO,Feriado Municipal
+2026-09-15,5204508,GO,Feriado Municipal
+2026-10-21,5204508,GO,Aniversário da Cidade
+2026-01-20,5204557,GO,Feriado Municipal
+2026-04-29,5204557,GO,Feriado Municipal
+2026-08-15,5204557,GO,Feriado Municipal
+2026-05-31,5204607,GO,Feriado Municipal
+2026-12-08,5204706,GO,Feriado Municipal
+2026-09-08,5204805,GO,Feriado Municipal
+2026-11-12,5204805,GO,Feriado Municipal
+2026-12-08,5204904,GO,Feriado Municipal
+2026-06-13,5204953,GO,Dia de Santo Antônio
+2026-06-11,5205000,GO,Feriado Municipal
+2026-11-14,5205000,GO,Feriado Municipal
+2026-01-16,5205059,GO,Feriado Municipal
+2026-06-16,5205059,GO,Feriado Municipal
+2026-08-20,5205109,GO,Feriado Municipal
+2026-07-26,5205307,GO,Feriado Municipal
+2026-08-15,5205307,GO,Feriado Municipal
+2026-09-16,5205307,GO,Feriado Municipal
+2026-11-11,5205307,GO,Feriado Municipal
+2026-11-30,5205307,GO,Feriado Municipal
+2026-03-17,5205406,GO,Feriado Municipal
+2026-07-16,5205406,GO,Feriado Municipal
+2026-09-04,5205406,GO,Feriado Municipal
+2026-12-08,5205406,GO,Feriado Municipal
+2026-05-14,5205455,GO,Feriado Municipal
+2026-07-25,5205455,GO,Feriado Municipal
+2026-08-21,5205471,GO,Feriado Municipal
+2026-08-22,5205471,GO,Feriado Municipal
+2026-06-13,5205497,GO,Dia de Santo Antônio
+2026-10-31,5205497,GO,Feriado Municipal
+2026-12-09,5205497,GO,Feriado Municipal
+2026-06-13,5205513,GO,Dia de Santo Antônio
+2026-07-03,5205513,GO,Feriado Municipal
+2026-11-30,5205513,GO,Feriado Municipal
+2026-09-24,5205703,GO,Feriado Municipal
+2026-01-20,5205802,GO,Feriado Municipal
+2026-07-09,5205802,GO,Feriado Municipal
+2026-09-08,5205802,GO,Feriado Municipal
+2026-11-30,5205802,GO,Feriado Municipal
+2026-05-28,5205901,GO,Feriado Municipal
+2026-08-06,5205901,GO,Feriado Municipal
+2026-01-20,5206206,GO,Feriado Municipal
+2026-05-16,5206206,GO,Feriado Municipal
+2026-07-18,5206206,GO,Feriado Municipal
+2026-10-31,5206206,GO,Feriado Municipal
+2026-06-23,5206305,GO,Feriado Municipal
+2026-10-30,5206404,GO,Feriado Municipal
+2026-12-08,5206404,GO,Feriado Municipal
+2026-11-12,5206503,GO,Feriado Municipal
+2026-12-04,5206503,GO,Feriado Municipal
+2026-01-20,5206602,GO,Feriado Municipal
+2026-07-10,5206602,GO,Feriado Municipal
+2026-07-14,5206602,GO,Feriado Municipal
+2026-12-10,5206602,GO,Feriado Municipal
+2026-04-30,5206701,GO,Feriado Municipal
+2026-11-14,5206701,GO,Feriado Municipal
+2026-06-13,5206800,GO,Dia de Santo Antônio
+2026-11-14,5206800,GO,Feriado Municipal
+2026-12-17,5207105,GO,Feriado Municipal
+2026-05-14,5207253,GO,Feriado Municipal
+2026-09-29,5207253,GO,Feriado Municipal
+2026-06-13,5207402,GO,Dia de Santo Antônio
+2026-08-15,5207600,GO,Feriado Municipal
+2026-09-08,5207808,GO,Feriado Municipal
+2026-11-14,5207907,GO,Feriado Municipal
+2026-08-01,5208004,GO,Feriado Municipal
+2026-12-08,5208004,GO,Feriado Municipal
+2026-08-04,5208103,GO,Feriado Municipal
+2026-09-25,5208103,GO,Feriado Municipal
+2026-01-20,5208301,GO,Feriado Municipal
+2026-06-24,5208301,GO,Feriado Municipal
+2026-08-10,5208301,GO,Feriado Municipal
+2026-11-14,5208301,GO,Feriado Municipal
+2026-06-23,5208400,GO,Feriado Municipal
+2026-11-14,5208400,GO,Feriado Municipal
+2026-12-24,5208400,GO,Feriado Municipal
+2026-01-20,5208509,GO,Feriado Municipal
+2026-05-06,5208509,GO,Feriado Municipal
+2026-06-30,5208509,GO,Feriado Municipal
+2026-11-01,5208509,GO,Feriado Municipal
+2026-12-08,5208509,GO,Feriado Municipal
+2026-06-24,5208608,GO,Feriado Municipal
+2026-07-14,5208608,GO,Feriado Municipal
+2026-08-15,5208608,GO,Feriado Municipal
+2026-09-27,5208608,GO,Feriado Municipal
+2026-04-03,5208707,GO,Sexta-feira da Paixão
+2026-05-24,5208707,GO,Nossa Senhora Auxiliadora
+2026-06-04,5208707,GO,Corpus Christi
+2026-10-24,5208707,GO,Aniversário de Goiânia
+2026-01-04,5208806,GO,Feriado Municipal
+2026-03-25,5208806,GO,Feriado Municipal
+2026-07-26,5208905,GO,Fundação da Cidade
+2026-12-08,5208905,GO,Feriado Municipal
+2026-01-20,5209101,GO,Feriado Municipal
+2026-01-21,5209101,GO,Feriado Municipal
+2026-06-01,5209150,GO,Feriado Municipal
+2026-06-24,5209150,GO,Feriado Municipal
+2026-05-14,5209200,GO,Feriado Municipal
+2026-06-13,5209705,GO,Dia de Santo Antônio
+2026-11-05,5209705,GO,Feriado Municipal
+2026-11-14,5209804,GO,Feriado Municipal
+2026-11-14,5209903,GO,Feriado Municipal
+2026-03-19,5209937,GO,São José
+2026-04-29,5209937,GO,Feriado Municipal
+2026-02-01,5209952,GO,Feriado Municipal
+2026-04-22,5209952,GO,Feriado Municipal
+2026-05-14,5209952,GO,Feriado Municipal
+2026-03-19,5210000,GO,São José
+2026-07-26,5210000,GO,Feriado Municipal
+2026-08-15,5210109,GO,Feriado Municipal
+2026-09-12,5210109,GO,Feriado Municipal
+2026-05-24,5210208,GO,Feriado Municipal
+2026-11-19,5210208,GO,Feriado Municipal
+2026-01-20,5210406,GO,Feriado Municipal
+2026-08-15,5210406,GO,Feriado Municipal
+2026-11-09,5210406,GO,Feriado Municipal
+2026-01-20,5210604,GO,Feriado Municipal
+2026-11-14,5210604,GO,Feriado Municipal
+2026-06-24,5210802,GO,Feriado Municipal
+2026-11-14,5210802,GO,Feriado Municipal
+2026-08-11,5210901,GO,Feriado Municipal
+2026-08-08,5211008,GO,Feriado Municipal
+2026-11-14,5211008,GO,Feriado Municipal
+2026-01-06,5211206,GO,Feriado Municipal
+2026-01-20,5211305,GO,Feriado Municipal
+2026-07-21,5211305,GO,Feriado Municipal
+2026-08-15,5211305,GO,Feriado Municipal
+2026-08-15,5211404,GO,Feriado Municipal
+2026-05-22,5211503,GO,Feriado Municipal
+2026-08-15,5211701,GO,Feriado Municipal
+2026-01-20,5211800,GO,Feriado Municipal
+2026-07-29,5211800,GO,Feriado Municipal
+2026-09-08,5211800,GO,Feriado Municipal
+2026-05-31,5211909,GO,Feriado Municipal
+2026-08-15,5212105,GO,Feriado Municipal
+2026-11-14,5212105,GO,Feriado Municipal
+2026-11-14,5212204,GO,Feriado Municipal
+2026-11-27,5212204,GO,Feriado Municipal
+2026-01-20,5212303,GO,Feriado Municipal
+2026-05-24,5212303,GO,Feriado Municipal
+2026-08-15,5212303,GO,Feriado Municipal
+2026-09-02,5212303,GO,Feriado Municipal
+2026-11-30,5212501,GO,Dia do Evangélico
+2026-12-13,5212501,GO,Aniversário de Luziânia
+2026-11-13,5212600,GO,Feriado Municipal
+2026-11-14,5212709,GO,Feriado Municipal
+2026-12-08,5212709,GO,Feriado Municipal
+2026-06-13,5212808,GO,Dia de Santo Antônio
+2026-09-02,5212808,GO,Feriado Municipal
+2026-11-30,5212808,GO,Feriado Municipal
+2026-06-01,5212956,GO,Feriado Municipal
+2026-12-13,5212956,GO,Feriado Municipal
+2026-11-14,5213004,GO,Feriado Municipal
+2026-05-14,5213087,GO,Feriado Municipal
+2026-10-31,5213103,GO,Feriado Municipal
+2026-06-13,5213509,GO,Dia de Santo Antônio
+2026-08-15,5213509,GO,Feriado Municipal
+2026-08-15,5213756,GO,Feriado Municipal
+2026-12-30,5213756,GO,Feriado Municipal
+2026-07-16,5213806,GO,Feriado Municipal
+2026-08-29,5213806,GO,Aniversário da Cidade
+2026-03-19,5213905,GO,São José
+2026-11-14,5213905,GO,Feriado Municipal
+2026-06-27,5214002,GO,Feriado Municipal
+2026-06-10,5214051,GO,Feriado Municipal
+2026-08-25,5214408,GO,Feriado Municipal
+2026-08-03,5214507,GO,Feriado Municipal
+2026-03-19,5214606,GO,São José
+2026-07-25,5214606,GO,Feriado Municipal
+2026-08-15,5214606,GO,Feriado Municipal
+2026-01-20,5214804,GO,Feriado Municipal
+2026-05-13,5214804,GO,Feriado Municipal
+2026-08-15,5214804,GO,Feriado Municipal
+2026-11-13,5214804,GO,Feriado Municipal
+2026-02-01,5214838,GO,Feriado Municipal
+2026-06-13,5214838,GO,Dia de Santo Antônio
+2026-06-10,5214861,GO,Feriado Municipal
+2026-08-15,5214861,GO,Feriado Municipal
+2026-09-27,5214861,GO,Feriado Municipal
+2026-07-16,5215009,GO,Feriado Municipal
+2026-11-14,5215009,GO,Feriado Municipal
+2026-06-15,5215231,GO,Feriado Municipal
+2026-11-30,5215231,GO,Feriado Municipal
+2026-12-08,5215231,GO,Feriado Municipal
+2026-06-01,5215256,GO,Feriado Municipal
+2026-06-02,5215256,GO,Feriado Municipal
+2026-06-29,5215256,GO,Feriado Municipal
+2026-07-02,5215256,GO,Feriado Municipal
+2026-08-06,5215256,GO,Feriado Municipal
+2026-09-15,5215306,GO,Feriado Municipal
+2026-05-09,5215603,GO,Feriado Municipal
+2026-07-16,5215603,GO,Feriado Municipal
+2026-11-01,5215603,GO,Feriado Municipal
+2026-01-20,5215702,GO,Feriado Municipal
+2026-07-06,5215702,GO,Feriado Municipal
+2026-11-01,5216304,GO,Feriado Municipal
+2026-12-08,5216304,GO,Feriado Municipal
+2026-08-15,5216403,GO,Feriado Municipal
+2026-11-10,5216403,GO,Feriado Municipal
+2026-09-08,5216809,GO,Feriado Municipal
+2026-10-08,5216809,GO,Aniversário da Cidade
+2026-08-15,5217104,GO,Feriado Municipal
+2026-11-01,5217104,GO,Feriado Municipal
+2026-11-22,5217104,GO,Feriado Municipal
+2026-06-13,5217203,GO,Dia de Santo Antônio
+2026-06-13,5217401,GO,Dia de Santo Antônio
+2026-11-09,5217401,GO,Feriado Municipal
+2026-03-19,5217609,GO,São José
+2026-11-30,5217609,GO,Feriado Municipal
+2026-05-22,5217708,GO,Feriado Municipal
+2026-10-31,5217708,GO,Feriado Municipal
+2026-08-25,5218003,GO,Feriado Municipal
+2026-09-15,5218003,GO,Feriado Municipal
+2026-12-13,5218003,GO,Feriado Municipal
+2026-11-14,5218102,GO,Feriado Municipal
+2026-07-19,5218300,GO,Feriado Municipal
+2026-07-26,5218300,GO,Feriado Municipal
+2026-01-22,5218508,GO,Feriado Municipal
+2026-08-15,5218508,GO,Feriado Municipal
+2026-03-17,5218607,GO,Feriado Municipal
+2026-05-31,5218607,GO,Feriado Municipal
+2026-07-16,5218607,GO,Feriado Municipal
+2026-09-04,5218607,GO,Feriado Municipal
+2026-12-18,5218706,GO,Feriado Municipal
+2026-01-20,5218789,GO,Feriado Municipal
+2026-05-11,5218789,GO,Feriado Municipal
+2026-01-20,5218805,GO,Dia de São Sebastião (Padroeiro)
+2026-04-03,5218805,GO,Sexta-feira da Paixão
+2026-06-04,5218805,GO,Corpus Christi
+2026-08-05,5218805,GO,Aniversário de Rio Verde
+2026-08-15,5218904,GO,Feriado Municipal
+2026-01-05,5219001,GO,Feriado Municipal
+2026-08-15,5219001,GO,Feriado Municipal
+2026-06-04,5219100,GO,Corpus Christi
+2026-10-23,5219100,GO,Aniversário da cidade
+2026-12-04,5219100,GO,Santa Bárbara
+2026-12-08,5219209,GO,Feriado Municipal
+2026-06-01,5219258,GO,Feriado Municipal
+2026-05-18,5219308,GO,Feriado Municipal
+2026-08-20,5219308,GO,Feriado Municipal
+2026-05-22,5219407,GO,Feriado Municipal
+2026-08-15,5219506,GO,Feriado Municipal
+2026-11-14,5219506,GO,Feriado Municipal
+2026-03-08,5219753,GO,Feriado Municipal
+2026-05-14,5219753,GO,Feriado Municipal
+2026-06-13,5219753,GO,Dia de Santo Antônio
+2026-11-30,5219753,GO,Feriado Municipal
+2026-08-04,5219803,GO,Feriado Municipal
+2026-08-06,5219803,GO,Feriado Municipal
+2026-12-13,5219803,GO,Feriado Municipal
+2026-09-08,5219902,GO,Feriado Municipal
+2026-01-20,5220009,GO,Feriado Municipal
+2026-06-24,5220009,GO,Feriado Municipal
+2026-08-15,5220009,GO,Feriado Municipal
+2026-11-13,5220009,GO,Feriado Municipal
+2026-12-24,5220009,GO,Feriado Municipal
+2026-06-21,5220108,GO,Feriado Municipal
+2026-09-29,5220207,GO,Feriado Municipal
+2026-11-14,5220207,GO,Feriado Municipal
+2026-01-09,5220264,GO,Feriado Municipal
+2026-09-29,5220264,GO,Feriado Municipal
+2026-11-14,5220405,GO,Feriado Municipal
+2026-05-24,5220454,GO,Feriado Municipal
+2026-06-01,5220454,GO,Feriado Municipal
+2026-05-13,5220504,GO,Feriado Municipal
+2026-11-14,5220504,GO,Feriado Municipal
+2026-09-14,5220603,GO,Feriado Municipal
+2026-06-13,5221304,GO,Dia de Santo Antônio
+2026-08-15,5221304,GO,Feriado Municipal
+2026-06-28,5221403,GO,Feriado Municipal
+2026-06-29,5221403,GO,Feriado Municipal
+2026-07-02,5221403,GO,Feriado Municipal
+2026-08-31,5221403,GO,Feriado Municipal
+2026-06-14,5221502,GO,Feriado Municipal
+2026-11-14,5221502,GO,Feriado Municipal
+2026-06-01,5221551,GO,Feriado Municipal
+2026-08-05,5221551,GO,Feriado Municipal
+2026-07-04,5221601,GO,Feriado Municipal
+2026-07-26,5221601,GO,Feriado Municipal
+2026-01-20,5221700,GO,Feriado Municipal
+2026-09-14,5221700,GO,Feriado Municipal
+2026-08-06,5221809,GO,Feriado Municipal
+2026-04-03,5221858,GO,Sexta-feira da Paixão
+2026-06-15,5221858,GO,Aniversário
+2026-10-04,5221858,GO,Dia do Padroeiro
+2026-11-30,5221858,GO,Dia do Evangélico
+2026-03-19,5222005,GO,São José
+2026-08-19,5222005,GO,Feriado Municipal
+2026-01-20,5222054,GO,Feriado Municipal
+2026-06-10,5222054,GO,Feriado Municipal
+2026-02-08,5000203,MS,Aniversário
+2026-06-28,5000203,MS,Coração de Jesus
+2026-10-31,5000203,MS,Dia do Evangélico
+2026-05-24,5000609,MS,Feriado Municipal
+2026-09-28,5000609,MS,Feriado Municipal
+2026-02-11,5000708,MS,Feriado Municipal
+2026-05-08,5000708,MS,Feriado Municipal
+2026-06-24,5000807,MS,Feriado Municipal
+2026-11-11,5000807,MS,Feriado Municipal
+2026-05-13,5000856,MS,Feriado Municipal
+2026-06-29,5000856,MS,Feriado Municipal
+2026-03-18,5000906,MS,Feriado Municipal
+2026-06-27,5000906,MS,Feriado Municipal
+2026-09-28,5001003,MS,Feriado Municipal
+2026-08-15,5001102,MS,Feriado Municipal
+2026-12-08,5001102,MS,Feriado Municipal
+2026-05-13,5001243,MS,Feriado Municipal
+2026-06-20,5001508,MS,Feriado Municipal
+2026-06-24,5001904,MS,Feriado Municipal
+2026-08-15,5001904,MS,Feriado Municipal
+2026-12-11,5001904,MS,Feriado Municipal
+2026-07-20,5002100,MS,Feriado Municipal
+2026-08-01,5002100,MS,Feriado Municipal
+2026-12-08,5002100,MS,Feriado Municipal
+2026-01-06,5002159,MS,Feriado Municipal
+2026-05-13,5002159,MS,Feriado Municipal
+2026-06-27,5002159,MS,Feriado Municipal
+2026-06-29,5002209,MS,Padroeiro
+2026-10-02,5002209,MS,Aniversário
+2026-04-25,5002308,MS,Feriado Municipal
+2026-08-06,5002407,MS,Feriado Municipal
+2026-12-26,5002407,MS,Feriado Municipal
+2026-06-24,5002605,MS,Feriado Municipal
+2026-09-30,5002605,MS,Feriado Municipal
+2026-04-03,5002704,MS,Sexta-feira Santa
+2026-06-04,5002704,MS,Corpus Christi
+2026-06-13,5002704,MS,Dia de Santo Antônio
+2026-08-26,5002704,MS,Aniversário de Campo Grande
+2026-06-19,5002803,MS,Feriado Municipal
+2026-03-19,5002902,MS,São José
+2026-08-03,5002902,MS,Aniversário do município
+2026-06-29,5002951,MS,Feriado Municipal
+2026-12-08,5003157,MS,Feriado Municipal
+2026-12-15,5003157,MS,Feriado Municipal
+2026-02-02,5003207,MS,Nossa Sra da Candelária
+2026-04-03,5003207,MS,Sexta-feira da Paixão
+2026-06-13,5003207,MS,Retomada de Corumbá
+2026-09-21,5003207,MS,Fundação de Corumbá
+2026-05-12,5003256,MS,Feriado Municipal
+2026-06-13,5003256,MS,Dia de Santo Antônio
+2026-03-19,5003306,MS,São José
+2026-04-11,5003306,MS,Feriado Municipal
+2026-05-13,5003454,MS,Feriado Municipal
+2026-11-13,5003488,MS,Feriado Municipal
+2026-05-12,5003504,MS,Feriado Municipal
+2026-12-08,5003702,MS,Feriado Municipal
+2026-12-20,5003702,MS,Feriado Municipal
+2026-05-13,5003751,MS,Feriado Municipal
+2026-05-13,5003801,MS,Feriado Municipal
+2026-07-09,5003801,MS,Feriado Municipal
+2026-08-15,5003900,MS,Feriado Municipal
+2026-09-29,5003900,MS,Feriado Municipal
+2026-05-02,5004007,MS,Feriado Municipal
+2026-08-15,5004007,MS,Feriado Municipal
+2026-03-19,5004106,MS,São José
+2026-05-08,5004304,MS,Feriado Municipal
+2026-12-08,5004304,MS,Feriado Municipal
+2026-04-04,5004403,MS,Feriado Municipal
+2026-08-06,5004403,MS,Feriado Municipal
+2026-03-19,5004502,MS,São José
+2026-12-10,5004502,MS,Feriado Municipal
+2026-05-13,5004601,MS,Feriado Municipal
+2026-06-27,5004601,MS,Feriado Municipal
+2026-01-25,5004700,MS,Feriado Municipal
+2026-11-11,5004700,MS,Feriado Municipal
+2026-03-31,5004809,MS,Feriado Municipal
+2026-04-30,5004809,MS,Feriado Municipal
+2026-05-14,5005004,MS,Feriado Municipal
+2026-06-13,5005004,MS,Dia de Santo Antônio
+2026-06-29,5005103,MS,Feriado Municipal
+2026-11-11,5005103,MS,Feriado Municipal
+2026-12-13,5005103,MS,Feriado Municipal
+2026-12-13,5005152,MS,Feriado Municipal
+2026-12-14,5005152,MS,Feriado Municipal
+2026-09-02,5005202,MS,Feriado Municipal
+2026-04-22,5005251,MS,Feriado Municipal
+2026-05-26,5005251,MS,Feriado Municipal
+2026-06-11,5005400,MS,Aniversário da Cidade
+2026-04-19,5005608,MS,Feriado Municipal
+2026-07-16,5005608,MS,Feriado Municipal
+2026-12-08,5005608,MS,Feriado Municipal
+2026-05-13,5005681,MS,Feriado Municipal
+2026-05-13,5005707,MS,Feriado Municipal
+2026-11-11,5005707,MS,Feriado Municipal
+2026-04-08,5005806,MS,Feriado Municipal
+2026-04-19,5005806,MS,Dia do ìndio
+2026-05-22,5005806,MS,Feriado Municipal
+2026-07-18,5005806,MS,Feriado Municipal
+2026-07-25,5006002,MS,Feriado Municipal
+2026-04-30,5006200,MS,Feriado Municipal
+2026-05-31,5006200,MS,Feriado Municipal
+2026-04-30,5006259,MS,Feriado Municipal
+2026-06-14,5006259,MS,Feriado Municipal
+2026-07-04,5006309,MS,Feriado Municipal
+2026-07-26,5006309,MS,Feriado Municipal
+2026-06-24,5006358,MS,Feriado Municipal
+2026-11-17,5006358,MS,Feriado Municipal
+2026-12-08,5006358,MS,Feriado Municipal
+2026-01-20,5006408,MS,Feriado Municipal
+2026-11-11,5006408,MS,Feriado Municipal
+2026-03-19,5006606,MS,São José
+2026-07-18,5006606,MS,Aniversário da Cidade
+2026-06-13,5006903,MS,Dia de Santo Antônio
+2026-06-15,5006903,MS,Feriado Municipal
+2026-06-24,5006903,MS,Feriado Municipal
+2026-12-08,5006903,MS,Feriado Municipal
+2026-01-20,5007109,MS,Feriado Municipal
+2026-03-19,5007109,MS,São José
+2026-12-08,5007109,MS,Feriado Municipal
+2026-09-26,5007208,MS,Feriado Municipal
+2026-12-08,5007208,MS,Feriado Municipal
+2026-05-09,5007307,MS,Feriado Municipal
+2026-05-13,5007307,MS,Feriado Municipal
+2026-05-24,5007406,MS,Feriado Municipal
+2026-12-16,5007406,MS,Feriado Municipal
+2026-08-06,5007505,MS,Bom Jesus de Rochedo
+2026-11-23,5007505,MS,Feriado Municipal
+2026-05-22,5007554,MS,Feriado Municipal
+2026-12-18,5007554,MS,Feriado Municipal
+2026-05-12,5007695,MS,Feriado Municipal
+2026-09-29,5007695,MS,Feriado Municipal
+2026-05-13,5007703,MS,Feriado Municipal
+2026-08-15,5007703,MS,Feriado Municipal
+2026-12-08,5007703,MS,Feriado Municipal
+2026-05-12,5007802,MS,Feriado Municipal
+2026-06-24,5007802,MS,Feriado Municipal
+2026-08-15,5007901,MS,Feriado Municipal
+2026-12-11,5007901,MS,Feriado Municipal
+2026-06-03,5007935,MS,Feriado Municipal
+2026-01-20,5007950,MS,Feriado Municipal
+2026-05-13,5007950,MS,Feriado Municipal
+2026-12-08,5007950,MS,Feriado Municipal
+2026-05-12,5007976,MS,Feriado Municipal
+2026-05-08,5008008,MS,Feriado Municipal
+2026-06-13,5008008,MS,Dia de Santo Antônio
+2026-06-15,5008305,MS,Aniversário da Cidade
+2026-05-25,5008404,MS,Feriado Municipal
+2026-06-20,5008404,MS,Feriado Municipal
+2026-09-12,5008404,MS,Feriado Municipal
+2026-12-08,5008404,MS,Feriado Municipal
+2026-05-19,5100250,MT,Feriado Municipal
+2026-05-24,5100300,MT,Feriado Municipal
+2026-01-20,5100409,MT,Feriado Municipal
+2026-12-10,5100409,MT,Feriado Municipal
+2026-03-19,5100508,MT,São José
+2026-08-06,5100508,MT,Feriado Municipal
+2026-12-16,5100508,MT,Feriado Municipal
+2026-03-19,5100607,MT,"Dia de São José, padroeiro da cidade"
+2026-05-13,5100607,MT,Aniversário da cidade
+2026-05-14,5101001,MT,Feriado Municipal
+2026-02-02,5101258,MT,Emancipação Política
+2026-05-13,5101258,MT,Feriado Municipal
+2026-05-23,5101258,MT,Feriado Municipal
+2026-01-20,5101308,MT,Feriado Municipal
+2026-02-05,5101308,MT,Feriado Municipal
+2026-08-06,5101308,MT,Feriado Municipal
+2026-07-26,5101407,MT,Feriado Municipal
+2026-10-31,5101407,MT,Feriado Municipal
+2026-04-19,5101704,MT,Feriado Municipal
+2026-09-14,5101704,MT,Feriado Municipal
+2026-06-13,5101803,MT,Dia de Santo Antônio
+2026-09-15,5101803,MT,Feriado Municipal
+2026-06-01,5101902,MT,Feriado Municipal
+2026-08-25,5102504,MT,"Dia de São Luiz de Cáceres, Padroeiro da cidade"
+2026-10-06,5102504,MT,Aniversário da cidade
+2026-05-13,5102603,MT,Feriado Municipal
+2026-08-06,5102603,MT,Feriado Municipal
+2026-11-01,5102603,MT,Feriado Municipal
+2026-07-04,5102637,MT,Aniversário da Cidade
+2026-07-25,5102637,MT,Dia de São Cristóvão
+2026-07-04,5102678,MT,Emancipação do Município
+2026-07-25,5102678,MT,São Cristóvão
+2026-11-27,5102686,MT,Feriado Municipal
+2026-11-28,5102686,MT,Feriado Municipal
+2026-02-15,5102702,MT,Feriado Municipal
+2026-05-24,5102702,MT,Feriado Municipal
+2026-07-25,5102702,MT,Feriado Municipal
+2026-07-26,5103007,MT,Feriado Municipal
+2026-07-31,5103007,MT,Feriado Municipal
+2026-07-04,5103056,MT,Feriado Municipal
+2026-08-15,5103056,MT,Feriado Municipal
+2026-06-24,5103205,MT,Feriado Municipal
+2026-12-18,5103205,MT,Feriado Municipal
+2026-05-13,5103304,MT,Feriado Municipal
+2026-07-12,5103353,MT,Dia do Evangélico
+2026-07-29,5103353,MT,Feriado Municipal
+2026-04-03,5103403,MT,Sexta-feira Santa
+2026-04-08,5103403,MT,Aniversário de Cuiabá
+2026-06-04,5103403,MT,Corpus Christi
+2026-12-08,5103403,MT,Nossa Senhora da Conceição
+2026-05-06,5103452,MT,Feriado Municipal
+2026-07-25,5103452,MT,Feriado Municipal
+2026-09-18,5103502,MT,Feriado Municipal
+2026-12-08,5103502,MT,Feriado Municipal
+2026-01-20,5103601,MT,Feriado Municipal
+2026-04-14,5103601,MT,Feriado Municipal
+2026-06-29,5103700,MT,São Pedro Apóstolo
+2026-06-02,5104104,MT,Feriado Municipal
+2026-06-24,5104203,MT,Feriado Municipal
+2026-08-02,5104203,MT,Feriado Municipal
+2026-10-31,5104542,MT,Dia da Reforma Protestante
+2026-05-13,5104559,MT,Feriado Municipal
+2026-06-29,5104559,MT,Feriado Municipal
+2026-01-20,5104609,MT,Feriado Municipal
+2026-07-16,5104609,MT,Feriado Municipal
+2026-12-01,5104609,MT,Feriado Municipal
+2026-09-11,5104906,MT,Feriado Municipal
+2026-02-22,5105002,MT,Feriado Municipal
+2026-04-29,5105002,MT,Feriado Municipal
+2026-09-20,5105002,MT,Feriado Municipal
+2026-03-19,5105101,MT,São José
+2026-04-03,5105101,MT,Sexta-Feira Santa
+2026-06-04,5105101,MT,Corpus Christi
+2026-12-14,5105101,MT,Emancipação do Município
+2026-05-09,5105150,MT,Feriado Municipal
+2026-07-04,5105176,MT,Feriado Municipal
+2026-08-06,5105200,MT,Feriado Municipal
+2026-12-10,5105200,MT,Feriado Municipal
+2026-05-13,5105259,MT,Dia da Padroeira
+2026-08-05,5105259,MT,Aniversário da cidade
+2026-03-19,5105507,MT,Aniversário
+2026-05-13,5105580,MT,Feriado Municipal
+2026-10-31,5105580,MT,Feriado Municipal
+2026-12-08,5105580,MT,Feriado Municipal
+2026-07-04,5105606,MT,Feriado Municipal
+2026-07-25,5105606,MT,Feriado Municipal
+2026-02-27,5105622,MT,Pe. Thiago Cheza
+2026-04-03,5105622,MT,Sexta-feira Santa
+2026-05-14,5105622,MT,Emancipação Política
+2026-01-20,5105903,MT,Feriado Municipal
+2026-02-05,5106000,MT,Feriado Municipal
+2026-07-26,5106000,MT,Feriado Municipal
+2026-05-13,5106216,MT,Feriado Municipal
+2026-07-04,5106224,MT,Feriado Municipal
+2026-05-13,5106232,MT,Feriado Municipal
+2026-12-19,5106240,MT,Feriado Municipal
+2026-04-14,5106257,MT,Aniversário da Cidade
+2026-11-27,5106257,MT,Nossa Sra das Graças
+2026-05-13,5106281,MT,Feriado Municipal
+2026-07-26,5106281,MT,Feriado Municipal
+2026-06-29,5106299,MT,Feriado Municipal
+2026-06-29,5106307,MT,Feriado Municipal
+2026-12-03,5106307,MT,Feriado Municipal
+2026-12-17,5106307,MT,Feriado Municipal
+2026-05-13,5106372,MT,Feriado Municipal
+2026-06-29,5106372,MT,Feriado Municipal
+2026-05-13,5106422,MT,Feriado Municipal
+2026-01-21,5106505,MT,Feriado Municipal
+2026-08-06,5106752,MT,Feriado Municipal
+2026-06-13,5106778,MT,Dia de Santo Antônio
+2026-09-24,5106778,MT,Feriado Municipal
+2026-02-02,5106802,MT,Feriado Municipal
+2026-11-11,5106802,MT,Feriado Municipal
+2026-06-24,5107008,MT,Feriado Municipal
+2026-05-13,5107040,MT,Feriado Municipal
+2026-07-25,5107040,MT,Feriado Municipal
+2026-10-31,5107065,MT,Feriado Municipal
+2026-12-08,5107065,MT,N. Sra Imaculada Conceição
+2026-12-19,5107065,MT,Emancipação do Município
+2026-06-15,5107107,MT,Feriado Municipal
+2026-12-14,5107107,MT,Feriado Municipal
+2026-05-03,5107180,MT,Feriado Municipal
+2026-06-24,5107180,MT,Feriado Municipal
+2026-08-12,5107180,MT,Feriado Municipal
+2026-05-22,5107206,MT,Feriado Municipal
+2026-08-16,5107206,MT,Feriado Municipal
+2026-07-25,5107248,MT,Feriado Municipal
+2026-09-15,5107248,MT,Feriado Municipal
+2026-12-19,5107248,MT,Feriado Municipal
+2026-03-19,5107305,MT,São José
+2026-06-04,5107602,MT,Corpus Christi
+2026-12-10,5107602,MT,Feriado Municipal
+2026-06-25,5107701,MT,Feriado Municipal
+2026-05-22,5107768,MT,Dia da Padroeira
+2026-09-25,5107768,MT,Aniversário da Cidade
+2026-01-28,5107792,MT,Feriado Municipal
+2026-06-13,5107792,MT,Dia de Santo Antônio
+2026-05-05,5107800,MT,Feriado Municipal
+2026-06-13,5107800,MT,Dia de Santo Antônio
+2026-05-13,5107859,MT,Feriado Municipal
+2026-08-15,5107859,MT,Feriado Municipal
+2026-04-22,5107875,MT,Fundação do Município
+2026-05-13,5107875,MT,Dia da Padroeira
+2026-09-19,5107875,MT,Aniversário do Município
+2026-10-31,5107875,MT,Dia do Evangélico
+2026-06-13,5107909,MT,Dia de Santo Antônio
+2026-09-14,5107909,MT,Aniversário da Cidade
+2026-05-13,5107925,MT,Emancipação
+2026-06-29,5107925,MT,São Pedro
+2026-06-13,5107941,MT,Dia de Santo Antônio
+2026-09-20,5107941,MT,Feriado Municipal
+2026-05-13,5107958,MT,Feriado Municipal
+2026-07-04,5108006,MT,Feriado Municipal
+2026-05-13,5108055,MT,Feriado Municipal
+2026-04-30,5108204,MT,Feriado Municipal
+2026-12-10,5108204,MT,Feriado Municipal
+2026-04-03,5108402,MT,Sexta-Feira Santa
+2026-05-15,5108402,MT,Aniversário de Várzea Grande
+2026-06-04,5108402,MT,Corpus Christi
+2026-12-08,5108402,MT,Nossa Senhora da Conceição
+2026-05-13,5108501,MT,Emancipação do Município
+2026-07-27,5108501,MT,Fundação do Município
+2026-10-28,5108501,MT,São Judas Tadeu
+2026-05-13,5108600,MT,Feriado Municipal
+2026-06-29,5108600,MT,Feriado Municipal
+2026-08-10,5108600,MT,Feriado Municipal
+2026-08-26,5108907,MT,Feriado Municipal
+2026-06-13,5108956,MT,Dia de Santo Antônio
+2026-08-19,5108956,MT,Feriado Municipal
+2026-01-10,1700350,TO,Feriado Municipal
+2026-06-24,1700350,TO,Feriado Municipal
+2026-05-17,1700400,TO,Feriado Municipal
+2026-05-18,1700400,TO,Feriado Municipal
+2026-11-14,1700400,TO,Feriado Municipal
+2026-12-10,1700400,TO,Feriado Municipal
+2026-06-29,1701002,TO,Feriado Municipal
+2026-11-14,1702000,TO,Feriado Municipal
+2026-12-08,1702000,TO,Feriado Municipal
+2026-06-15,1702109,TO,Feriado Municipal
+2026-11-14,1702109,TO,Feriado Municipal
+2026-06-09,1702208,TO,Feriado Municipal
+2026-08-15,1702208,TO,Feriado Municipal
+2026-11-07,1702307,TO,Feriado Municipal
+2026-01-20,1702406,TO,Feriado Municipal
+2026-08-01,1702406,TO,Feriado Municipal
+2026-05-22,1702554,TO,Feriado Municipal
+2026-11-14,1703701,TO,Feriado Municipal
+2026-10-31,1705508,TO,Feriado Municipal
+2026-06-01,1705557,TO,Feriado Municipal
+2026-06-23,1706100,TO,Feriado Municipal
+2026-07-27,1706100,TO,Feriado Municipal
+2026-03-08,1707009,TO,"Dia internacional da mulher, de acordo com a ei nº 1190/2011"
+2026-03-19,1707009,TO,São José
+2026-08-26,1707009,TO,Feriado Municipal
+2026-06-01,1707108,TO,Feriado Municipal
+2026-07-16,1707108,TO,Feriado Municipal
+2026-05-13,1707553,TO,Feriado Municipal
+2026-05-14,1707553,TO,Feriado Municipal
+2026-12-21,1707553,TO,Feriado Municipal
+2026-06-10,1707652,TO,Feriado Municipal
+2026-06-24,1707652,TO,Feriado Municipal
+2026-09-21,1707702,TO,Dia do Feijão
+2026-06-24,1708205,TO,Feriado Municipal
+2026-08-23,1708205,TO,Feriado Municipal
+2026-04-11,1709302,TO,Feriado Municipal
+2026-06-29,1709302,TO,Feriado Municipal
+2026-06-13,1709500,TO,Padroeiro
+2026-09-27,1709500,TO,Dia do Evangélico
+2026-11-14,1709500,TO,Aniversário
+2026-11-30,1709500,TO,Feriado Municipal
+2026-02-20,1711902,TO,Feriado Municipal
+2026-08-15,1711902,TO,Feriado Municipal
+2026-06-25,1713205,TO,Feriado Municipal
+2026-08-25,1713205,TO,Feriado Municipal
+2026-10-01,1713205,TO,"Dia de Santa Teresinha do Menino Jesus, Padroeira do Município"
+2026-06-13,1713304,TO,Dia de Santo Antônio
+2026-11-08,1713304,TO,Feriado Municipal
+2026-06-01,1714203,TO,Feriado Municipal
+2026-08-15,1714203,TO,Feriado Municipal
+2026-08-16,1714203,TO,Feriado Municipal
+2026-06-10,1715754,TO,Feriado Municipal
+2026-11-27,1715754,TO,Feriado Municipal
+2026-06-29,1716505,TO,Feriado Municipal
+2026-07-15,1716505,TO,Feriado Municipal
+2026-06-20,1716604,TO,Feriado Municipal
+2026-08-15,1716604,TO,Feriado Municipal
+2026-05-14,1716703,TO,Feriado Municipal
+2026-08-06,1716703,TO,Feriado Municipal
+2026-12-26,1716703,TO,Feriado Municipal
+2026-07-13,1718204,TO,Feriado Municipal
+2026-09-24,1718204,TO,Feriado Municipal
+2026-01-20,1720655,TO,Feriado Municipal
+2026-06-10,1720655,TO,Feriado Municipal
+2026-06-10,1720903,TO,Feriado Municipal
+2026-05-26,1720978,TO,Feriado Municipal
+2026-03-19,1721000,TO,São José
+2026-04-03,1721000,TO,Sexta-feira da Paixão
+2026-05-20,1721000,TO,Aniversário de Palmas
+2026-06-04,1721000,TO,Corpus Christi
+2026-09-08,1721000,TO,Nossa Senhora da Natividade
+2026-11-30,1721000,TO,Dia do Evangélico
+2026-07-07,1721208,TO,Feriado Municipal
+2026-07-28,1721208,TO,Feriado Municipal
+2026-08-15,1721208,TO,Feriado Municipal
+2026-09-29,1722107,TO,Feriado Municipal
+2026-11-14,1722107,TO,Feriado Municipal
+2026-11-30,1722107,TO,Feriado Municipal

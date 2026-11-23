@@ -1,0 +1,40 @@
+# --- Segurança: nada de dados reais ou segredos no repositório ---
+*.pbix
+_extracao/
+.env
+/data/*
+!/data/public/
+
+# --- Python ---
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# --- dbt ---
+dbt/target/
+dbt/dbt_packages/
+dbt/logs/
+dbt/.user.yml
+logs/
+
+# --- MLflow / Airflow locais ---
+mlruns/
+mlartifacts/
+airflow/
+
+# --- IDE / SO ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Superset ---
+superset_home/
+
+# logs locais
+*.log

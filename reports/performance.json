@@ -1,0 +1,9 @@
+{
+  "cutoff": "2026-01-01 00:00:00",
+  "elasticidade_indice": -0.0671909880366426,
+  "spearman_oraculo": {
+    "venda_media": 0.4440532680238789,
+    "razao_ingenua": 0.5107082722879448,
+    "habilidade_est": 0.6901314206993069
+  }
+}

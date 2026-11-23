@@ -1,0 +1,13 @@
+.venv
+.git
+data
+reports
+mlruns
+mlartifacts
+dbt/target
+dbt/logs
+**/__pycache__
+**/*.egg-info
+.pytest_cache
+.ruff_cache
+

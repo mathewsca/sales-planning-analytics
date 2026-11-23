@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: ml_serie_mensal
+    description: "Séries de base (representante x município x canal x mês) com exógenas públicas; inclui 3 meses futuros."
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["unique_id", "ds"] }
+    columns:
+      - name: dias_uteis
+        data_tests: [not_null]
+  - name: ml_nowcast_diario
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["cod_representante", "data"] }
+  - name: ml_painel_campanha
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["cod_produto", "mes"] }

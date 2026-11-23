@@ -1,0 +1,36 @@
+{
+  "avaliacao": [
+    {
+      "fase_do_mes": "início (até 30% dos dias úteis)",
+      "n": 7420,
+      "wape_tendencia_legado": 0.4978315144788699,
+      "wape_tendencia_municipal": 0.49525905579704926,
+      "wape_media_3m": 0.24620155552885553,
+      "wape_modelo": 0.20994792209906152
+    },
+    {
+      "fase_do_mes": "meio (30-60%)",
+      "n": 7320,
+      "wape_tendencia_legado": 0.21253170808142746,
+      "wape_tendencia_municipal": 0.21261827767624286,
+      "wape_media_3m": 0.24270473121502387,
+      "wape_modelo": 0.15773389189145728
+    },
+    {
+      "fase_do_mes": "fim (60-95%)",
+      "n": 8920,
+      "wape_tendencia_legado": 0.10383295013959903,
+      "wape_tendencia_municipal": 0.10387527579766953,
+      "wape_media_3m": 0.24377420544804917,
+      "wape_modelo": 0.093934819074938
+    },
+    {
+      "fase_do_mes": "meses COM feriado estadual/municipal",
+      "n": 3779,
+      "wape_tendencia_legado": 0.2488003379868444,
+      "wape_tendencia_municipal": 0.24516839094235957,
+      "wape_media_3m": 0.24096707849811955,
+      "wape_modelo": 0.1490361841166973
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+data,uf,nome,tipo
+2022-01-01,DF,Confraternização Universal,NACIONAL
+2022-01-01,GO,Confraternização Universal,NACIONAL
+2022-01-01,MS,Confraternização Universal,NACIONAL
+2022-01-01,MT,Confraternização Universal,NACIONAL
+2022-01-01,TO,Confraternização Universal,NACIONAL
+2022-03-18,TO,Dia da Autonomia,ESTADUAL
+2022-04-15,DF,Sexta-feira Santa,NACIONAL
+2022-04-15,GO,Sexta-feira Santa,NACIONAL
+2022-04-15,MS,Sexta-feira Santa,NACIONAL
+2022-04-15,MT,Sexta-feira Santa,NACIONAL
+2022-04-15,TO,Sexta-feira Santa,NACIONAL
+2022-04-21,DF,Fundação de Brasília; Tiradentes,NACIONAL
+2022-04-21,GO,Tiradentes,NACIONAL
+2022-04-21,MS,Tiradentes,NACIONAL
+2022-04-21,MT,Tiradentes,NACIONAL
+2022-04-21,TO,Tiradentes,NACIONAL
+2022-05-01,DF,Dia do Trabalhador,NACIONAL
+2022-05-01,GO,Dia do Trabalhador,NACIONAL
+2022-05-01,MS,Dia do Trabalhador,NACIONAL
+2022-05-01,MT,Dia do Trabalhador,NACIONAL
+2022-05-01,TO,Dia do Trabalhador,NACIONAL
+2022-07-26,GO,Fundação da cidade de Goiás,ESTADUAL
+2022-09-07,DF,Independência do Brasil,NACIONAL
+2022-09-07,GO,Independência do Brasil,NACIONAL
+2022-09-07,MS,Independência do Brasil,NACIONAL
+2022-09-07,MT,Independência do Brasil,NACIONAL
+2022-09-07,TO,Independência do Brasil,NACIONAL
+2022-09-08,TO,Nossa Senhora da Natividade,ESTADUAL
+2022-10-05,TO,Criação do Estado,ESTADUAL
+2022-10-11,MS,Criação do Estado,ESTADUAL
+2022-10-12,DF,Nossa Senhora Aparecida,NACIONAL
+2022-10-12,GO,Nossa Senhora Aparecida,NACIONAL
+2022-10-12,MS,Nossa Senhora Aparecida,NACIONAL
+2022-10-12,MT,Nossa Senhora Aparecida,NACIONAL
+2022-10-12,TO,Nossa Senhora Aparecida,NACIONAL
+2022-10-24,GO,Pedra fundamental de Goiânia,ESTADUAL
+2022-11-02,DF,Finados,NACIONAL
+2022-11-02,GO,Finados,NACIONAL
+2022-11-02,MS,Finados,NACIONAL
+2022-11-02,MT,Finados,NACIONAL
+2022-11-02,TO,Finados,NACIONAL
+2022-11-15,DF,Proclamação da República,NACIONAL
+2022-11-15,GO,Proclamação da República,NACIONAL
+2022-11-15,MS,Proclamação da República,NACIONAL
+2022-11-15,MT,Proclamação da República,NACIONAL
+2022-11-15,TO,Proclamação da República,NACIONAL
+2022-11-20,MT,Consciência Negra,ESTADUAL
+2022-11-30,DF,Dia do Evangélico,ESTADUAL
+2022-12-25,DF,Natal,NACIONAL
+2022-12-25,GO,Natal,NACIONAL
+2022-12-25,MS,Natal,NACIONAL
+2022-12-25,MT,Natal,NACIONAL
+2022-12-25,TO,Natal,NACIONAL
+2023-01-01,DF,Confraternização Universal,NACIONAL
+2023-01-01,GO,Confraternização Universal,NACIONAL
+2023-01-01,MS,Confraternização Universal,NACIONAL
+2023-01-01,MT,Confraternização Universal,NACIONAL
+2023-01-01,TO,Confraternização Universal,NACIONAL
+2023-03-18,TO,Dia da Autonomia,ESTADUAL
+2023-04-07,DF,Sexta-feira Santa,NACIONAL
+2023-04-07,GO,Sexta-feira Santa,NACIONAL
+2023-04-07,MS,Sexta-feira Santa,NACIONAL
+2023-04-07,MT,Sexta-feira Santa,NACIONAL
+2023-04-07,TO,Sexta-feira Santa,NACIONAL
+2023-04-21,DF,Fundação de Brasília; Tiradentes,NACIONAL
+2023-04-21,GO,Tiradentes,NACIONAL
+2023-04-21,MS,Tiradentes,NACIONAL
+2023-04-21,MT,Tiradentes,NACIONAL
+2023-04-21,TO,Tiradentes,NACIONAL
+2023-05-01,DF,Dia do Trabalhador,NACIONAL
+2023-05-01,GO,Dia do Trabalhador,NACIONAL
+2023-05-01,MS,Dia do Trabalhador,NACIONAL
+2023-05-01,MT,Dia do Trabalhador,NACIONAL
+2023-05-01,TO,Dia do Trabalhador,NACIONAL
+2023-07-26,GO,Fundação da cidade de Goiás,ESTADUAL
+2023-09-07,DF,Independência do Brasil,NACIONAL
+2023-09-07,GO,Independência do Brasil,NACIONAL
+2023-09-07,MS,Independência do Brasil,NACIONAL
+2023-09-07,MT,Independência do Brasil,NACIONAL
+2023-09-07,TO,Independência do Brasil,NACIONAL
+2023-09-08,TO,Nossa Senhora da Natividade,ESTADUAL
+2023-10-05,TO,Criação do Estado,ESTADUAL
+2023-10-11,MS,Criação do Estado,ESTADUAL
+2023-10-12,DF,Nossa Senhora Aparecida,NACIONAL
+2023-10-12,GO,Nossa Senhora Aparecida,NACIONAL
+2023-10-12,MS,Nossa Senhora Aparecida,NACIONAL
+2023-10-12,MT,Nossa Senhora Aparecida,NACIONAL
+2023-10-12,TO,Nossa Senhora Aparecida,NACIONAL
+2023-10-24,GO,Pedra fundamental de Goiânia,ESTADUAL
+2023-11-02,DF,Finados,NACIONAL
+2023-11-02,GO,Finados,NACIONAL
+2023-11-02,MS,Finados,NACIONAL
+2023-11-02,MT,Finados,NACIONAL
+2023-11-02,TO,Finados,NACIONAL
+2023-11-15,DF,Proclamação da República,NACIONAL
+2023-11-15,GO,Proclamação da República,NACIONAL
+2023-11-15,MS,Proclamação da República,NACIONAL
+2023-11-15,MT,Proclamação da República,NACIONAL
+2023-11-15,TO,Proclamação da República,NACIONAL
+2023-11-20,MT,Consciência Negra,ESTADUAL
+2023-11-30,DF,Dia do Evangélico,ESTADUAL
+2023-12-25,DF,Natal,NACIONAL
+2023-12-25,GO,Natal,NACIONAL
+2023-12-25,MS,Natal,NACIONAL
+2023-12-25,MT,Natal,NACIONAL
+2023-12-25,TO,Natal,NACIONAL
+2024-01-01,DF,Confraternização Universal,NACIONAL
+2024-01-01,GO,Confraternização Universal,NACIONAL
+2024-01-01,MS,Confraternização Universal,NACIONAL
+2024-01-01,MT,Confraternização Universal,NACIONAL
+2024-01-01,TO,Confraternização Universal,NACIONAL
+2024-03-18,TO,Dia da Autonomia,ESTADUAL
+2024-03-29,DF,Sexta-feira Santa,NACIONAL
+2024-03-29,GO,Sexta-feira Santa,NACIONAL
+2024-03-29,MS,Sexta-feira Santa,NACIONAL
+2024-03-29,MT,Sexta-feira Santa,NACIONAL
+2024-03-29,TO,Sexta-feira Santa,NACIONAL
+2024-04-21,DF,Fundação de Brasília; Tiradentes,NACIONAL
+2024-04-21,GO,Tiradentes,NACIONAL
+2024-04-21,MS,Tiradentes,NACIONAL
+2024-04-21,MT,Tiradentes,NACIONAL
+2024-04-21,TO,Tiradentes,NACIONAL
+2024-05-01,DF,Dia do Trabalhador,NACIONAL
+2024-05-01,GO,Dia do Trabalhador,NACIONAL
+2024-05-01,MS,Dia do Trabalhador,NACIONAL
+2024-05-01,MT,Dia do Trabalhador,NACIONAL
+2024-05-01,TO,Dia do Trabalhador,NACIONAL
+2024-07-26,GO,Fundação da cidade de Goiás,ESTADUAL
+2024-09-07,DF,Independência do Brasil,NACIONAL
+2024-09-07,GO,Independência do Brasil,NACIONAL
+2024-09-07,MS,Independência do Brasil,NACIONAL
+2024-09-07,MT,Independência do Brasil,NACIONAL
+2024-09-07,TO,Independência do Brasil,NACIONAL
+2024-09-08,TO,Nossa Senhora da Natividade,ESTADUAL
+2024-10-05,TO,Criação do Estado,ESTADUAL
+2024-10-11,MS,Criação do Estado,ESTADUAL
+2024-10-12,DF,Nossa Senhora Aparecida,NACIONAL
+2024-10-12,GO,Nossa Senhora Aparecida,NACIONAL
+2024-10-12,MS,Nossa Senhora Aparecida,NACIONAL
+2024-10-12,MT,Nossa Senhora Aparecida,NACIONAL
+2024-10-12,TO,Nossa Senhora Aparecida,NACIONAL
+2024-10-24,GO,Pedra fundamental de Goiânia,ESTADUAL
+2024-11-02,DF,Finados,NACIONAL
+2024-11-02,GO,Finados,NACIONAL
+2024-11-02,MS,Finados,NACIONAL
+2024-11-02,MT,Finados,NACIONAL
+2024-11-02,TO,Finados,NACIONAL
+2024-11-15,DF,Proclamação da República,NACIONAL
+2024-11-15,GO,Proclamação da República,NACIONAL
+2024-11-15,MS,Proclamação da República,NACIONAL
+2024-11-15,MT,Proclamação da República,NACIONAL
+2024-11-15,TO,Proclamação da República,NACIONAL
+2024-11-20,DF,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2024-11-20,GO,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2024-11-20,MS,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2024-11-20,MT,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2024-11-20,TO,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2024-11-30,DF,Dia do Evangélico,ESTADUAL
+2024-12-25,DF,Natal,NACIONAL
+2024-12-25,GO,Natal,NACIONAL
+2024-12-25,MS,Natal,NACIONAL
+2024-12-25,MT,Natal,NACIONAL
+2024-12-25,TO,Natal,NACIONAL
+2025-01-01,DF,Confraternização Universal,NACIONAL
+2025-01-01,GO,Confraternização Universal,NACIONAL
+2025-01-01,MS,Confraternização Universal,NACIONAL
+2025-01-01,MT,Confraternização Universal,NACIONAL
+2025-01-01,TO,Confraternização Universal,NACIONAL
+2025-03-18,TO,Dia da Autonomia,ESTADUAL
+2025-04-18,DF,Sexta-feira Santa,NACIONAL
+2025-04-18,GO,Sexta-feira Santa,NACIONAL
+2025-04-18,MS,Sexta-feira Santa,NACIONAL
+2025-04-18,MT,Sexta-feira Santa,NACIONAL
+2025-04-18,TO,Sexta-feira Santa,NACIONAL
+2025-04-21,DF,Fundação de Brasília; Tiradentes,NACIONAL
+2025-04-21,GO,Tiradentes,NACIONAL
+2025-04-21,MS,Tiradentes,NACIONAL
+2025-04-21,MT,Tiradentes,NACIONAL
+2025-04-21,TO,Tiradentes,NACIONAL
+2025-05-01,DF,Dia do Trabalhador,NACIONAL
+2025-05-01,GO,Dia do Trabalhador,NACIONAL
+2025-05-01,MS,Dia do Trabalhador,NACIONAL
+2025-05-01,MT,Dia do Trabalhador,NACIONAL
+2025-05-01,TO,Dia do Trabalhador,NACIONAL
+2025-07-26,GO,Fundação da cidade de Goiás,ESTADUAL
+2025-09-07,DF,Independência do Brasil,NACIONAL
+2025-09-07,GO,Independência do Brasil,NACIONAL
+2025-09-07,MS,Independência do Brasil,NACIONAL
+2025-09-07,MT,Independência do Brasil,NACIONAL
+2025-09-07,TO,Independência do Brasil,NACIONAL
+2025-09-08,TO,Nossa Senhora da Natividade,ESTADUAL
+2025-10-05,TO,Criação do Estado,ESTADUAL
+2025-10-11,MS,Criação do Estado,ESTADUAL
+2025-10-12,DF,Nossa Senhora Aparecida,NACIONAL
+2025-10-12,GO,Nossa Senhora Aparecida,NACIONAL
+2025-10-12,MS,Nossa Senhora Aparecida,NACIONAL
+2025-10-12,MT,Nossa Senhora Aparecida,NACIONAL
+2025-10-12,TO,Nossa Senhora Aparecida,NACIONAL
+2025-10-24,GO,Pedra fundamental de Goiânia,ESTADUAL
+2025-11-02,DF,Finados,NACIONAL
+2025-11-02,GO,Finados,NACIONAL
+2025-11-02,MS,Finados,NACIONAL
+2025-11-02,MT,Finados,NACIONAL
+2025-11-02,TO,Finados,NACIONAL
+2025-11-15,DF,Proclamação da República,NACIONAL
+2025-11-15,GO,Proclamação da República,NACIONAL
+2025-11-15,MS,Proclamação da República,NACIONAL
+2025-11-15,MT,Proclamação da República,NACIONAL
+2025-11-15,TO,Proclamação da República,NACIONAL
+2025-11-20,DF,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2025-11-20,GO,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2025-11-20,MS,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2025-11-20,MT,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2025-11-20,TO,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2025-11-30,DF,Dia do Evangélico,ESTADUAL
+2025-12-25,DF,Natal,NACIONAL
+2025-12-25,GO,Natal,NACIONAL
+2025-12-25,MS,Natal,NACIONAL
+2025-12-25,MT,Natal,NACIONAL
+2025-12-25,TO,Natal,NACIONAL
+2026-01-01,DF,Confraternização Universal,NACIONAL
+2026-01-01,GO,Confraternização Universal,NACIONAL
+2026-01-01,MS,Confraternização Universal,NACIONAL
+2026-01-01,MT,Confraternização Universal,NACIONAL
+2026-01-01,TO,Confraternização Universal,NACIONAL
+2026-03-18,TO,Dia da Autonomia,ESTADUAL
+2026-04-03,DF,Sexta-feira Santa,NACIONAL
+2026-04-03,GO,Sexta-feira Santa,NACIONAL
+2026-04-03,MS,Sexta-feira Santa,NACIONAL
+2026-04-03,MT,Sexta-feira Santa,NACIONAL
+2026-04-03,TO,Sexta-feira Santa,NACIONAL
+2026-04-21,DF,Fundação de Brasília; Tiradentes,NACIONAL
+2026-04-21,GO,Tiradentes,NACIONAL
+2026-04-21,MS,Tiradentes,NACIONAL
+2026-04-21,MT,Tiradentes,NACIONAL
+2026-04-21,TO,Tiradentes,NACIONAL
+2026-05-01,DF,Dia do Trabalhador,NACIONAL
+2026-05-01,GO,Dia do Trabalhador,NACIONAL
+2026-05-01,MS,Dia do Trabalhador,NACIONAL
+2026-05-01,MT,Dia do Trabalhador,NACIONAL
+2026-05-01,TO,Dia do Trabalhador,NACIONAL
+2026-07-26,GO,Fundação da cidade de Goiás,ESTADUAL
+2026-09-07,DF,Independência do Brasil,NACIONAL
+2026-09-07,GO,Independência do Brasil,NACIONAL
+2026-09-07,MS,Independência do Brasil,NACIONAL
+2026-09-07,MT,Independência do Brasil,NACIONAL
+2026-09-07,TO,Independência do Brasil,NACIONAL
+2026-09-08,TO,Nossa Senhora da Natividade,ESTADUAL
+2026-10-05,TO,Criação do Estado,ESTADUAL
+2026-10-11,MS,Criação do Estado,ESTADUAL
+2026-10-12,DF,Nossa Senhora Aparecida,NACIONAL
+2026-10-12,GO,Nossa Senhora Aparecida,NACIONAL
+2026-10-12,MS,Nossa Senhora Aparecida,NACIONAL
+2026-10-12,MT,Nossa Senhora Aparecida,NACIONAL
+2026-10-12,TO,Nossa Senhora Aparecida,NACIONAL
+2026-10-24,GO,Pedra fundamental de Goiânia,ESTADUAL
+2026-11-02,DF,Finados,NACIONAL
+2026-11-02,GO,Finados,NACIONAL
+2026-11-02,MS,Finados,NACIONAL
+2026-11-02,MT,Finados,NACIONAL
+2026-11-02,TO,Finados,NACIONAL
+2026-11-15,DF,Proclamação da República,NACIONAL
+2026-11-15,GO,Proclamação da República,NACIONAL
+2026-11-15,MS,Proclamação da República,NACIONAL
+2026-11-15,MT,Proclamação da República,NACIONAL
+2026-11-15,TO,Proclamação da República,NACIONAL
+2026-11-20,DF,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2026-11-20,GO,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2026-11-20,MS,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2026-11-20,MT,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2026-11-20,TO,Dia Nacional de Zumbi e da Consciência Negra,NACIONAL
+2026-11-30,DF,Dia do Evangélico,ESTADUAL
+2026-12-25,DF,Natal,NACIONAL
+2026-12-25,GO,Natal,NACIONAL
+2026-12-25,MS,Natal,NACIONAL
+2026-12-25,MT,Natal,NACIONAL
+2026-12-25,TO,Natal,NACIONAL

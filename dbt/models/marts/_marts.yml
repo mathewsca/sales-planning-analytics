@@ -1,0 +1,86 @@
+version: 2
+
+models:
+  - name: dim_municipio
+    description: "Municípios IBGE (Centro-Oeste + TO) com população, PIB, filial mais próxima e índice de mercado."
+    columns:
+      - name: cod_ibge
+        data_tests: [unique, not_null]
+      - name: populacao
+        data_tests: [not_null, positive_value]
+      - name: indice_mercado
+        data_tests: [not_null]
+
+  - name: dim_calendario_municipal
+    description: "Calendário comercial por município: feriados nacionais, estaduais e municipais, vésperas e pontes."
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["cod_ibge", "data"] }
+    columns:
+      - name: peso_dia_util
+        data_tests:
+          - accepted_values:
+              arguments: { values: [0, 0.5, 1] }
+
+  - name: dim_calendario_representante
+    description: "Calendário comercial por representante: média dos calendários municipais da carteira, ponderada por clientes."
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["cod_representante", "data"] }
+
+  - name: dim_equipe
+    columns:
+      - name: cod_representante
+        data_tests: [unique, not_null]
+  - name: dim_cliente
+    columns:
+      - name: cod_cliente
+        data_tests: [unique, not_null]
+      - name: cod_representante
+        data_tests:
+          - relationships:
+              arguments: { to: ref('dim_equipe'), field: cod_representante }
+  - name: dim_produto
+    columns:
+      - name: cod_produto
+        data_tests: [unique, not_null]
+  - name: dim_campanha
+    columns:
+      - name: cod_campanha
+        data_tests: [unique, not_null]
+      - name: tipo
+        data_tests:
+          - accepted_values:
+              arguments: { values: ["F", "Q", "V"] }
+
+  - name: fct_vendas
+    description: "Fato de vendas (grão: item do pedido). Devoluções são linhas negativas."
+    columns:
+      - name: cod_cliente
+        data_tests:
+          - relationships:
+              arguments: { to: ref('dim_cliente'), field: cod_cliente }
+      - name: cod_produto
+        data_tests:
+          - relationships:
+              arguments: { to: ref('dim_produto'), field: cod_produto }
+      - name: canal
+        data_tests:
+          - accepted_values:
+              arguments: { values: ["Externo", "Interno"] }
+
+  - name: mart_carteira_mensal
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["cod_representante", "mes"] }
+  - name: mart_metas_legado
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["cod_representante", "mes"] }
+    columns:
+      - name: vlr_meta
+        data_tests: [positive_value]
+  - name: mart_oportunidade_municipio
+    columns:
+      - name: cod_ibge
+        data_tests: [unique, not_null]

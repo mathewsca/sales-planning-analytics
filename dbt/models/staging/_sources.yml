@@ -1,0 +1,50 @@
+version: 2
+
+sources:
+  - name: erp
+    description: "Extração bruta do ERP (sintético), carregada pela task `ingest` no schema raw."
+    schema: raw
+    tables:
+      - name: filiais
+      - name: coordenadores
+      - name: supervisores
+      - name: representantes
+      - name: vendedores_internos
+      - name: clientes
+      - name: fornecedores
+      - name: produtos
+      - name: campanhas
+      - name: campanhas_produtos
+      - name: metas_mensais
+      - name: metas_campanha
+      - name: vendas_itens
+        loaded_at_field: _loaded_at
+        freshness:
+          warn_after: { count: 2, period: day }
+
+  - name: public
+    description: "Dados públicos: IBGE (localidades, SIDRA 6579 população, SIDRA 5938 PIB) e feriados (nacionais, estaduais e municipais)."
+    schema: raw
+    tables:
+      - name: ibge_municipios
+      - name: feriados
+
+  - name: ml
+    description: "Saídas dos modelos Python (previsões, desempenho, metas, efeitos de campanha, monitoramento)."
+    schema: ml
+    tables:
+      - name: forecasts
+      - name: forecasts_history
+      - name: forecast_calibration
+      - name: backtest
+      - name: backtest_metrics
+      - name: nowcast
+      - name: nowcast_eval
+      - name: rep_performance
+      - name: quota_scenarios
+      - name: quota_summary
+      - name: quota_proposta
+      - name: campaign_effects
+      - name: campaign_event_study
+      - name: monitoring
+      - name: model_decisions

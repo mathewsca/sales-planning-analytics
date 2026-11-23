@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: rpt_vendas_mes_corrente
+    description: "VENDAS/GESTÃO: meta vigente, realizado, projeção e probabilidade de atingir, por representante (mês corrente)."
+    columns:
+      - name: cod_representante
+        data_tests: [unique, not_null]
+  - name: rpt_vendas_meta_diaria
+    description: "VENDAS: meta diária pelos dias úteis do município x realizado (mês corrente)."
+    data_tests:
+      - unique_combination:
+          arguments: { columns: ["cod_representante", "data"] }
+  - name: rpt_vendas_clientes_prioridade
+    description: "VENDAS: clientes não positivados no mês, priorizados por valor esperado."
+    columns:
+      - name: cod_cliente
+        data_tests: [unique]
+  - name: rpt_campanhas_mes
+    description: "VENDAS/GESTÃO: campanhas do mês: meta legada x meta proposta (efeito causal) x realizado."
+  - name: rpt_gestao_historico
+    description: "GESTÃO: histórico mensal por representante (meta legada, realizado, positivação, metas simuladas)."
+  - name: rpt_metodos_meta
+    description: "GESTÃO/DIRETORIA/FINANCEIRO: comparação dos métodos de meta e provisão de prêmio."
+  - name: rpt_previsao_empresa
+    description: "DIRETORIA/FINANCEIRO: realizado, previsão P10/P50/P90 e metas da empresa por mês."
+    columns:
+      - name: mes
+        data_tests: [unique, not_null]
+  - name: rpt_diretoria_mensal
+    description: "DIRETORIA: realizado mensal por UF, região intermediária e canal, com ano anterior."
+  - name: rpt_campanhas_retorno
+    description: "DIRETORIA/FINANCEIRO: retorno incremental (causal) das campanhas de fornecedores."
+  - name: rpt_financeiro_mensal
+    description: "FINANCEIRO/CONTABILIDADE: bruto, devoluções e líquido por filial, UF e canal."
